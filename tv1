@@ -2,7 +2,7 @@
 #EXTINF:-1 ,00.BTV
 http://tv.dflix.live:8082/53/mono.m3u8
 #EXTINF:-1 ,00.BTV world
-http://bdiptv.net:8080/BTVWorld/tracks-v1a1/mono.m3u8?token=8d109cd2dbbe7421f81d3c0eafb594b3c09201a9-1969889ceceb8059e33e6118cff4baaf-1604931826-1604921026
+http://bdiptv.net:8080/BTVWorld/tracks-v1a1/mono.m3u8?token=47985725c0ea37ed2c6a2c4b0049fa3062cbbc6e-f7230d890bcd71d1f7d857cc78fbf188-1605021032-1605010232
 #EXTINF:-1 ,01.ATN Bangla
 http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
 #EXTINF:-1 ,02.Channel i
