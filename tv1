@@ -41,6 +41,8 @@ http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
 #EXTINF:-1 ,17.My Tv
 http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
+#EXTINF:-1 ,17.Bangla tv
+http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
 #EXTINF:-1 ,18.GAZI TV 2
 http://tv.dflix.live:8082/1/mono.m3u8
 #EXTINF:-1 ,19.Asian TV
@@ -77,7 +79,7 @@ https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682
 http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
 #EXTINF:-1 ,30.Colors Bangla HD
 http://tv.dflix.live:8082/66/mono.m3u8
-#EXTINF:-1 ,31.Jolsha Movies
+#EXTINF:-1 ,31.Jolsha Movies b
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_jalsha_moviesPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1 ,32.Jolsha Movies 2
 http://tv.dflix.live:8082/31/mono.m3u8
@@ -148,11 +150,11 @@ http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #EXTINF:-1 ,49.Max HD
 http://tv.dflix.live:8082/77/mono.m3u8
 #EXTINF:-1 ,51.Star Gold HD
+http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
+#EXTINF:-1 ,51.Star Gold HD
 http://tv.dflix.live:8082/75/mono.m3u8
 #EXTINF:-1 ,50.Star Gold hd
 http://43.230.123.21:8080/live/star-gold.m3u8
-#EXTINF:-1 ,50.Star Gold
-http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8?
 #EXTINF:-1 ,50.Star Gold b
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_goldPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1 ,52.Star Gold 
