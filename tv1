@@ -18,7 +18,7 @@ http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
 #EXTINF:-1 ,07.Masranga
 http://tv.dflix.live:8082/51/mono.m3u8
 #EXTINF:-1 ,07.Masranga 2
-http://45.249.187.238:8081/hls/live6.m3u8
+http://tv.dflix.live:8082/51/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,08.SA TV
 http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 #EXTINF:-1 ,09.Boyshakhi
@@ -238,6 +238,8 @@ http://bdiptv.net:8080/SonyTen2/tracks-v1a1/mono.m3u8?token=a08fcabdf11452392d57
 http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 #EXTINF:-1 ,84.Sony ten 3  2
 http://tv.dflix.live:8082/22/mono.m3u8
+#EXTINF:-1 ,85.Star Sports 1 hindi
+http://tv.dflix.live:8082/25/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,85.Star Sports 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 ,86.Star Sports 1 HD TATA Sky
