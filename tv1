@@ -14,17 +14,17 @@ http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 #EXTINF:-1 ,05.Bangla Vision
 http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
 #EXTINF:-1 ,06.RTV
-http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
+http://30.30.30.30/live/skyfeed1002/index.m3u8
 #EXTINF:-1 ,07.Masranga
-http://tv.dflix.live:8082/51/mono.m3u8?token=313ef8f66b128415b6ec7449e063e45b11bf945a-8f28764074ff7f2af37dda38ffa0f377-1605605034-1605594234&remote=10.160.2.102
+http://11.11.11.11:8080/MASRANGA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,07.Masranga 2
-http://tv.dflix.live:8082/51/tracks-v1a1/mono.m3u8
+http://30.30.30.30/live/skyfeed1003/index.m3u8
 #EXTINF:-1 ,08.SA TV
 http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 #EXTINF:-1 ,09.Boyshakhi
 http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
 #EXTINF:-1 ,10.ETV
-http://tv.dflix.live:8082/65/mono.m3u8
+http://30.30.30.30/live/skyfeed1027/index.m3u8
 #EXTINF:-1 ,11.GAZI TV
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 ,12.Channel 9
@@ -46,7 +46,7 @@ http://tv.dflix.live:8082/19/index.m3u8?token=4078cba26688a8fde045b595f308ac3c92
 #EXTINF:-1 ,18.GAZI TV 2
 http://tv.dflix.live:8082/1/mono.m3u8
 #EXTINF:-1 ,19.Asian TV
-http://103.49.168.172:8081/ebox/bd_asian_tv/chunks.m3u8
+http://30.30.30.30/live/skyfeed1008/index.m3u8
 #EXTINF:-1 ,20.Dipto TV
 http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
 #EXTINF:-1 ,21.ATN News
@@ -116,10 +116,10 @@ http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
 http://tv.dflix.live:8082/68/mono.m3u8
 #EXTINF:-1 ,43.Colors
 http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
-#EXTINF:-1 ,45.Sony 2
+#EXTINF:-1 ,45.Sony e
 http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
-#EXTINF:-1 ,44.Sony
-http://103.205.133.50/hls/chs.m3u8
+#EXTINF:-1 ,44.Sony 11
+http://11.11.11.11:8080/SONYMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Bharat b
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_bharatPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1 ,46.Star Varat
@@ -209,7 +209,7 @@ https://edge01.iptv.digijadoo.net/live/quran_tv/chunks.m3u8
 #EXTINF:-1 ,72.Modina Tv
 https://edge01.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
 #EXTINF:-1 ,73.Peace Tv
-http://peacetv.ashttp22.visionip.tv/live/peacetv-peacetv-peacetv-bangla-hsslive-25f-16x9-SDq/chunklist.m3u8
+http://11.11.11.11:8080/PEACETV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,74.Sony Six
 http://otv.ftpbd.net/streams/106/index.m3u8
 #EXTINF:-1 ,75.Sony Six
