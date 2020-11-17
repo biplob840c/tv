@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 ,00.BTV
-http://tv.dflix.live:8082/53/mono.m3u8
+http://tv.dflix.live:8082/53/mono.m3u8?token=4c2a08d9a46181da2d2989586df0b28a49adbe98-a992d4ecb2976badebced89a54c9ae48-1605604675-1605593875&remote=10.160.2.102
 #EXTINF:-1 ,00.AR Tv
 https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
 #EXTINF:-1 ,01.ATN Bangla
@@ -16,7 +16,7 @@ http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
 #EXTINF:-1 ,06.RTV
 http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
 #EXTINF:-1 ,07.Masranga
-http://tv.dflix.live:8082/51/mono.m3u8
+http://tv.dflix.live:8082/51/mono.m3u8?token=313ef8f66b128415b6ec7449e063e45b11bf945a-8f28764074ff7f2af37dda38ffa0f377-1605605034-1605594234&remote=10.160.2.102
 #EXTINF:-1 ,07.Masranga 2
 http://tv.dflix.live:8082/51/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,08.SA TV
@@ -42,7 +42,7 @@ http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
 #EXTINF:-1 ,17.My Tv
 http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
 #EXTINF:-1 ,17.Bangla tv
-http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
+http://tv.dflix.live:8082/19/index.m3u8?token=4078cba26688a8fde045b595f308ac3c92218488-0cf680a99a69b2bbc4ec571ed6fe0a40-1605607105-1605596305&remote=45.123.40.154
 #EXTINF:-1 ,18.GAZI TV 2
 http://tv.dflix.live:8082/1/mono.m3u8
 #EXTINF:-1 ,19.Asian TV
@@ -68,7 +68,7 @@ http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
 #EXTINF:-1 ,28.Independent
 http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
 #EXTINF:-1 ,29.Star Jolsha
-http://tv.dflix.live:8082/30/mono.m3u8
+http://tv.dflix.live:8082/30/mono.m3u8?token=61a827c104bfb5ddea2f14eb2f2915fce6547074-68f241384d5b15c66223f6c0bb43ff61-1605607203-1605596403&remote=10.160.2.102
 http://103.205.133.50/hls/chsj.m3u8
 #EXTINF:-1 ,29.Star Jolsha HD
 http://43.230.123.21:8080/live/star-jalsha.m3u8
@@ -105,7 +105,7 @@ http://103.205.133.50/hls/sony8.m3u8
 #EXTINF:-1 ,38.Khusbu Bangla
 http://103.141.66.36/bpk-tv/10139/default/index.m3u8?
 #EXTINF:-1 ,39.Star Plus
-http://tv.dflix.live:8082/38/mono.m3u8
+http://tv.dflix.live:8082/38/mono.m3u8?token=d118423b1b6801c6a486c0fedc11a848f815c023-15766ec7795a47474d03b4bbec2eebd2-1605607252-1605596452&remote=10.160.2.102
 #EXTINF:-1 ,39.Star Plus
 http://103.205.133.50/hls/chsp.m3u8
 #EXTINF:-1 ,41.Star Plus HD 2
@@ -239,7 +239,7 @@ http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 #EXTINF:-1 ,84.Sony ten 3  2
 http://tv.dflix.live:8082/22/mono.m3u8
 #EXTINF:-1 ,85.Star Sports 1 hindi
-http://tv.dflix.live:8082/25/tracks-v1a1/mono.m3u8
+http://tv.dflix.live:8082/25/mono.m3u8?token=bbe3020c850e1f972547e98e42cf524ade63ac48-385513cc56b554ebb15b16ca07189585-1605607323-1605596523&remote=10.160.2.102
 #EXTINF:-1 ,85.Star Sports 1 HD
 http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
 #EXTINF:-1 ,86.Star Sports 1 HD TATA Sky
@@ -339,7 +339,7 @@ http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.f
 #EXTINF:-1 ,126.Comedy
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1 ,127.Sogeet Bangla
-http://tv.dflix.live:8082/96/mono.m3u8
+http://tv.dflix.live:8082/96/mono.m3u8?token=0b1f262494bcc558440b19361c33fad84da01f95-b26c5eb80467ab7a3cd672c09f189ae0-1605607882-1605597082&remote=10.160.2.102
 #EXTINF:-1 ,128.Gaan Bangla
 http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
 #EXTINF:-1 ,129.Doom
