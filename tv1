@@ -55,8 +55,8 @@ http://tv.dflix.live:8082/49/mono.m3u8
 http://tv.dflix.live:8082/9/mono.m3u8
 #EXTINF:-1 ,23.Duronto TV
 http://tv.dflix.live:8082/10/mono.m3u8
-#EXTINF:-1 ,23.Duronto
-http://tv.dflix.live:8082/10/mono.m3u8
+#EXTINF:-1 ,23.Duronto b
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk6y-dkf-5j4AJD-ort_124e_jRE357hKH_AZLY7831_duronto_tvTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port34_DH/chunklist_b3128000.m3u8
 #EXTINF:-1 ,24.News 24
 http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
 #EXTINF:-1 ,25.Jumuna TV
@@ -186,6 +186,8 @@ http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
 http://tv.dflix.live:8082/100/mono.m3u8
 #EXTINF:-1 ,61.Nick e
 http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1 ,61.Nick b
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk6y-dkf-5j4AJD-ort_124e_jRE357hKH_AZLY7831_nickelodeonTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port34_DH/chunklist_b3128000.m3u8
 #EXTINF:-1 ,62.Nick HD
 http://bdiptv.net:8080/Nick/tracks-v1a1/mono.m3u8?token=21d9f25813b09ce071932b97aa0b94baa060f766-37d8fbf4c59f451f4d11646a120770f2-1605609997-1605599197
 #EXTINF:-1 ,66.CN HD+
