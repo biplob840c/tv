@@ -42,9 +42,9 @@ http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
 #EXTINF:-1 ,17.My Tv
 http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
 #EXTINF:-1 ,17.Bangla tv
-http://tv.dflix.live:8082/19/index.m3u8?token=4078cba26688a8fde045b595f308ac3c92218488-0cf680a99a69b2bbc4ec571ed6fe0a40-1605607105-1605596305&remote=45.123.40.154
+http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
 #EXTINF:-1 ,18.GAZI TV 2
-http://tv.dflix.live:8082/1/mono.m3u8
+http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
 #EXTINF:-1 ,19.Asian TV
 http://30.30.30.30/live/skyfeed1008/index.m3u8
 #EXTINF:-1 ,20.Dipto TV
@@ -52,9 +52,9 @@ http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
 #EXTINF:-1 ,21.ATN News
 http://tv.dflix.live:8082/49/mono.m3u8
 #EXTINF:-1 ,22.Desh TV
-http://tv.dflix.live:8082/9/mono.m3u8
+http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
 #EXTINF:-1 ,23.Duronto TV
-http://tv.dflix.live:8082/10/mono.m3u8
+http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
 #EXTINF:-1 ,23.Duronto b
 https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk6y-dkf-5j4AJD-ort_124e_jRE357hKH_AZLY7831_duronto_tvTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port34_DH/chunklist_b3128000.m3u8
 #EXTINF:-1 ,24.News 24
@@ -67,7 +67,7 @@ http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
 http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
 #EXTINF:-1 ,28.Independent
 http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
-#EXTINF:-1 ,29.Star Jolsha
+#EXTINF:-1 ,29.Star Jolsha dflix
 http://tv.dflix.live:8082/30/mono.m3u8?token=61a827c104bfb5ddea2f14eb2f2915fce6547074-68f241384d5b15c66223f6c0bb43ff61-1605607203-1605596403&remote=10.160.2.102
 http://103.205.133.50/hls/chsj.m3u8
 #EXTINF:-1 ,29.Star Jolsha HD
@@ -76,16 +76,18 @@ http://43.230.123.21:8080/live/star-jalsha.m3u8
 http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
 #EXTINF:-1 ,30.Colors Bangla HD
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
-#EXTINF:-1 ,33.Jolsha Movies e
+#EXTINF:-1 ,33.Jolsha Movies b
+https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk6y-dkf-5j4AJD-ort_124e_jRE357hKH_AZLY7831_jalsha_moviesTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port34_DH/chunklist_b3128000.m3u8
+#EXTINF:-1 ,33.Jolsha Movies e2
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 ,33.Jolsha Movies e
+http://103.49.168.172:8081/ebox/in_jalshamovies/chunks.m3u8
 #EXTINF:-1 ,33.Jolsha Movies HD
 http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,33.Jolsha Movies HD
 http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1 ,34.Zee Bangla
 http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
-#EXTINF:-1 ,35.Zee Bangla 2
-http://tv.dflix.live:8082/34/mono.m3u8
 #EXTINF:-1 ,34.Zee Bangla
 http://103.205.133.50/hls/zeebangla.m3u8
 #EXTINF:-1 ,34.Zee Bangla hd
@@ -122,6 +124,8 @@ http://11.11.11.11:8080/SONYMAX/tracks-v1a1/mono.m3u8
 https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_bharatPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1 ,46.Star Varat
 http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
+#EXTINF:-1 ,46.Star Varat e
+http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8
 #EXTINF:-1 ,47.Zee Tv hd e
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:-1 ,47.Zee Tv
@@ -136,13 +140,13 @@ http://tv2.ebox.live:8080/live/sony-max.m3u8
 http://43.230.123.21:8080/live/sony-max.m3u8
 #EXTINF:-1 ,49.Max HD
 http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
-#EXTINF:-1 ,48.Max
+#EXTINF:-1 ,48.Max (ftpbd)
 http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:-1 ,48.Max 2 e
+#EXTINF:-1 ,48.Max 2 e2
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
-#EXTINF:-1 ,51.Star Gold HD
-http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
 #EXTINF:-1 ,51.Star Gold HD e
+http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
+#EXTINF:-1 ,51.Star Gold HD e2
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:-1 ,50.Star Gold hd
 http://43.230.123.21:8080/live/star-gold.m3u8
