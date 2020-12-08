@@ -14,7 +14,7 @@ http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 #EXTINF:-1 ,05.Bangla Vision
 http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
 #EXTINF:-1 ,06.RTV
-http://30.30.30.30/live/skyfeed1002/index.m3u8
+http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
 #EXTINF:-1 ,07.Masranga
 http://11.11.11.11:8080/MASRANGA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,07.Masranga 2
@@ -24,7 +24,7 @@ http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
 #EXTINF:-1 ,09.Boyshakhi
 http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
 #EXTINF:-1 ,10.ETV
-http://30.30.30.30/live/skyfeed1027/index.m3u8
+https://rhridoy136.shortcm.li/ekusheytv.m3u8
 #EXTINF:-1 ,11.T Spots
 http://113.212.111.246:8080/hls/col2.m3u8
 #EXTINF:-1 ,11.T Spots ftpbd
@@ -195,7 +195,7 @@ http://103.49.168.172:8081/ebox/in_bflix/chunks.m3u8
 http://tv.dflix.live:8082/45/mono.m3u8
 #EXTINF:-1 ,58.Akash
 http://tv.dflix.live:8082/32/mono.m3u8
-#EXTINF:-1 ,59.& picture HD
+#EXTINF:-1 ,59.& picture HD e
 http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
 #EXTINF:-1 ,60.& picture HD 2
 http://tv.dflix.live:8082/100/mono.m3u8
@@ -322,7 +322,7 @@ http://bdiptv.net:8080/MoviesNow/tracks-v1a1/mono.m3u8?token=0e048d76ab9d00ae68f
 #EXTINF:-1 ,105.MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 #EXTINF:-1 ,106.Romedy Now
-https://timesnow.airtel.tv/live/RN_pull/master.m3u8
+http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
 #EXTINF:-1 ,107.Lotus
 https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
 #EXTINF:-1 ,108.WB b
@@ -364,7 +364,7 @@ http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.f
 #EXTINF:-1 ,126.Comedy
 https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
 #EXTINF:-1 ,127.Sogeet Bangla
-http://tv.dflix.live:8082/96/mono.m3u8?token=0b1f262494bcc558440b19361c33fad84da01f95-b26c5eb80467ab7a3cd672c09f189ae0-1605607882-1605597082&remote=10.160.2.102
+http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
 #EXTINF:-1 ,128.Gaan Bangla
 http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
 #EXTINF:-1 ,129.Doom
