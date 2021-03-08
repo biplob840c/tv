@@ -1,76 +1,64 @@
 #EXTM3U
 #EXTINF:-1 ,00.BTV
-http://tv.dflix.live:8082/53/mono.m3u8?token=4c2a08d9a46181da2d2989586df0b28a49adbe98-a992d4ecb2976badebced89a54c9ae48-1605604675-1605593875&remote=10.160.2.102
-#EXTINF:-1 ,00.AR Tv
-https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp/ARTVN/d0dbe915091d400bd8ee7f27f0791303.sdp1/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+#EXTINF:-1 ,00.BTV CTG
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1 ,01.ATN Bangla
-http://103.49.168.172:8081/ebox/bd_atn_bangla/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,02.Channel i
-http://103.49.168.172:8081/ebox/bd_channel_i/chunks.m3u8
-#EXTINF:-1 ,03.Ekattor Tv
-http://103.49.168.172:8081/ebox/bd_ekattor_tv/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
+#EXTINF:-1 ,03.EKUSHEY TV [BD]
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/65.m3u8
 #EXTINF:-1 ,04.NTV
 http://103.49.168.172:8081/ebox/bd_ntv/chunks.m3u8
 #EXTINF:-1 ,05.Bangla Vision
-http://103.49.168.172:8081/ebox/bd_banglavision/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,06.RTV
-http://103.49.168.172:8081/ebox/bd_rtv/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 ,07.Masranga
 http://11.11.11.11:8080/MASRANGA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,07.Masranga 2
-http://30.30.30.30/live/skyfeed1003/index.m3u8
+https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:-1 ,08.SA TV
-http://103.49.168.172:8081/ebox/bd_satv/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 ,09.Boyshakhi
-http://103.49.168.172:8081/ebox/bd_boishakhi/chunks.m3u8
-#EXTINF:-1 ,10.ETV
-https://rhridoy136.shortcm.li/ekusheytv.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 ,10.MY TV
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 ,11.T Spots
-http://113.212.111.246:8080/hls/col2.m3u8
+http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 #EXTINF:-1 ,11.T Spots ftpbd
 http://otv.ftpbd.net/streams/108/index.m3u8
 #EXTINF:-1 ,11.T Spots
 http://11.11.11.11:8080/bplt20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,12.Channel 9
-http://103.49.168.172:8081/ebox/bd_channel_9/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 ,13.Nagorik TV
-http://103.49.168.172:8081/ebox/bd_nagorik_tv/chunks.m3u8
-#EXTINF:-1 ,13.Nagorik TV 2
-http://tv.dflix.live:8082/59/mono.m3u8
-#EXTINF:-1 ,14.Ekattor TV
-http://tv.dflix.live:8082/11/mono.m3u8
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/59.m3u8
 #EXTINF:-1 ,15.Anondo Tv
-http://103.49.168.172:8081/ebox/bd_anando_tv/chunks.m3u8
-#EXTINF:-1 ,16.Mohona
-http://103.49.168.172:8081/ebox/bd_mohona_tv/chunks.m3u8
-#EXTINF:-1 ,17.My Tv
-http://103.49.168.172:8081/ebox/bd_mytv/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u
+#EXTINF:-1 ,16.BIJOY TV HD [BD]
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 ,17.Bangla tv
-http://103.49.168.172:8081/ebox/bd_bangla_tv/chunks.m3u8
-#EXTINF:-1 ,18.GAZI TV 2
-http://103.49.168.172:8081/ebox/bd_gazi/chunks.m3u8
-#EXTINF:-1 ,19.Asian TV
-http://30.30.30.30/live/skyfeed1008/index.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
+#EXTINF:-1 ,18.GAZI TV
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/1.m3u8
+#EXTINF:-1 ,19.Ekattor
+http://103.102.136.106:8080/cmcltv/ekator.m3u8
 #EXTINF:-1 ,20.Dipto TV
-http://103.49.168.172:8081/ebox/bd_deepto/chunks.m3u8
-#EXTINF:-1 ,21.ATN News
-http://tv.dflix.live:8082/49/mono.m3u8
-#EXTINF:-1 ,22.Desh TV
-http://103.49.168.172:8081/ebox/bd_desh_tv/chunks.m3u8
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/8.m3u8
 #EXTINF:-1 ,23.Duronto TV
-http://103.49.168.172:8081/ebox/bd_duronto_tv/chunks.m3u8
-#EXTINF:-1 ,23.Duronto b
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk6y-dkf-5j4AJD-ort_124e_jRE357hKH_AZLY7831_duronto_tvTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port34_DH/chunklist_b3128000.m3u8
+http://freeiptv.thunderbd.com:25461/live/free/roarzone/10.m3u8
 #EXTINF:-1 ,24.News 24
-http://103.49.168.172:8081/ebox/bd_news24/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 ,25.Jumuna TV
-http://103.49.168.172:8081/ebox/bd_jamuna/chunks.m3u8
+http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 ,26.Channel 24
-http://103.49.168.172:8081/ebox/bd_channel24/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 ,27.DBC News
-http://103.49.168.172:8081/ebox/bd_dbc_news/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 ,28.Independent
-http://103.49.168.172:8081/ebox/bd_independent_tv/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,29.Star Jolsha 11.11
 http://11.11.11.11:8080/STARJALSHAHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,29.Star Jolsha
