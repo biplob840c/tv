@@ -59,18 +59,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 ,28.Independent
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
-#EXTINF:-1 ,29.Star Jolsha 11.11
-http://11.11.11.11:8080/STARJALSHAHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,29.Star Jolsha
-http://103.205.133.50/hls/chsj.m3u8
 #EXTINF:-1 ,29.Star Jolsha HD
 http://43.230.123.21:8080/live/star-jalsha.m3u8
-#EXTINF:-1 ,30.Colors Bangla
-http://103.49.168.172:8081/ebox/in_colorsbangla/chunks.m3u8
-#EXTINF:-1 ,30.Colors Bangla HD
+#EXTINF:-1 ,30.Colors Bangla e2
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
-#EXTINF:-1 ,33.Jolsha Movies b
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk6y-dkf-5j4AJD-ort_124e_jRE357hKH_AZLY7831_jalsha_moviesTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port34_DH/chunklist_b3128000.m3u8
 #EXTINF:-1 ,33.Jolsha Movies e2
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1 ,33.Jolsha Movies e
