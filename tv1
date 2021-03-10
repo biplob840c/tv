@@ -65,325 +65,91 @@ http://43.230.123.21:8080/live/star-jalsha.m3u8
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 ,33.Jolsha Movies e2
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
-#EXTINF:-1 ,33.Jolsha Movies e
-http://103.49.168.172:8081/ebox/in_jalshamovies/chunks.m3u8
 #EXTINF:-1 ,33.Jolsha Movies HD
 http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,33.Jolsha Movies HD
 http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1 ,33.Jolsha Movies ftpbd
 http://otv.ftpbd.net/streams/115/index.m3u8
-#EXTINF:-1 ,34.Zee Bangla e
-http://103.49.168.172:8081/ebox/in_zeebangla/chunks.m3u8
-#EXTINF:-1 ,34.Zee Bangla
-http://103.205.133.50/hls/zeebangla.m3u8
 #EXTINF:-1 ,34.Zee Bangla hd
 http://43.230.123.21:8080/live/zee-bangla.m3u8
-#EXTINF:-1 ,34.Zee Bangla hd 11.11.
-http://11.11.11.11:8080/ZEEBANGLA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,34.Zee Bangla f
 http://otv.ftpbd.net/streams/107/index.m3u8
-#EXTINF:-1 ,36.Zee Bangla Cenema
-http://tv.dflix.live:8082/29/mono.m3u8
-#EXTINF:-1 ,36.My Cenema
-https://tempe.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
-#EXTINF:-1 ,37.Sony att
-http://103.49.168.172:8081/ebox/in_sonyaath/chunks.m3u8
-#EXTINF:-1 ,37.Sony att
-http://103.205.133.50/hls/sony8.m3u8
-#EXTINF:-1 ,38.Khusbu Bangla
-http://103.141.66.36/bpk-tv/10139/default/index.m3u8?
-#EXTINF:-1 ,39.Star Plus e
+#EXTINF:-1 ,39.Star Plus e2
 http://tv2.ebox.live:8080/live/star-plus.m3u8
-#EXTINF:-1 ,39.Star Plus
-http://103.205.133.50/hls/chsp.m3u8
-#EXTINF:-1 ,41.Star Plus HD 2
-http://103.141.66.36/bpk-tv/10401/default/index.m3u8
-#EXTINF:-1 ,41.Star Plus HD 3
-http://dx3.gcdn.co/hindi-STARPLUSHD/index.m3u8
-#EXTINF:-1 ,42.Colors HD
+#EXTINF:-1 ,42.Colors HD e2
 http://tv2.ebox.live:8080/live/colors.m3u8
-#EXTINF:-1 ,43.Colors e
-http://103.49.168.172:8081/ebox/in_colors/chunks.m3u8
-#EXTINF:-1 ,45.Sony e
+#EXTINF:-1 ,45.Sony e2
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
-#EXTINF:-1 ,45.Sony e
-http://103.49.168.172:8081/ebox/in_sonytv_hd/chunks.m3u8
-#EXTINF:-1 ,44.Sony 11
-http://11.11.11.11:8080/SONYMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Star Bharat b
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_bharatPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-1 ,46.Star Varat
-http://dx3.gcdn.co/hindi-STARBHARATHD/index.m3u8
-#EXTINF:-1 ,46.Star Varat e
-http://103.49.168.172:8081/ebox/in_starbharat/chunks.m3u8
-#EXTINF:-1 ,47.Zee Tv hd e
+#EXTINF:-1 ,47.Zee Tv hd e2
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
-#EXTINF:-1 ,47.Zee Tv
-http://103.49.168.172:8081/ebox/in_zee_tv/chunks.m3u8
 #EXTINF:-1 ,45.Sony SAB
 http://43.230.123.21:8080/live/sony-sab.m3u8
-#EXTINF:-1 ,48.Max
-https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
-#EXTINF:-1 ,49.Max HD e
+#EXTINF:-1 ,49.Max HD e2
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 ,49.Max HD
 http://43.230.123.21:8080/live/sony-max.m3u8
-#EXTINF:-1 ,49.Max HD
-http://dx3.gcdn.co/hindi-SONYMAXHD/index.m3u8
 #EXTINF:-1 ,48.Max (ftpbd)
 http://otv.ftpbd.net/streams/109/index.m3u8
 #EXTINF:-1 ,48.Max 2 e2
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
-#EXTINF:-1 ,51.Star Gold HD e
-http://103.49.168.172:8081/ebox/in_stargold_hd/chunks.m3u8
 #EXTINF:-1 ,51.Star Gold HD e2
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:-1 ,50.Star Gold hd
 http://43.230.123.21:8080/live/star-gold.m3u8
-#EXTINF:-1 ,50.Star Gold b
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_star_goldPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
 #EXTINF:-1 ,52.Star Gold select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
-#EXTINF:-1 ,52.Star Gold select
-http://dx3.gcdn.co/hindi-StargoldselectHD/index.m3u8
-#EXTINF:-1,Star Gold 2
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_movies_okPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-1 ,53.Zee Cenema e
-http://103.49.168.172:8081/ebox/in_zee_cinema_hd/chunks.m3u8
 #EXTINF:-1 ,54.Zee Cenema e2
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
-#EXTINF:-1 ,54.Zee Cenema 11.11.
-http://11.11.11.11:8080/ZEECENEMA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,53.Zee Cenema hd
 http://43.230.123.21:8080/live/zee-cinema.m3u8
-#EXTINF:-1 ,53.Zee Cenema hd
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8 
-#EXTINF:-1 ,55.Zee cenema USA
-http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,55.Zee cenema Uk
-http://z5amshls.akamaized.net/cinemauk/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,55.& Picture
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 ,55.Zee Action
 https://y5w8j4a9.ssl.hwcdn.net/action/index.m3u8
 #EXTINF:-1 ,57.UTV Action f
 http://otv.ftpbd.net/streams/124/index.m3u8
-#EXTINF:-1 ,58.Beflix Movies
-http://103.49.168.172:8081/ebox/in_bflix/chunks.m3u8
-#EXTINF:-1 ,58.B4U Movies
-http://tv.dflix.live:8082/45/mono.m3u8
-#EXTINF:-1 ,58.Akash
-http://tv.dflix.live:8082/32/mono.m3u8
-#EXTINF:-1 ,59.& picture HD e
-http://103.49.168.172:8081/ebox/in_andpictures_hd/chunks.m3u8
-#EXTINF:-1 ,60.& picture HD 2
-http://tv.dflix.live:8082/100/mono.m3u8
-#EXTINF:-1 ,61.Nick e
+#EXTINF:-1 ,61.Nick e2
 http://tv2.ebox.live:8080/live/nick.m3u8
-#EXTINF:-1 ,61.Nick b
-https://ott.bingebd.com/live/ngrp:UHGrtTzwn-amdr-f26T357LLS-51kh-f9rt-9sez2-t9159b-xtr27r-lk6y-dkf-5j4AJD-ort_124e_jRE357hKH_AZLY7831_nickelodeonTRGX_9ty215SDE_s45IPLKH_prot_w23ekhfh_port34_DH/chunklist_b3128000.m3u8
-#EXTINF:-1 ,62.Nick HD
-http://bdiptv.net:8080/Nick/tracks-v1a1/mono.m3u8?token=21d9f25813b09ce071932b97aa0b94baa060f766-37d8fbf4c59f451f4d11646a120770f2-1605609997-1605599197
-#EXTINF:-1 ,66.CN HD+
-http://tv.dflix.live:8082/79/mono.m3u8
 #EXTINF:-1 ,66.CN f
 http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:-1 ,67.Desney
-http://45.249.187.238:8081/hls/live0.m3u8
 #EXTINF:-1 ,68.Animax
 http://45.126.83.51/dr9445/h/h144/01.m3u8
-#EXTINF:-1 ,69.Desney XD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/65.ts
-#EXTINF:-1 ,70.Nimo CN
-https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
-#EXTINF:-1 ,71.Mokkah Tv
-https://edge01.iptv.digijadoo.net/live/quran_tv/chunks.m3u8
-#EXTINF:-1 ,72.Modina Tv
-https://edge01.iptv.digijadoo.net/live/sunnah_tv/chunks.m3u8
-#EXTINF:-1 ,73.Peace Tv
-http://11.11.11.11:8080/PEACETV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,74.Sony Six ftpbd
+#EXTINF:-1 ,74.Sony Six f
 http://otv.ftpbd.net/streams/106/index.m3u8
-#EXTINF:-1 ,75.Sony Six
-http://103.49.168.172:8081/ebox/six/chunks.m3u8
-#EXTINF:-1 ,75.Sony Six 2
-http://tv.dflix.live:8082/24/mono.m3u8
-#EXTINF:-1 ,75.Sky sports
+#EXTINF:-1 ,75.Sky sports e2
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1 ,75.Sky-Sports-Mix
 http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
-#EXTINF:-1 ,77.Supper Cricket
-http://11.11.11.11:8080/GTV2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,80.DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1 ,82.Sony Ten 1
-http://103.49.168.172:8081/ebox/ten1/chunks.m3u8
-#EXTINF:-1 ,82.Sony Ten 1 2
-http://tv.dflix.live:8082/20/mono.m3u8
-#EXTINF:-1 ,82.Sony Ten 1 3
-http://bdiptv.net:8080/SonyTen1/tracks-v1a1/mono.m3u8?token=7d9af172bcaa76fa00530f7d8f54405479991eb0-78d2263337bda8f3c3e82107de561e3b-1604930680-1604919880
-#EXTINF:-1 ,83.Sony Ten 2 HD
-http://103.49.168.172:8081/ebox/ten2/chunks.m3u8
-#EXTINF:-1 ,84.Sony ten 2
-http://tv.dflix.live:8082/21/mono.m3u8
-#EXTINF:-1 ,84.Sony ten 2
-http://bdiptv.net:8080/SonyTen2/tracks-v1a1/mono.m3u8?token=a08fcabdf11452392d57f6669328df7789f4feaa-611eb945a62290cd515511211c7d7333-1604930800-1604920000
-#EXTINF:-1 ,84.Sony ten 3
-http://103.49.168.172:8081/ebox/ten3/chunks.m3u8
 #EXTINF:-1 ,84.starsports-1 ftpbd
 http://otv.ftpbd.net/streams/104/index.m3u8
-#EXTINF:-1 ,84.starsports-1
+#EXTINF:-1 ,84.starsports-e2
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:-1 ,85.Star Sports 1 hindi
-http://tv.dflix.live:8082/25/mono.m3u8?token=bbe3020c850e1f972547e98e42cf524ade63ac48-385513cc56b554ebb15b16ca07189585-1605607323-1605596523&remote=10.160.2.102
-#EXTINF:-1 ,85.Star Sports 1 HD
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/53.ts
-#EXTINF:-1 ,86.Star Sports 1 HD TATA Sky
+#EXTINF:-1 ,86.Star Sports 1 HD f
 http://otv.ftpbd.net/streams/104/index.m3u8
-#EXTINF:-1 ,87.Star Sports 2 HD TATA sky
+#EXTINF:-1 ,87.Star Sports 2 HD f
 http://otv.ftpbd.net/streams/116/index.m3u8
-#EXTINF:-1 ,88.Star Sports 2 e
+#EXTINF:-1 ,88.Star Sports 2 e2
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
-#EXTINF:-1 ,88.Star Sports 3 e
+#EXTINF:-1 ,88.Star Sports 3 e2
 http://tv2.ebox.live:8080/live/starsports-3.m3u8
-#EXTINF:-1 ,89.Star Sports Select 1 e
+#EXTINF:-1 ,89.Star Sports Select 1 e2
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
-#EXTINF:-1 ,90.Star Sports Select 1 
-http://30.30.30.30/live/skyfeed1019/index.m3u8
-#EXTINF:-1 ,91.Star Sports Select 2 TATA
+#EXTINF:-1 ,91.Star Sports Select 2 f
 http://otv.ftpbd.net/streams/114/index.m3u8
-#EXTINF:-1 ,91.Star Sports Select 2 e
+#EXTINF:-1 ,91.Star Sports Select 2 e2
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
-#EXTINF:-1 ,92.Star Sports 2
-http://103.205.133.50/hls/chss2.m3u8
 #EXTINF:-1 ,92.Star Sports 2 ftpbd
 http://otv.ftpbd.net/streams/116/index.m3u8
-#EXTINF:-1 ,93.STAR sports 1
-http://45.249.187.238:8081/hls/new2.m3u8
-#EXTINF:-1 ,94.PTV Sports
+#EXTINF:-1 ,94.PTV Sports e2
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
-#EXTINF:-1 ,94.PTV Sports 2
-http://livetv.colorsbd.com:8081/hdcrictv/ctg_ptvsports/chunks.m3u8
-#EXTINF:-1 ,95.Ten Sports
+#EXTINF:-1 ,95.Ten Sports e2
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
-#EXTINF:-1 ,95.Ten Sports 2
-http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
-#EXTINF:-1 ,96.Pix HD
-http://tv.dflix.live:8082/41/mono.m3u8
-#EXTINF:-1 ,96.Pix HD
-http://43.230.123.21:8080/live/sony-pix.m3u8
-#EXTINF:-1 ,96.Pix e
+#EXTINF:-1 ,96.Pix e2
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
-#EXTINF:-1 ,97.HBO
-http://bdiptv.net:8080/HBO/tracks-v1a1/mono.m3u8?token=5d0959c55b92aca83f26394dd4bc09960bc9bd83-6d2abf1b8b4105882a4a79ca098e55d1-1604929669-1604918869
-#EXTINF:-1 ,97.HBO e
-http://tv2.ebox.live:8080/live/hbo.m3u8
-#EXTINF:-1 ,98.HBO 2
-http://45.249.187.238:8081/hls/new13.m3u8
 #EXTINF:-1 ,99.Star Movies e
 http://tv2.ebox.live:8080/live/star-movies.m3u8
-#EXTINF:-1 ,99.Star Movies
-http://43.230.123.21:8080/live/star-movies.m3u8
-#EXTINF:-1 ,100.Star Movies Select HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/chunklist_w1770017437.m3u8
 #EXTINF:-1 ,99.Star Movies f
 http://otv.ftpbd.net/streams/125/index.m3u8
-#EXTINF:-1 ,101.MBC Max HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod_2.m3u8
-#EXTINF:-1 ,102.MBC 2 HD
-https://shls-mbc2-prod.shahid.net/mbc2-prod_2.m3u8
-#EXTINF:-1 ,103.MBC Action HD
-https://shls-mbcaction-prod.shahid.net/mbcaction-prod_2.m3u8
-#EXTINF:-1 ,104.Movies Now
-https://timesnow.airtel.tv/live/MN_pull/master.m3u8
-#EXTINF:-1 ,104.Movies Now
-http://bdiptv.net:8080/MoviesNow/tracks-v1a1/mono.m3u8?token=0e048d76ab9d00ae68fe0750379970272f457e5f-64799b357d15995998578409046b9b9d-1604932655-1604921855
-#EXTINF:-1 ,105.MNX
-https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
-#EXTINF:-1 ,106.Romedy Now
-http://103.49.168.172:8081/ebox/in_romedy_now/chunks.m3u8
-#EXTINF:-1 ,107.Lotus
-https://edge01.iptv.digijadoo.net/live/macau_lotus/chunks.m3u8
-#EXTINF:-1 ,108.WB b
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_wbPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-1 ,109.& privat HD
-https://kratoskadost.000webhostapp.com/rade/web.m3u8?c=andprivehd
-#EXTINF:-1 ,110.& flix
-http://tv.dflix.live:8082/78/mono.m3u8
-#EXTINF:-1 ,111.Tv 1000
-http://live-ng-01.more.tv/hls/TV1000_HD/index_1.m3u8
-#EXTINF:-1 ,112.Tv 1000 action
-http://live-ng-01.more.tv/hls/TV1000_Action_HD/index_1.m3u8
-#EXTINF:-1 ,113.Vip Premer HD
-http://live-ng-01.more.tv/hls/ViP_Premiere_HD/index_1.m3u8
-#EXTINF:-1 ,114.HBO Chinese
-http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
-#EXTINF:-1 ,115.Fox Movies
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/1664
-#EXTINF:-1 ,116.Fox Action
-http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 ,117.Nimo tv
-http://ws.flv.nimo.tv:80/live/su1599512427605rff6ca41e07b79b0994a9815c0ab31f5d.flv
-#EXTINF:-1 ,118.Marvel Movies
-http://ws.flv.nimo.tv:80/live/su1599512427626re02097385902583d031254e5d6f0c321.flv
-#EXTINF:-1 ,119.Sony Movies
-http://51.52.156.22:8888/http/009
-#EXTINF:-1 ,120.Flim 4
-http://51.52.156.22:8888/http/008
-#EXTINF:-1 ,121.Movies Kingdom
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
-#EXTINF:-1 ,122.Star World
-https://edge01.iptv.digijadoo.net/live/star_world/playlist.m3u8
-#EXTINF:-1 ,123.Star World Arab
-http://novaiptv.vip:80/nmbkxvrteswazx/9780854213567/5414
-#EXTINF:-1 ,124.AXN
-http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/42.ts
-#EXTINF:-1 ,125.MR Bin
-http://ws.flv.nimo.tv:80/live/su1599512427629r6867b820ecdb882cd1df6a2971cf8dea.flv
-#EXTINF:-1 ,126.Comedy
-https://edge01.iptv.digijadoo.net/live/diva/chunks.m3u8
-#EXTINF:-1 ,127.Sogeet Bangla
-http://103.49.168.172:8081/ebox/in_sangeetbangla/chunks.m3u8
-#EXTINF:-1 ,128.Gaan Bangla
-http://103.49.168.172:8081/ebox/bd_gaanbangla/chunks.m3u8
-#EXTINF:-1 ,129.Doom
-http://103.49.168.172:8081/ebox/in_dhoom/chunks.m3u8
-#EXTINF:-1 ,130.Bangla Talkies
-http://103.141.66.36/bpk-tv/10081/default/index.m3u8
-#EXTINF:-1 ,131.Zoom
-http://tv.dflix.live:8082/60/mono.m3u8
-#EXTINF:-1 ,131.Zoom 2
-http://bdiptv.net:8080/Zoom/tracks-v1a1/mono.m3u8?token=185230848d20b2a97f197ea0ec12955d1441b456-201ea5bbbcbbb4c7edee8168afe7a3d6-1604932318-1604921518
-#EXTINF:-1 ,132.Mtv
-http://bdiptv.net:8080/MTV/tracks-v1a1/mono.m3u8?token=49a1f4a9a57698b8c7c6064397ab74fd018bbe8c-3dfb3c0984c031c34878f5ce50ba2a79-1605003507-1604992707
-#EXTINF:-1 ,133.MTV Beats
-https://edge01.iptv.digijadoo.net/live/mtv_beats/chunks.m3u8
-#EXTINF:-1 ,134.B4U
-http://30.30.30.30/live/skyfeed1026/index.m3u8
-#EXTINF:-1 ,135.9xm
-http://tv.dflix.live:8082/48/mono.m3u8
-#EXTINF:-1 ,135.9xm
-http://bdiptv.net:8080/9XM/tracks-v1a1/mono.m3u8?token=9bcf8938687ab301c75c6fc394f34fd8fc1b8c98-2671ea097da96fef6e2a6bfda6de4ad2-1605003661-1604992861
-#EXTINF:-1 ,136.9xm jalwa
-http://bdiptv.net:8080/9XJalwa/tracks-v1a1/mono.m3u8?token=a3e0675e69a02f320ea1e468781104a73f5dfbe5-0bda4fce844545628be028b8ef21a5f7-1604932246-1604921446
-#EXTINF:-1 ,137.Zee Bangla Cenema
-http://tvserver.dflix.live:8082/29/index.m3u8?token=0dd598cf7d891fbe9d89adc9b6ce12a65458dcfc-d6fa833b477d04fb13c472dd7bc9b15a-1596237102-1596226302&remote=10.160.2.102
-#EXTINF:-1 ,138.Alzazira
-https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 ,139.BBC
-http://tv.dflix.live:8082/44/mono.m3u8
-#EXTINF:-1 ,140.CNN
-https://edge01.iptv.digijadoo.net/live/cnn/chunks.m3u8
-#EXTINF:-1 ,140.Discovery
-http://bdiptv.net:8080/Discovery/tracks-v1a1/mono.m3u8?token=5b0cf262af3bc8db6dbcb9c9e84ee91002ce0fb1-67dbd408034d0b448e7c5e149d8554a3-1604932472-1604921672
-#EXTINF:-1,Discovery Bangla b
-https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
-#EXTINF:-1,Discovery Hindi
-https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
-#EXTINF:-1,Discovery Kids b
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_discovery_kidsPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-1,Nat Geo Wild b
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_nat_geo_wildPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
-#EXTINF:-1,Animal Planet b
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_animal_planetPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
