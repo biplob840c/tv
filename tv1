@@ -34,7 +34,7 @@ http://11.11.11.11:8080/bplt20/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,12.Channel 9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 ,13.Nagorik TV
-http://freeiptv.thunderbd.com:25461/live/free/roarzone/59.m3u8
+http://103.49.168.170:8082/16/index.m3u8?token=4872fbc02ccd6ba722d8349de57507ae9dce16e7-aa0e5ae08f1938d8e5e71132f3181b6f-1615380616-1615369816&remote=192.168.49.10
 #EXTINF:-1 ,15.Anondo Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u
 #EXTINF:-1 ,16.BIJOY TV HD [BD]
