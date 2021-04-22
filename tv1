@@ -23,16 +23,18 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:-1 ,12.SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 ,12.Gazi tv
+http://43.230.123.20/hls/gazitv/index.m3u8
 #EXTINF:-1 ,13.Boyshakhi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,14.MY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 ,15.T Spots
-http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=bc467e6d60168e2642017d3e87433e4eb0abfdc8-f866eebbbb815409536530fd9c415651-1619005273-1618994473
+http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=357b2432e54573faedfeb8ecb1ff8cf3c0c68b20-54cdc79e106acf69eac9ea9a22ce8f7b-1619092082-1619081282
 #EXTINF:-1 ,16.Channel 9
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+http://tv.ebox.live/hls/channel9/index.m3u8
 #EXTINF:-1 ,17.deeptotv
-http://103.205.133.19/hls/deeptotv.m3u8
+http://tv.ebox.live/hls/deeptotv/index.m3u
 #EXTINF:-1 ,18.Nagorik
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 ,19.Anondo Tv
@@ -42,7 +44,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,21.Bangla tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 ,22.Ekattor
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=cbbc3127b6a1acbd05738b09ca1c553a3a525d8b-a16143e6132497282114c3158ff4f805-1619005371-1618994571
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=bc61916e20bd7faec7eba76269fca8134e1d7356-1a3ca59a1ff3cd181e2953ebfc859392-1619092121-1619081321
 #EXTINF:-1 ,23.My Cenama
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1 ,24.News 24
@@ -141,6 +143,8 @@ http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:-1 ,45.Star sports 1 HD e2
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 ,45.Star sports 1 HD e2
+http://tv2.ebox.live:8080/live/ex-titash2.m3u8
 #EXTINF:-1 ,45.Star sports Hindi
 http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u
 #EXTINF:-1 ,46.DD National
