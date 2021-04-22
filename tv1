@@ -10,7 +10,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,05.Channel i
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,06.Ekattor
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=efd486768f9be1bfab6b7a41eed26638c69172f4-7298bd292722bf259ce527e7262b1c02-1619103894-1619093094
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=347de6ba6a2368cfef262fb02617ff26a5b452c5-0de84530abfbaea2c16600eb46d3fa70-1619123687-1619112887
 #EXTINF:-1 ,07.Ntv
 http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:-1 ,08.EKUSHEY TV [BD]
@@ -32,7 +32,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,16.MY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 ,17.T Spots
-http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=a32defb8d8bfcf17066812d76f04613ed21e14ab-effdb2a7cc9801b25635ff9bf61edabd-1619103809-1619093009
+http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=3a5693a6649a0a22c9e4f8178f710c1445e2ac88-7df88d8771c75c19d74a8682d5fe1167-1619123618-1619112818
 #EXTINF:-1 ,18. Channel 9
 http://tv.ebox.live/hls/channel9/index.m3u8
 #EXTINF:-1 ,19.Nagorik
@@ -59,8 +59,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,31.Alif Tv
 http://128.199.212.160/alif/1080/index.m3u8
-#EXTINF:-1 ,32. itv
-http://162.244.81.142:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 ,33.Star Jolsha HD
 http://43.230.123.21:8080/live/star-jalsha.m3u8
 #EXTINF:-1 ,34.Colors Bangla e2
@@ -69,14 +67,10 @@ http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1 ,36.Jolsha Movies HD
 http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
-#EXTINF:-1 ,37.Jolsha Movies ftpbd
-http://otv.ftpbd.net/streams/115/index.m3u8
 #EXTINF:-1 ,38.Zee Bangla hd
-http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
-#EXTINF:-1 ,39.Zee Bangla f
-http://otv.ftpbd.net/streams/107/index.m3u8
+http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 ,40.Zee Bangla Cenema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
 #EXTINF:-1 ,41.Sony Att 
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 ,42.Ruposhibangla
@@ -105,8 +99,6 @@ http://43.230.123.21:8080/live/star-gold.m3u8
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 ,54.Zee Cenema e2
 http://tv2.ebox.live:8080/live/zee-cinema.m3u8
-#EXTINF:-1 ,55.Zee Cenema hd
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 #EXTINF:-1 ,56.& Picture
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 ,57.&TV
@@ -115,14 +107,8 @@ http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 ,59.Zee Action
 http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
-#EXTINF:-1 ,60.UTV Action f
-http://otv.ftpbd.net/streams/124/index.m3u8
 #EXTINF:-1 ,40.Nick e2
 http://tv2.ebox.live:8080/live/nick.m3u8
-#EXTINF:-1 ,41.CN f
-http://otv.ftpbd.net/streams/123/index.m3u8
-#EXTINF:-1 ,42.Animax
-http://45.126.83.51/dr9445/h/h144/01.m3u8
 #EXTINF:-1 ,42. Mokkah tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,42. Modina tv
@@ -161,22 +147,6 @@ http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 ,58.Ten Sports e2
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
-#EXTINF:-1 ,31.Zee Bangla hd
-http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
-#EXTINF:-1 ,32.Zee Bangla Cenema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,33.Sony Att 
-http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
-#EXTINF:-1 ,34.Zee Cenema hd
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
-#EXTINF:-1 ,35.& Picture
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
-#EXTINF:-1 ,36.&TV
-http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
-#EXTINF:-1 ,37.Befix Movie
-https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 ,38.Zee Action
-http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
 #EXTINF:-1 ,39. Mokkah tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,40. Modina tv
