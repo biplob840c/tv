@@ -59,6 +59,104 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:-1 ,30. itv
 http://162.244.81.142:1935/live/livestream/playlist.m3u8
+#EXTINF:-1 ,22.Star Jolsha HD
+http://43.230.123.21:8080/live/star-jalsha.m3u8
+#EXTINF:-1 ,23.Colors Bangla e2
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 ,24.Jolsha Movies e2
+http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 ,24.Jolsha Movies HD
+http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 ,24.Jolsha Movies ftpbd
+http://otv.ftpbd.net/streams/115/index.m3u8
+#EXTINF:-1 ,25.Zee Bangla hd
+http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
+#EXTINF:-1 ,25.Zee Bangla f
+http://otv.ftpbd.net/streams/107/index.m3u8
+#EXTINF:-1 ,25.Zee Bangla Cenema
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,26.Sony Att 
+http://103.205.133.19/hls/sony8.m3u8
+#EXTINF:-1 ,26.Ruposhibangla
+http://103.205.133.19/hls/ruposhibangla.m3u8
+#EXTINF:-1 ,27.Star Plus e2
+http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 ,28.Colors HD e2
+http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 ,29.Sony e2
+http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 ,30.Zee Tv hd e2
+http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 ,31.Sony SAB
+http://43.230.123.21:8080/live/sony-sab.m3u8
+#EXTINF:-1 ,32.Max HD e2
+http://tv2.ebox.live:8080/live/sony-max.m3u8
+#EXTINF:-1 ,32.Max HD
+http://43.230.123.21:8080/live/sony-max.m3u8
+#EXTINF:-1 ,32.Max (ftpbd)
+http://otv.ftpbd.net/streams/109/index.m3u8
+#EXTINF:-1 ,33.Star Gold HD e2
+http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 ,34.Star Gold hd
+http://43.230.123.21:8080/live/star-gold.m3u8
+#EXTINF:-1 ,35.Star Gold select
+http://43.230.123.21:8080/live/star-gold-select.m3u8
+#EXTINF:-1 ,36.Zee Cenema e2
+http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 ,36.Zee Cenema hd
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+#EXTINF:-1 ,37.& Picture
+https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+#EXTINF:-1 ,37.&TV
+http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
+#EXTINF:-1 ,37.Befix Movie
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+#EXTINF:-1 ,38.Zee Action
+http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
+#EXTINF:-1 ,39.UTV Action f
+http://otv.ftpbd.net/streams/124/index.m3u8
+#EXTINF:-1 ,40.Nick e2
+http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1 ,41.CN f
+http://otv.ftpbd.net/streams/123/index.m3u8
+#EXTINF:-1 ,42.Animax
+http://45.126.83.51/dr9445/h/h144/01.m3u8
+#EXTINF:-1 ,42. Mokkah tv
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?Live-TV%E2%84%A2
+#EXTINF:-1 ,42. Modina tv
+http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
+#EXTINF:-1 ,42.Peace TV
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 ,43.Sony Six HD
+http://tv2.ebox.live:8080/live/sonysix.m3u8
+#EXTINF:-1 ,43.Willow
+http://tv2.ebox.live:8080/live/willow-cric.m3u8
+#EXTINF:-1 ,44.Sky sports e2
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:-1 ,44.TEN 1 HD
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:-1 ,44.TEN 2 HD
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
+#EXTINF:-1 ,44.TEN 3 HD
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+#EXTINF:-1 ,45.Star sports 1 HD e2
+http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 ,45.Star sports Hindi
+http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u
+#EXTINF:-1 ,46.DD National
+http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 ,51.Star Sports 2 e2
+http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1 ,52.Star Sports 3 e2
+http://tv2.ebox.live:8080/live/starsports-3.m3u8
+#EXTINF:-1 ,53.Star Sports Select 1 e2
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF:-1 ,55.Star Sports Select 2 e2
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+#EXTINF:-1 ,57.PTV Sports e2
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
+#EXTINF:-1 ,58.Ten Sports e2
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:-1 ,31.Zee Bangla hd
 http://cv.khushitv.xyz/channels.php?c=zeebanglahd&e=.m3u8
 #EXTINF:-1 ,32.Zee Bangla Cenema
@@ -81,6 +179,10 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,41.Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 ,58.pix
+http://tv2.ebox.live:8080/live/sony-pix.m3u8
+#EXTINF:-1 ,58.AN Movies
+http://tv2.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:-1 ,42.& flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,43.MBC 2
