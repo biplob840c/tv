@@ -10,7 +10,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,05.Channel i
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,06.Ekattor
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=bc61916e20bd7faec7eba76269fca8134e1d7356-1a3ca59a1ff3cd181e2953ebfc859392-1619092121-1619081321
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=efd486768f9be1bfab6b7a41eed26638c69172f4-7298bd292722bf259ce527e7262b1c02-1619103894-1619093094
 #EXTINF:-1 ,07.Ntv
 http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:-1 ,08.EKUSHEY TV [BD]
@@ -18,7 +18,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,09.Bangla Vision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,10.RTV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+http://103.205.133.19/hls/rtv.m3u8
 #EXTINF:-1 ,11.Masranga
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1 ,12.Masranga 2
@@ -32,8 +32,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,16.MY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 ,17.T Spots
-http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=357b2432e54573faedfeb8ecb1ff8cf3c0c68b20-54cdc79e106acf69eac9ea9a22ce8f7b-1619092082-1619081282
-#EXTINF:-1 ,18.Channel 9
+http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=a32defb8d8bfcf17066812d76f04613ed21e14ab-effdb2a7cc9801b25635ff9bf61edabd-1619103809-1619093009
+#EXTINF:-1 ,18. Channel 9
 http://tv.ebox.live/hls/channel9/index.m3u8
 #EXTINF:-1 ,19.Nagorik
 http://103.205.133.19/hls/nagorik.m3u8
@@ -45,8 +45,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 ,23.Bangla tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
-#EXTINF:-1 ,24.Ekattor
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=bc61916e20bd7faec7eba76269fca8134e1d7356-1a3ca59a1ff3cd181e2953ebfc859392-1619092121-1619081321
 #EXTINF:-1 ,25.My Cenama
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mycinema-up2.stream/chunks.m3u8
 #EXTINF:-1 ,26.News 24
