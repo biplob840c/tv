@@ -33,10 +33,10 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=357b2432e54573faedfeb8ecb1ff8cf3c0c68b20-54cdc79e106acf69eac9ea9a22ce8f7b-1619092082-1619081282
 #EXTINF:-1 ,16.Channel 9
 http://tv.ebox.live/hls/channel9/index.m3u8
-#EXTINF:-1 ,17.deeptotv
-http://tv.ebox.live/hls/deeptotv/index.m3u8
 #EXTINF:-1 ,18.Nagorik
 http://103.205.133.19/hls/nagorik.m3u8
+#EXTINF:-1 ,18.Dipto TV
+http://tv.ebox.live/hls/deeptotv/index.m3u8
 #EXTINF:-1 ,19.Anondo Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 ,20.BIJOY TV HD [BD]
