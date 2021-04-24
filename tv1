@@ -10,7 +10,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,05.Channel i
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,06.Ekattor
-http://43.230.123.20:8082/11/index.m3u8?remote=192.168.49.10&token=8ba98c0c978a3ddc75022b115ba8a8dc86f0832e-1da51830692de90e2bf1c4cbb6a8a684-1619258629-1619247829
+http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=0abf9a6591e1bb18015659674ef3856de07e3d6b-c53cfbbb31ec057cba4a02d66763e112-1619270794-1619259994
 #EXTINF:-1 ,07.NTV
 http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:-1 ,08.EKUSHEY TV [BD]
@@ -26,13 +26,13 @@ https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:-1 ,13.SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 ,14.Gazi tv
-http://43.230.123.20:8082/1/index.m3u8?remote=192.168.49.10&token=a717a8e4767e6006ddc923d3745b87318876c267-9d87b9f4554ff6bb6931cd22fcc64f0a-1619258549-1619247749
+http://stream.amrbd.com:8082/GAZI/tracks-v1a1/mono.m3u8?token=a7e58d08da2f549be8e4c5a069491cfcadc22775-bea0419104678465e667a684ea7ba71c-1619270756-1619259956
 #EXTINF:-1 ,15.Boyshakhi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,16.MY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 ,17.T Spots
-http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=3a5693a6649a0a22c9e4f8178f710c1445e2ac88-7df88d8771c75c19d74a8682d5fe1167-1619123618-1619112818
+http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=2091662a26bd85e1827ac9188a6a8eff99d4a312-863da06b20e9ff9131a76d2acd6ebc7b-1619270878-1619260078
 #EXTINF:-1 ,18. Channel 9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 ,19.Nagorik
