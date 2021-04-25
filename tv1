@@ -120,7 +120,7 @@ http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 ,43.Willow
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:-1 ,44.Sky sports e2
-http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+http://otv.ftpbd.net:1932/X6RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/Sky-Sports-cric/chunks.m3u8
 #EXTINF:-1 ,44.TEN 1 HD
 http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 #EXTINF:-1 ,44.TEN 2 HD
