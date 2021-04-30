@@ -10,7 +10,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,05.Channel i
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,06.Ekattor
-http://stream.amrbd.com:8082/Ekattor-tv/tracks-v1a1/mono.m3u8?token=0abf9a6591e1bb18015659674ef3856de07e3d6b-c53cfbbb31ec057cba4a02d66763e112-1619270794-1619259994
+http://103.205.133.21/hls/ekatoortv.m3u8
 #EXTINF:-1 ,07.NTV
 http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:-1 ,08.EKUSHEY TV [BD]
@@ -39,6 +39,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 ,20.Dipto TV
 http://103.205.133.19/hls/deeptotv.m3u8
+#EXTINF:-1 ,20.Asian tv
+http://103.205.133.19/hls/asiantv.m3u8
 #EXTINF:-1 ,21.Anondo Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 ,22.BIJOY TV HD [BD]
