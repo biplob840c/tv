@@ -117,91 +117,59 @@ http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
 http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 ,42. Mokkah tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 ,42. Modina tv
+#EXTINF:-1 ,43. Modina tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 ,42.Peace TV Bangla
+#EXTINF:-1 ,44.Peace TV Bangla
 http://103.205.133.19/hls/peacetv.m3u8
-#EXTINF:-1 ,43.Sony Six HD
+#EXTINF:-1 ,45.Sony Six HD
 http://103.205.133.19/hls/sonysix.m3u8
-#EXTINF:-1 ,43.Willow
-http://tv2.ebox.live:8080/live/willow-cric.m3u8
-#EXTINF:-1 ,44.Sky sports e2
-http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
-#EXTINF:-1 ,44.TEN 1 HD
-http://tv2.ebox.live:8080/live/sonyten-1.m3u8
-#EXTINF:-1 ,44.TEN 2 HD
-http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:-1 ,44.TEN 3 HD
 http://103.205.133.19/hls/ten3.m3u8
-#EXTINF:-1 ,45.Star sports 1 HD e2
-http://tv2.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:-1 ,45.Star sports 1 HD e2
-http://tv2.ebox.live:8080/live/ex-titash2.m3u8
-#EXTINF:-1 ,45.Star sports Hindi
-http://tjszdhm3.tvclub.xyz/iptv/69AWBEYGGS5VZ6/2508/index.m3u
-#EXTINF:-1 ,46.DD National
+#EXTINF:-1 ,45.DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1 ,51.Star Sports 2 e2
-http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
-#EXTINF:-1 ,52.Star Sports 3 e2
-http://tv2.ebox.live:8080/live/starsports-3.m3u8
-#EXTINF:-1 ,53.Star Sports Select 1 e2
-http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
-#EXTINF:-1 ,55.Star Sports Select 2 e2
-http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
-#EXTINF:-1 ,57.PTV Sports e2
-http://tv2.ebox.live:8080/live/ptvsports.m3u8
-#EXTINF:-1 ,58.Ten Sports e2
-http://tv2.ebox.live:8080/live/ten-sports.m3u8
-#EXTINF:-1 ,39. Mokkah tv
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 ,40. Modina tv
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 ,41.Peace TV
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 ,42.HBO
+#EXTINF:-1 ,46.HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 ,42.Star Movies HD
+#EXTINF:-1 ,47.Star Movies HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
-#EXTINF:-1 ,42.& flix HD
+#EXTINF:-1 ,48.& flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,43.MBC 2
+#EXTINF:-1 ,49.MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
-#EXTINF:-1 ,43.MBC
+#EXTINF:-1 ,50.MBC
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
-#EXTINF:-1 ,44.Animel HD
+#EXTINF:-1 ,51.Animel HD
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
-#EXTINF:-1 ,45.Discovery hindi
+#EXTINF:-1 ,52.Discovery hindi
 https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
-#EXTINF:-1 ,46.TLC HD
+#EXTINF:-1 ,53.TLC HD
 https://itvorigin.multitvsolution.com:443/idvo/tlchdhindi_540p/index.m3u8
-#EXTINF:-1 ,47.gaanbangla
+#EXTINF:-1 ,54.gaanbangla
 http://103.205.133.19/hls/gaanbangla.m3u8
-#EXTINF:-1 ,47.Sangeet Bangla
+#EXTINF:-1 ,55.Sangeet Bangla
 http://103.205.133.19/hls/sangeetbangla.m3u8
-#EXTINF:-1 ,47.DHOOM
+#EXTINF:-1 ,56.DHOOM
 http://103.205.133.19/hls/dhoommusic.m3u8
-#EXTINF:-1 ,47.B4U
+#EXTINF:-1 ,57.B4U
 http://103.205.133.19/hls/b4umusic.m3u8
-#EXTINF:-1 ,49.9xm
+#EXTINF:-1 ,58.9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 ,50.9x jalwa
+#EXTINF:-1 ,59.9x jalwa
 https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
-#EXTINF:-1 ,51.Star Zing
+#EXTINF:-1 ,60.Zing
 https://y5w8j4a9.ssl.hwcdn.net/zing/tracks-v1a1/playlist.m3u8
-#EXTINF:-1 ,52.9x Tashan
+#EXTINF:-1 ,61.9x Tashan
 https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
-#EXTINF:-1 ,53.Music India
+#EXTINF:-1 ,62.Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:-1 ,54.Dil Se
+#EXTINF:-1 ,63.Dil Se
 https://live.hungama.com/linear/dil-se/playlist.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 ,55.Masthi
+#EXTINF:-1 ,64.Masthi
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 ,56.Mtv
+#EXTINF:-1 ,65.Mtv
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 ,57.Enter 10 Bangla
+#EXTINF:-1 ,66.Enter 10 Bangla
 https://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
-#EXTINF:-1 ,58.Movies Bangla
+#EXTINF:-1 ,67.Movies Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 ,59.Joy Jatra
+#EXTINF:-1 ,68.Joy Jatra
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
