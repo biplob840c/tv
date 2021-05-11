@@ -72,7 +72,7 @@ http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1 ,38.Zee Bangla hd
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 ,40.Zee Bangla Cenema
-http://tv2.ebox.live:8080/live/zee-cinema-bangla.m3u8
+https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
 #EXTINF:-1 ,41.Sony Att 
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 ,42.Ruposhibangla
@@ -81,26 +81,28 @@ http://103.205.133.19/hls/ruposhibangla.m3u8
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1 ,44.Colors HD e2
 http://tv2.ebox.live:8080/live/colors.m3u8
-#EXTINF:-1 ,45.Sony e2
-http://tv2.ebox.live:8080/live/sonyhd.m3u8
+#EXTINF:-1 ,45.Sony HD
+http://221.120.204.4/SONY-HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,46.Zee Tv hd e2
 http://tv2.ebox.live:8080/live/zee-tv.m3u8
 #EXTINF:-1 ,47.Sony SAB
-http://43.230.123.21:8080/live/sony-sab.m3u8
-#EXTINF:-1 ,48.Max HD e2
+http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,48.Max HD 
 http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,49.Max HD
-http://43.230.123.21:8080/live/sony-max.m3u8
-#EXTINF:-1 ,50.Max (ftpbd)
-http://otv.ftpbd.net/streams/109/index.m3u8
-#EXTINF:-1 ,51.Star Gold HD e2
-http://tv2.ebox.live:8080/live/star-gold.m3u8
+http://208.115.215.42/SonY_Max_HD/index.m3u8
+#EXTINF:-1 ,51.RASI HD
+http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:-1 ,52.Star Gold hd
 http://43.230.123.21:8080/live/star-gold.m3u8
 #EXTINF:-1 ,53.Star Gold select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
-#EXTINF:-1 ,54.Zee Cenema e2
-http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+#EXTINF:-1 ,54.Zee Cenema
+https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
+#EXTINF:-1 ,54.Zee Cenema HD
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+#EXTINF:-1 ,54.UTV Action
+http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,56.& Picture
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
 #EXTINF:-1 ,57.&TV
@@ -155,14 +157,12 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,41.Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
-#EXTINF:-1 ,58.pix
-http://tv2.ebox.live:8080/live/sony-pix.m3u8
-#EXTINF:-1 ,58.AN Movies
-http://tv2.ebox.live:8080/live/star-movies.m3u8
 #EXTINF:-1 ,42.& flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,43.MBC 2
 https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8
+#EXTINF:-1 ,43.MBC
+https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
 #EXTINF:-1 ,44.Animel HD
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 ,45.Discovery hindi
@@ -171,8 +171,6 @@ https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
 https://itvorigin.multitvsolution.com:443/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1 ,47.gaanbangla
 http://103.205.133.19/hls/gaanbangla.m3u8
-#EXTINF:-1 ,48.MTV Bets HD
-https://livevoot-i.akamaihd.net/dash/live/828547/mtvbeats/master.mpd
 #EXTINF:-1 ,49.9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ,50.9x jalwa
@@ -184,7 +182,7 @@ https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
 #EXTINF:-1 ,53.Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 ,54.Dil Se
-https://live.hungama.com/linear/dil-se/playlist.m3u8
+https://live.hungama.com/linear/dil-se/playlist.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,55.Masthi
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 ,56.Mtv
