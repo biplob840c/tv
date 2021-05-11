@@ -24,17 +24,15 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,12.Masranga 2
 https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:-1 ,13.SA TV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+http://103.205.133.19/hls/satv.m3u8
 #EXTINF:-1 ,14.Gazi tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,15.Boyshakhi
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+http://103.205.133.19/hls/boisakhi.m3u8
 #EXTINF:-1 ,16.MY TV
 http://103.205.133.19/hls/mytv.m3u8
-#EXTINF:-1 ,17.T Spots
-http://stream.amrbd.com:8082/kn10a/tracks-v1a1/mono.m3u8?token=2091662a26bd85e1827ac9188a6a8eff99d4a312-863da06b20e9ff9131a76d2acd6ebc7b-1619270878-1619260078
 #EXTINF:-1 ,18. Channel 9
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
+http://103.205.133.19/hls/ninechannel.m3u8
 #EXTINF:-1 ,19.Nagorik
 http://103.205.133.19/hls/nagorik.m3u8
 #EXTINF:-1 ,20.Dipto TV
@@ -63,28 +61,30 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:-1 ,33.Star Jolsha HD
 http://43.230.123.21:8080/live/star-jalsha.m3u8
-#EXTINF:-1 ,34.Colors Bangla e2
-http://tv2.ebox.live:8080/live/colors-bangla.m3u8
-#EXTINF:-1 ,35.Jolsha Movies e2
-http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 ,34.Colors Bangla
+http://103.205.133.19/hls/colorsbangla.m3u8
+#EXTINF:-1 ,35.Jolsha Movies 
+https://1449.myindian.tv/edge/19531/index.m3u8?token=48.1.7850.5b6712e65ca2a3b59e7e003169e19752.1.2.2.965.0.0.9b67a2a8ca4fd2314fa5ca86d76502ed
 #EXTINF:-1 ,36.Jolsha Movies HD
 http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
-#EXTINF:-1 ,38.Zee Bangla hd
-http://tv2.ebox.live:8080/live/zee-bangla.m3u8
+#EXTINF:-1 ,38.Zee Bangla
+http://103.205.133.19/hls/zeebanglahd.m3u8
 #EXTINF:-1 ,40.Zee Bangla Cenema
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
 #EXTINF:-1 ,41.Sony Att 
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 ,42.Ruposhibangla
 http://103.205.133.19/hls/ruposhibangla.m3u8
-#EXTINF:-1 ,43.Star Plus e2
-http://tv2.ebox.live:8080/live/star-plus.m3u8
-#EXTINF:-1 ,44.Colors HD e2
-http://tv2.ebox.live:8080/live/colors.m3u8
+#EXTINF:-1 ,43.Star Plus
+http://103.205.133.19/hls/chsp.m3u8
+#EXTINF:-1 ,44.Colors HD
+http://208.115.215.42/Colors_TV_HD/index.m3u8
+#EXTINF:-1 ,45.Sony
+http://103.205.133.19/hls/chs.m3u8
 #EXTINF:-1 ,45.Sony HD
 http://221.120.204.4/SONY-HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,46.Zee Tv hd e2
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
+#EXTINF:-1 ,46.Zee Tv
+http://103.205.133.19/hls/zeetvhd.m3u8
 #EXTINF:-1 ,47.Sony SAB
 http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,48.Max HD 
@@ -94,7 +94,7 @@ http://208.115.215.42/SonY_Max_HD/index.m3u8
 #EXTINF:-1 ,51.RASI HD
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:-1 ,52.Star Gold hd
-http://43.230.123.21:8080/live/star-gold.m3u8
+http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,53.Star Gold select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 ,54.Zee Cenema
@@ -105,8 +105,10 @@ https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,56.& Picture
 https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+#EXTINF:-1 ,56.B4U Movies
+http://103.205.133.19/hls/b4umovies.m3u8
 #EXTINF:-1 ,57.&TV
-http://cv.khushitv.xyz/channels.php?c=andtvsd&e=.m3u8
+http://103.205.133.19/hls/andtv.m3u8
 #EXTINF:-1 ,58.Befix Movie
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 ,59.Zee Action
@@ -117,10 +119,10 @@ http://tv2.ebox.live:8080/live/nick.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,42. Modina tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 ,42.Peace TV
-http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 ,42.Peace TV Bangla
+http://103.205.133.19/hls/peacetv.m3u8
 #EXTINF:-1 ,43.Sony Six HD
-http://tv2.ebox.live:8080/live/sonysix.m3u8
+http://103.205.133.19/hls/sonysix.m3u8
 #EXTINF:-1 ,43.Willow
 http://tv2.ebox.live:8080/live/willow-cric.m3u8
 #EXTINF:-1 ,44.Sky sports e2
@@ -130,7 +132,7 @@ http://tv2.ebox.live:8080/live/sonyten-1.m3u8
 #EXTINF:-1 ,44.TEN 2 HD
 http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:-1 ,44.TEN 3 HD
-http://tv2.ebox.live:8080/live/sonyten-3.m3u8
+http://103.205.133.19/hls/ten3.m3u8
 #EXTINF:-1 ,45.Star sports 1 HD e2
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:-1 ,45.Star sports 1 HD e2
@@ -157,6 +159,10 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,41.Peace TV
 http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 ,42.HBO
+http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+#EXTINF:-1 ,42.Star Movies HD
+http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
 #EXTINF:-1 ,42.& flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,43.MBC 2
@@ -171,6 +177,12 @@ https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
 https://itvorigin.multitvsolution.com:443/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1 ,47.gaanbangla
 http://103.205.133.19/hls/gaanbangla.m3u8
+#EXTINF:-1 ,47.Sangeet Bangla
+http://103.205.133.19/hls/sangeetbangla.m3u8
+#EXTINF:-1 ,47.DHOOM
+http://103.205.133.19/hls/dhoommusic.m3u8
+#EXTINF:-1 ,47.B4U
+http://103.205.133.19/hls/b4umusic.m3u8
 #EXTINF:-1 ,49.9xm
 http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ,50.9x jalwa
