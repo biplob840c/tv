@@ -33,6 +33,8 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,14.TEN 2
 http://tv2.ebox.live:8080/live/nk-six.m3u8
+#EXTINF:-1 ,14.TEN 2
+http://tv.pmcon.net/hls/stream39.m3u8
 #EXTINF:-1 ,15.Boyshakhi
 http://103.205.133.19/hls/boisakhi.m3u8
 #EXTINF:-1 ,16.MY TV
@@ -163,10 +165,16 @@ http://103.205.133.19/hls/peacetv.m3u8
 http://tv.pmcon.net/hls/stream11.m3u8
 #EXTINF:-1 ,44. star sports-1
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 ,44. star sports-1 hindi
+http://tv.pmcon.net/hls/stream15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2
 http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:-1 ,44. star sports-2
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
+#EXTINF:-1 ,44. star sports-2
+http://tv.pmcon.net/hls/stream16.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TL2jAU6.png", Star Sports Select 1 HD 
+http://tv.pmcon.net/hls/stream12.m3u8
 #EXTINF:-1 ,45.Sony Six HD
 http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:-1 ,45.Sony Six HD
