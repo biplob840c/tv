@@ -16,7 +16,7 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 ,07.NTV
 http://103.205.133.19/hls/ntv.m3u8
 #EXTINF:-1 ,08.EKUSHEY TV [BD]
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+http://103.205.133.19/hls/ekushey.m3u8
 #EXTINF:-1 ,09.Bangla Vision
 http://103.205.133.19/hls/banglavision.m3u8
 #EXTINF:-1 ,10.RTV
