@@ -75,6 +75,8 @@ http://103.205.133.19/hls/colorsbangla.m3u8
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 ,33.Jolsha Movies hd
 http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
+#EXTINF:-1 ,33.Jolsha Movies hd
+http://tv.pmcon.net/hls/stream27.m3u8
 #EXTINF:-1 ,34.Jolsha Movies HD
 http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1 ,35.Zee Bangla
@@ -89,6 +91,8 @@ http://103.205.133.19/hls/sony8.m3u8
 http://103.205.133.19/hls/ruposhibangla.m3u8
 #EXTINF:-1 ,39.Star Plus
 http://103.205.133.19/hls/chsp.m3u8
+#EXTINF:-1 ,39.Star Plus HD
+http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF:-1 ,39.Star Plus hd
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1 ,40.Colors HD
@@ -110,13 +114,19 @@ http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,48.Max hd
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 ,48.Max HD 
+http://prox.x86.co.uk/index.php/http://208.115.215.42:80/Sony_Max_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,48.Max HD 
 http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,49.Max HD
 http://208.115.215.42/SonY_Max_HD/index.m3u8
 #EXTINF:-1 ,49.Max 2
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
+#EXTINF:-1 ,49.Star gold HD
+http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,49.Star gold hd
 http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF:-1 ,49.Star gold HD
+http://tv.pmcon.net/hls/stream19.m3u8
 #EXTINF:-1 ,51.RASI HD
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:-1 ,52.Star Gold hd
@@ -149,14 +159,32 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,44.Peace TV Bangla
 http://103.205.133.19/hls/peacetv.m3u8
+#EXTINF:-1 ,44. PTV sports
+http://tv.pmcon.net/hls/stream11.m3u8
 #EXTINF:-1 ,44. star sports-1
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2
+http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:-1 ,44. star sports-2
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 ,45.Sony Six HD
+http://tv.pmcon.net/hls/stream10.m3u8
+#EXTINF:-1 ,45.Sony Six HD
 http://103.205.133.19/hls/sonysix.m3u8
+#EXTINF:-1 ,44.TEN 1 HD
+http://tv.pmcon.net/hls/stream40.m3u8
+#EXTINF:-1 ,44.TEN 1 HD
+http://103.109.56.116/live/skyfeed1017/index.m3u8
 #EXTINF:-1 ,44.TEN 3 HD
 http://103.205.133.19/hls/ten3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6HReXT.png", Sky Sports Cricket
+http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/C49YuUd.jpg", Sky Sports Football
+http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
+http://tv.pmcon.net/hls/stream34.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket (2)
+http://180.210.191.2/hls/stream34.m3u8
 #EXTINF:-1 ,45.DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1 ,46.HBO hd
@@ -183,6 +211,8 @@ https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
 https://itvorigin.multitvsolution.com:443/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1 ,54.gaanbangla
 http://103.205.133.19/hls/gaanbangla.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png", Sangeet Bangla (2)
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ,55.Sangeet Bangla
 http://103.205.133.19/hls/sangeetbangla.m3u8
 #EXTINF:-1 ,56.DHOOM
