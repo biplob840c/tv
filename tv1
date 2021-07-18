@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,01. Mokkah tv
-http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?Live-TV%E2%84%A2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CJMc4VQ.png", 01.Macca 
+http://tv.pmcon.net/hls/stream33.m3u8
 #EXTINF:-1 ,02. Modina tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,03.BTV. tvg-id="(no tvg-id)" tvg-name="Btv tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736 " group-title="Bangla",03.Btv
