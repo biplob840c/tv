@@ -90,11 +90,11 @@ http://tv.pmcon.net/hls/stream27.m3u8
 #EXTINF:-1 ,43.Jolsha Movies HD
 http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1 ,44.Zee Bangla
-http://103.205.133.19/hls/zeebanglahd.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla
 #EXTINF:-1 ,45.Zee Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 ,46.Zee Bangla Cenema
-https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/index.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-zeebanglacinema
 #EXTINF:-1 ,47.Sony Att 
 http://103.205.133.19/hls/sony8.m3u8
 #EXTINF:-1 ,48.Ruposhibangla
@@ -105,6 +105,8 @@ http://103.205.133.19/hls/chsp.m3u8
 http://tv.pmcon.net/hls/stream38.m3u8
 #EXTINF:-1 ,51.Star Plus hd
 http://tv2.ebox.live:8080/live/star-plus.m3u8
+#EXTINF:-1 ,51.Star Plus hd new
+http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,52.Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
 #EXTINF:-1 ,53.Sony
@@ -118,9 +120,11 @@ http://103.205.133.19/hls/zeetvhd.m3u8
 #EXTINF:-1 ,57.Colors hd
 http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 ,58.Zee Tv hd
-http://tv2.ebox.live:8080/live/zee-tv.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-zeetvhd
 #EXTINF:-1 ,59.Sony SAB
 http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,60.Max hd new
+http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,60.Max hd
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 ,61.Max HD 
@@ -144,27 +148,27 @@ http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,70.Star Gold select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 ,71.Zee Cenema
-https://y5w8j4a9.ssl.hwcdn.net/zeecinemame/index.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-zeecinema
 #EXTINF:-1 ,72.Zee Cenema hd
-http://tv2.ebox.live:8080/live/zee-cinema.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-zeecinemahd
 #EXTINF:-1 ,73.Zee Cenema HD
-https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,74.UTV Action
 http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,75.& Picture
-https://y5w8j4a9.ssl.hwcdn.net/andpicssd/index.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-tvpictureshd
 #EXTINF:-1 ,76.B4U Movies
 http://103.205.133.19/hls/b4umovies.m3u8
 #EXTINF:-1 ,77.&TV
-http://103.205.133.19/hls/andtv.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-tvhd_0
 #EXTINF:-1 ,78.Befix Movie
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 #EXTINF:-1 ,79.Zee Action
-http://cv.khushitv.xyz/channels.php?c=action&e=.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-zeeaction
 #EXTINF:-1 ,80.Nick e2
 http://tv2.ebox.live:8080/live/nick.m3u8
-#EXTINF:-1 ,81.Peace TV Bangla
-http://103.205.133.19/hls/peacetv.m3u8
+#EXTINF:-1 ,81.CN
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1 ,82. PTV sports
 http://tv.pmcon.net/hls/stream11.m3u8
 #EXTINF:-1 ,83. star sports-1
@@ -205,8 +209,12 @@ http://tv2.ebox.live:8080/live/hbo.m3u8
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
 #EXTINF:-1 ,47.Star Movies HD
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:-1 ,47.Star Movies HD
+http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sneh English Movies",Thrill
+http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 ,47.Star World
-http://tv2.ebox.live:8080/live/star-movies.m3u8
+http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,47.PIX hd
 http://tv2.ebox.live:8080/live/sony-pix.m3u8
 #EXTINF:-1 ,48.& flix HD
@@ -218,7 +226,7 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 #EXTINF:-1 ,51.Animel HD
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 ,52.Discovery hindi
-https://itvorigin.multitvsolution.com/idvo/discoveryhindi.m3u8
+https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 ,53.TLC HD
 https://itvorigin.multitvsolution.com:443/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1 ,54.gaanbangla
@@ -226,19 +234,21 @@ http://103.205.133.19/hls/gaanbangla.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png", Sangeet Bangla (2)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ,55.Sangeet Bangla
-http://103.205.133.19/hls/sangeetbangla.m3u8
-#EXTINF:-1 ,56.DHOOM
-http://103.205.133.19/hls/dhoommusic.m3u8
-#EXTINF:-1 ,57.B4U
-http://103.205.133.19/hls/b4umusic.m3u8
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:0 tvg-id="ext" group-title="Sneh Music",Boogle Bollywood
+http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/booglebollywood/booglebolly1/chunks.m3u8
+#EXTINF:-1 ,56.M india
+https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
+#EXTINF:-1 ,57.Masti
+http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 ,58.9xm
-http://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-131
 #EXTINF:-1 ,59.9x jalwa
-https://m-c01-j2apps.s.llnwi.net/live/0781.9XJalwa.in_480p/index.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-134
 #EXTINF:-1 ,60.Zing
-http://103.205.133.19/hls/zing.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-zing
 #EXTINF:-1 ,61.9x Tashan
-https://m-c01-j2apps.s.llnwi.net/live/0730.9XTashan.in.m3u8
+https://snehz5tvnew.herokuapp.com?c=0-9-133
 #EXTINF:-1 ,62.Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 ,63.Dil Se
@@ -247,9 +257,13 @@ https://live.hungama.com/linear/dil-se/playlist.m3u8?Live-TV%E2%84%A2
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 ,65.Mtv
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 ,66.Enter 10 Bangla
-https://itvorigin.multitvsolution.com/idvo/enter10bangla_540p/index.m3u8
+#EXTINF:-1 ,66.proguti tv
+http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
 #EXTINF:-1 ,67.Movies Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 ,68.Joy Jatra
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/joyjatratv.stream/chunks.m3u8
+#EXTINF:0 tvg-id="ntv-football-3" group-title="Sneh English Movies",Redbull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:0 tvg-id="AlJazeera.nws" group-title="Sneh English News",Al Jazeera SD
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8
