@@ -4,7 +4,7 @@ http://tv.pmcon.net/hls/stream33.m3u8
 #EXTINF:-1 ,02. Modina tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,03.BTV. tvg-id="(no tvg-id)" tvg-name="Btv tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736 " group-title="Bangla",03.Btv
-http://103.205.133.19/hls/btv.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2132.m3u8
 #EXTINF:-1 ,04.BTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 ,05.BTV CTG
@@ -14,7 +14,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png",07. Channel i
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,08.Ekattor
-http://103.205.133.19/hls/ekatoortv.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/547.m3u8
 #EXTINF:-1 ,09.Ekattor 2
 http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png " group-title="Bangla",Somoy
@@ -35,12 +35,18 @@ https://rhridoy136.shortcm.li/maasrangatv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 ,17.T sports
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+#EXTINF:-1 ,18.Gazi tv new
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/525.m3u8
 #EXTINF:-1 ,18.Gazi tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,19.IPL
-https://1rdk.short.gy/Himel-Himu/Vivo_Ipl_2021_Grand-Finale/Hotstar-English/CSK-VS-KKR.m3u8
-#EXTINF:-1 ,20.IPL Bangla
-https://1rdk.short.gy/Himel-Himu/Vivo_Ipl_2021_Grand-Finale/Hotstar-Bangla/CSK-VS-KKR.m3u8
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 4K" tvg-logo="https://bit.ly/3i0bJdQ" group-title="SPORTS CHANNELS",Star Sports 1 4K
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/668.m3u8
+#EXTINF:-1 ,19. Star sports 2
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/650.m3u8
+#EXTINF:-1 ,20.willow
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1149.m3u8
+#EXTINF:-1 ,20.willow HD
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/411.m3u8
 #EXTINF:-1 ,21.Boyshakhi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,22.MY TV
@@ -174,7 +180,7 @@ http://tv.pmcon.net/hls/stream11.m3u8
 #EXTINF:-1 ,83. star sports-1
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:-1 ,84. star sports-1 hindi
-http://tv.pmcon.net/hls/stream15.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/668.m3u8
 #EXTINF:-1 ,85. tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2
 http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:-1 ,86. star sports-2
