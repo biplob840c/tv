@@ -200,23 +200,25 @@ http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 ,87. star sports-2
 http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:-1 ,88. tvg-logo="https://i.imgur.com/TL2jAU6.png", Star Sports Select 1 HD 
-http://tv.pmcon.net/hls/stream12.m3u8
+http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+#EXTINF:-1 ,89.Star Sports Select 2 HD
+http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
 #EXTINF:-1 ,89.Sony Six HD
 http://tv.pmcon.net/hls/stream10.m3u8
 #EXTINF:-1 ,90.Sony Six HD
-http://103.205.133.19/hls/sonysix.m3u8
+http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 ,91.TEN 1 HD
-http://tv.pmcon.net/hls/stream40.m3u8
-#EXTINF:-1 ,92.TEN 1 HD
-http://103.109.56.116/live/skyfeed1017/index.m3u8
+http://tv2.ebox.live:8080/live/sonyten-1.m3u8
+#EXTINF:-1 ,92.TEN 2 HD
+http://tv2.ebox.live:8080/live/sonyten-2.m3u8
 #EXTINF:-1 ,93.TEN 3 HD
-http://103.205.133.19/hls/ten3.m3u8
+http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 #EXTINF:-1 ,94. tvg-logo="https://i.imgur.com/R6HReXT.png", Sky Sports Cricket
-http://stream.tvtap.live:8081/live/skysports-cricket1.stream/playlist.m3u8
-#EXTINF:-1 ,95. tvg-logo="https://i.imgur.com/C49YuUd.jpg", Sky Sports Football
-http://stream.tvtap.live:8081/live/skysports-football.stream/playlist.m3u8
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:-1 ,95. tvg-logo="https://i.imgur.com/C49YuUd.jpg", Sky Sports mix
+http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
 #EXTINF:-1 ,96. tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
-http://tv.pmcon.net/hls/stream34.m3u8
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:-1 ,97. tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket (2)
 http://180.210.191.2/hls/stream34.m3u8
 #EXTINF:-1 ,45.DD National
@@ -265,8 +267,10 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
 #EXTINF:-1 ,57.Masti
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
-#EXTINF:-1 ,58.9xm
+#EXTINF:-1 ,57.Masti
 https://snehz5tvnew.herokuapp.com?c=0-9-131
+#EXTINF:-1 ,57.Mtv
+http://tv2.ebox.live:8080/live/starsports-3.m3u8
 #EXTINF:-1 ,59.9x jalwa
 https://snehz5tvnew.herokuapp.com?c=0-9-134
 #EXTINF:-1 ,60.Zing
