@@ -57,6 +57,8 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/650.m3u8
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1149.m3u8
 #EXTINF:-1 ,20.willow HD
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/411.m3u8
+#EXTINF:-1 ,20.Sky sports
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1 ,21.Boyshakhi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,22.MY TV
@@ -243,6 +245,12 @@ https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
 #EXTINF:-1 ,52.Discovery hindi
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
+#EXTINF:-1 ,52.Discovery hd e2
+http://tv2.ebox.live:8080/live/discovery.m3u8
+#EXTINF:-1 ,52.National geo hd e2
+http://tv2.ebox.live:8080/live/natg.m3u8
+#EXTINF:-1 ,52.Animel pla hd e2
+http://tv2.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:-1 ,53.TLC HD
 https://itvorigin.multitvsolution.com:443/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1 ,54.gaanbangla
