@@ -39,9 +39,13 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/525.m3u8
 #EXTINF:-1 ,18.Gazi tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 , 18. world cup 
-https://1rdk.short.gy/Himel-Himu/ICC-Mens-WCT20-2021/Hotstar-English/BANLADESH-VS-SCOTLAND.m3u8
+#EXTINF:-1 , 18. world cup 1
+https://1rdk.short.gy/Himel-Himu/ICC-Mens-T20-WC-2021/Hotstar-English/Multi-Quality/IND-VS-ENG.m3u8
 #EXTINF:-1 , 18. world cup 2
+https://1rdk.short.gy/Himel-Himu/ICC-Mens-T20-WC-2021/Hotstar-English/AUS-VS-NZ.m3u8
+#EXTINF:-1 , 18. world cup 2
+https://1rdk.short.gy/Himel-Himu/ICC-Mens-WC-T20-2021/Hotstar-English/SL-VS-NAM.m3u8
+#EXTINF:-1, 18. world cup 4
 http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 4K" tvg-logo="https://bit.ly/3i0bJdQ" group-title="SPORTS CHANNELS",Star Sports 1 4K
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/668.m3u8
