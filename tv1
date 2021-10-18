@@ -29,8 +29,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 ,14.Masranga
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
-#EXTINF:-1 ,15.Masranga 2
-https://rhridoy136.shortcm.li/maasrangatv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 ,17.T sports
@@ -40,13 +38,19 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/525.m3u8
 #EXTINF:-1 ,18.Gazi tv
 http://103.102.27.172:6464/Channel-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , 18. world cup 1
+http://tv2.ebox.live:8080/live/nk-sixs.m3u8
+#EXTINF:-1 , 18. world cup 2
+http://tv2.ebox.live:8080/live/nk-tsports.m3u8
+#EXTINF:-1 , 18. world cup 3 *
 https://1rdk.short.gy/Himel-Himu/ICC-Mens-T20-WC-2021/Hotstar-English/Multi-Quality/IND-VS-ENG.m3u8
-#EXTINF:-1 , 18. world cup 2
+#EXTINF:-1 , 18. world cup 4 *
 https://1rdk.short.gy/Himel-Himu/ICC-Mens-T20-WC-2021/Hotstar-English/AUS-VS-NZ.m3u8
-#EXTINF:-1 , 18. world cup 2
+#EXTINF:-1 , 18. world cup 5*
 https://1rdk.short.gy/Himel-Himu/ICC-Mens-WC-T20-2021/Hotstar-English/SL-VS-NAM.m3u8
-#EXTINF:-1, 18. world cup 4
-http://221.120.204.4/PTV-SPORTS-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , 18. world cup 6*
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
+#EXTINF:-1, 18. PTV sports
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 4K" tvg-logo="https://bit.ly/3i0bJdQ" group-title="SPORTS CHANNELS",Star Sports 1 4K
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/668.m3u8
 #EXTINF:-1 ,19. Star sports 2
