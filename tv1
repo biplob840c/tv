@@ -40,13 +40,13 @@ http://tv2.ebox.live:8080/live/nk-sixs.m3u8
 #EXTINF:-1 , 18. world cup 2
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 , 18. world cup 3 *
-https://1rdk.short.gy/Himel-Himu/ICC-Mens-T20-WC-2021/Hotstar-English/Multi-Quality/IND-VS-ENG.m3u8
-#EXTINF:-1 , 18. world cup 4 *
-https://1rdk.short.gy/Himel-Himu/ICC-Mens-T20-WC-2021/Hotstar-English/AUS-VS-NZ.m3u8
+https://1ojy.short.gy/Nayeem-Parvez/BD-vs-Oman.m3u8
+#EXTINF:-1 , 18. world cup 4 
+http://pull-drzlive.daraz.com/peacock/f3ed066e-87fa-4ea0-add7-beaafa0fa000_liveng-360p-hp.m3u8?auth_key=1636715341-0-0-9da890d8dccaebbc19da9513ec2fed50&flag=new_logic
 #EXTINF:-1 , 18. world cup 5*
 https://1rdk.short.gy/Himel-Himu/ICC-Mens-WC-T20-2021/Hotstar-English/SL-VS-NAM.m3u8
 #EXTINF:-1 , 18. world cup 6*
-http://tv2.ebox.live:8080/live/ten-sports.m3u8
+https://1ojy.short.gy/Nayeem-Parvez/BD-vs-Oman.m3u8
 #EXTINF:-1, 18. PTV sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 4K" tvg-logo="https://bit.ly/3i0bJdQ" group-title="SPORTS CHANNELS",Star Sports 1 4K
