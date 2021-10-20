@@ -15,12 +15,12 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,08.Ekattor
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/547.m3u8
-#EXTINF:-1 ,09.Ekattor 2
-http://103.109.56.116/live/skyfeed1003/index.m3u8
+#EXTINF:-1 ,09.Ekattor hd
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2045.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png " group-title="Bangla",Somoy
-http://iptvbd.jagobd.com:1931/boishakhi/somoyt000011226615544544.stream/chunks.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/543.m3u8
 #EXTINF:-1 ,10.NTV
-http://103.205.133.19/hls/ntv.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/540.m3u8
 #EXTINF:-1 ,11.EKUSHEY TV [BD]
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangla",12.Bangla Vision
@@ -32,11 +32,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 , world cup 1
-https://prod-fastly-ap-southeast-1.video.pscp.tv:443/Transcoding/v1/hls/sJOkgo2iPgTcc4t48HJd0n8aU2omdzdk5l7utX5Swu6SSs1qQzhq9ngIiiNQhs6aYI1SbyqrNcD18CyOtW8jTQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
-#EXTINF:-1 ,18. world cup 2
-https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1634682932&md5=yBDAUVt_37IYHcej8vMLAA&user=ef3b0701f26743a4a12ce79435bc6d0d
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/525.m3u8
+#EXTINF:-1 , 18. world cup 2
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2628.m3u8
 #EXTINF:-1 , 18. world cup 3
-https://1ojy.short.gy/Nayeem-Parvez/BD-vs-Oman/Hotstar-Hindi.m3u8
+https://prod-fastly-ap-southeast-1.video.pscp.tv:443/Transcoding/v1/hls/sJOkgo2iPgTcc4t48HJd0n8aU2omdzdk5l7utX5Swu6SSs1qQzhq9ngIiiNQhs6aYI1SbyqrNcD18CyOtW8jTQ/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ180ODBwMzBfMTAiLCJIZWlnaHQiOjQ4MCwiS2JwcyI6MTIwMCwiV2lkdGgiOjg0OH0.0LJi1usWbiPqp0QIcpq7Md5g1WxvJcPqVWNqsKw5nhA/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 , 18. world cup 4
 http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 #EXTINF:-1 , 18. world cup 5
@@ -44,9 +44,9 @@ https://1ojy.short.gy/Nayeem-Parvez/BD-vs-Oman.m3u8
 #EXTINF:-1 , 18. world cup 6
 http://pull-drzlive.daraz.com/peacock/f3ed066e-87fa-4ea0-add7-beaafa0fa000_liveng-360p-hp.m3u8?auth_key=1636715341-0-0-9da890d8dccaebbc19da9513ec2fed50&flag=new_logic
 #EXTINF:-1 , 18. world cup 7
-https://1rdk.short.gy/Himel-Himu/ICC-Mens-WC-T20-2021/Hotstar-English/SL-VS-NAM.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1162.m3u8
 #EXTINF:-1 , 18. world cup 8
-https://1ojy.short.gy/Nayeem-Parvez/BD-vs-Oman.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/720.m3u8
 #EXTINF:-1, 18. PTV sports
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 tvg-id="starsports1.in" tvg-name="Star Sports 1 4K" tvg-logo="https://bit.ly/3i0bJdQ" group-title="SPORTS CHANNELS",Star Sports 1 4K
@@ -66,11 +66,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,23. Channel 9
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 ,24.Nagorik
-http://103.205.133.19/hls/nagorik.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1723.m3u8
 #EXTINF:-1 ,25.Dipto TV
-http://103.205.133.19/hls/deeptotv.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/536.m3u8
 #EXTINF:-1 ,26.Asian tv
-http://103.205.133.19/hls/asiantv.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/527.m3u8
 #EXTINF:-1 ,27.Anondo Tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 ,28.BIJOY TV HD [BD]
@@ -94,59 +94,61 @@ https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 #EXTINF:-1 ,36.Alif Tv
 http://128.199.212.160/alif/1080/index.m3u8
 #EXTINF:-1 ,37.Star Jolsha HD
-http://43.230.123.21:8080/live/star-jalsha.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/899.m3u8
 #EXTINF:-1 ,38.Star Jolsha HD
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 ,39.Colors Bangla
-http://103.205.133.19/hls/colorsbangla.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/976.m3u8
 #EXTINF:-1 ,40.Colors Bangla HD
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
-#EXTINF:-1 ,41.Jolsha Movies hd
-http://tv2.ebox.live:8080/live/star-jalsha-movies.m3u8
 #EXTINF:-1 ,42.Jolsha Movies hd
-http://tv.pmcon.net/hls/stream27.m3u8
-#EXTINF:-1 ,43.Jolsha Movies HD
-http://43.230.123.21:8080/live/star-jalsha-movies.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/962.m3u8
 #EXTINF:-1 ,44.Zee Bangla
 https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla
+#EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="Zee Bangla 4K" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="INDIAN BANGLA ",Zee Bangla 4K
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/975.m3u8
 #EXTINF:-1 ,45.Zee Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 ,46.Zee Bangla Cenema
 https://snehz5tvnew.herokuapp.com?c=0-9-zeebanglacinema
 #EXTINF:-1 ,47.Sony Att 
-http://103.205.133.19/hls/sony8.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/566.m3u8
 #EXTINF:-1 ,48.Ruposhibangla
-http://103.205.133.19/hls/ruposhibangla.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/567.m3u8
 #EXTINF:-1 ,49.Star Plus
-http://103.205.133.19/hls/chsp.m3u8
-#EXTINF:-1 ,50.Star Plus HD
-http://tv.pmcon.net/hls/stream38.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/591.m3u8
 #EXTINF:-1 ,51.Star Plus hd
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1 ,51.Star Plus hd new
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat 4K" tvg-logo="https://lh3.googleusercontent.com/8MbdrbcuQsn5DSFjufxgSqQMfvuLPgkT6nHJiUu1kqRthYctoGQlYo2423R-B0c6GnM" group-title="HINDI CHANNELS",Star Bharat 4K
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/593.m3u8
+#EXTINF:-1 tvg-id="colors.in" tvg-name="Colors 4K" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/colors_in.jpg" group-title="HINDI CHANNELS",Colors 4K
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/605.m3u8
+#EXTINF:-1 tvg-id="aapkacolors.us" tvg-name="Aapka Colors HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest?cb=20191223200640" group-title="HINDI CHANNELS",Aapka Colors HD
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2661.m3u8
 #EXTINF:-1 ,52.Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
 #EXTINF:-1 ,53.Sony
-http://103.205.133.19/hls/chs.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1139.m3u8
 #EXTINF:-1 ,54.Sony HD
-http://221.120.204.4/SONY-HD/tracks-v1a1/mono.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2659.m3u8
 #EXTINF:-1 ,55.Sony hd
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
-#EXTINF:-1 ,56.Zee Tv
-http://103.205.133.19/hls/zeetvhd.m3u8
+#EXTINF:-1 ,56.Zee Tv hd
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/603.m3u8
 #EXTINF:-1 ,57.Colors hd
 http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 ,58.Zee Tv hd
 https://snehz5tvnew.herokuapp.com?c=0-9-zeetvhd
 #EXTINF:-1 ,59.Sony SAB
-http://221.120.204.4/SONY-SAB/tracks-v1a1/mono.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/582.m3u8
 #EXTINF:-1 ,60.Max hd new
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,60.Max hd
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 ,61.Max HD 
-http://prox.x86.co.uk/index.php/http://208.115.215.42:80/Sony_Max_HD/tracks-v1a1/mono.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/585.m3u8
 #EXTINF:-1 ,62.Max HD 
 http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,63.Max HD
@@ -158,11 +160,13 @@ http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,66.Star gold hd
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF:-1 ,67.Star gold HD
-http://tv.pmcon.net/hls/stream19.m3u8
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/604.m3u8
 #EXTINF:-1 ,68.RASI HD
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:-1 ,69.Star Gold hd
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select 4K" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="HINDI CHANNELS",Star Gold Select 4K
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/706.m3u8
 #EXTINF:-1 ,70.Star Gold select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 ,71.Zee Cenema
@@ -171,10 +175,14 @@ https://snehz5tvnew.herokuapp.com?c=0-9-zeecinema
 https://snehz5tvnew.herokuapp.com?c=0-9-zeecinemahd
 #EXTINF:-1 ,73.Zee Cenema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,74.UTV Action
-http://84.17.41.7:80/UTVACTION-Hin/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema 4K" tvg-logo="https://dl.dropbox.com/s/1na041c9beb46oq/zeecinema_hd.jpg" group-title="HINDI CHANNELS",Zee Cinema 4K
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/598.m3u8
+#EXTINF:-1 tvg-id="utvaction.in" tvg-name="UTV Action" tvg-logo="https://dl.dropbox.com/s/gunzqonthx73x9z/utvaction.jpg" group-title="HINDI CHANNELS",UTV Action
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/588.m3u8
 #EXTINF:-1 ,75.& Picture
 https://snehz5tvnew.herokuapp.com?c=0-9-tvpictureshd
+#EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="HINDI CHANNELS",& Pictures HD
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/701.m3u8
 #EXTINF:-1 ,76.B4U Movies
 http://103.205.133.19/hls/b4umovies.m3u8
 #EXTINF:-1 ,77.&TV
@@ -263,14 +271,16 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sa
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sneh Music",Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/booglebollywood/booglebolly1/chunks.m3u8
-#EXTINF:-1 ,56.M india
-https://m-c01-j2apps.s.llnwi.net/hls_hd/0204.MusicIndia.in_720p/index.m3u8
-#EXTINF:-1 ,57.Masti
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music" tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="HINDI CHANNELS",B4U Music
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/595.m3u8
+#EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/9x_music.jpg" group-title="HINDI CHANNELS",9XM
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/681.m3u8
 #EXTINF:-1 ,57.Masti
 https://snehz5tvnew.herokuapp.com?c=0-9-131
-#EXTINF:-1 ,57.Mtv
-http://tv2.ebox.live:8080/live/starsports-3.m3u8
+#EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV India" tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="HINDI CHANNELS",MTV India
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/710.m3u8
+#EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="HINDI CHANNELS",MTV Beats HD
+http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1338.m3u8
 #EXTINF:-1 ,59.9x jalwa
 https://snehz5tvnew.herokuapp.com?c=0-9-134
 #EXTINF:-1 ,60.Zing
