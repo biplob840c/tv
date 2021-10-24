@@ -34,7 +34,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 , world cup 1
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/58PTueFMJJ7N432d__Gsr43WJdMFtJKmANOvp6aHFvxcTYATUnd1Bn5q9onfSDCGv-CQzDX5A1HNdUyFaPTsjA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 , 18. world cup 2
-https://24tv.short.gy/Local_IPTV_PLAYLIST/STAR_SPORTS_1_HD_BDIX_ONLY_LIVE.m3u8
+http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF:-1 , 18. world cup 3
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2628.m3u8
 #EXTINF:-1 , 18. world cup 4
