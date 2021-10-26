@@ -4,7 +4,7 @@ http://tv.pmcon.net/hls/stream33.m3u8
 #EXTINF:-1 ,02. Modina tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,03.BTV. tvg-id="(no tvg-id)" tvg-name="Btv tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736 " group-title="Bangla",03.Btv
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2132.m3u8
+http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,04.BTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 ,05.BTV CTG
@@ -14,13 +14,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png",07. Channel i
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,08.Ekattor
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/547.m3u8
+http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,09.Ekattor hd
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2045.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png " group-title="Bangla",Somoy
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/543.m3u8
 #EXTINF:-1 ,10.NTV
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/540.m3u8
+http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,11.EKUSHEY TV [BD]
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangla",12.Bangla Vision
@@ -34,8 +34,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 , world cup 1
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/58PTueFMJJ7N432d__Gsr43WJdMFtJKmANOvp6aHFvxcTYATUnd1Bn5q9onfSDCGv-CQzDX5A1HNdUyFaPTsjA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 , 18. world cup 2
-https://1rdk.short.gy/Himel-Himu/ICC-Mens-T20-WC-2021/Hotstar-English/IND-VS-PAK.m3u8
-
+http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , 18. world cup 3
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2628.m3u8
 #EXTINF:-1 , 18. world cup 4
