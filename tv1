@@ -34,15 +34,15 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 , world cup 1
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/pxMBejQA83DIWNrIb4c7qW0Ye2QVxD-Iwt4oJyyJ0RBtwsok22Is8Pqz4dIi_PGiTyb2cK2ic5C26UyPmTPa1w/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=livel
 #EXTINF:-1 , 18. world cup 2
-http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+http://103.70.140.27:8080/hls/tsports.m3u8
 #EXTINF:-1 , 18. world cup 3
 https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635611954&md5=S9NN43LbVR37_iJu7JSiTA&user=49729ec489674ef3912b6d7cd0822923
 #EXTINF:-1 , 18. world cup 4
 http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 #EXTINF:-1 , 18. world cup 5
-http://103.70.140.27:8080/hls/tsports.m3u8
+http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , 18. world cup 6
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/QJBVOv8qRWTCMrV-lFDZmxTmETtYBmvFwBfKQyl5UYz0qbpjESjf8Tjwjafi8s07Q5h83qlsEWduzHCWmg46CA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ18xMDgwcDMwXzEwIiwiSGVpZ2h0IjoxMDgwLCJLYnBzIjo1NTAwLCJXaWR0aCI6MTkyMH0.OImMZabKYJ0cs9CnIapU-4aBk6KNBiJxi1hh-6l4BZ4/dynamic_highlatency.m3u8?type=live
+http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , 18. world cup 7
 https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/QJBVOv8qRWTCMrV-lFDZmxTmETtYBmvFwBfKQyl5UYz0qbpjESjf8Tjwjafi8s07Q5h83qlsEWduzHCWmg46CA/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 , 18. world cup 8
