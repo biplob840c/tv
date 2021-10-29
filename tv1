@@ -170,21 +170,23 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/706.m3u8
 #EXTINF:-1 ,70.Star Gold select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 ,71.Zee Cenema
-https://snehz5tvnew.herokuapp.com?c=0-9-zeecinema
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecinema
 #EXTINF:-1 ,72.Zee Cenema hd
 https://snehz5tvnew.herokuapp.com?c=0-9-zeecinemahd
 #EXTINF:-1 ,73.Zee Cenema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="zeecinemaindiahd.in" tvg-name="Zee Cinema 4K" tvg-logo="https://dl.dropbox.com/s/1na041c9beb46oq/zeecinema_hd.jpg" group-title="HINDI CHANNELS",Zee Cinema 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/598.m3u8
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecinemahd
 #EXTINF:-1 tvg-id="utvaction.in" tvg-name="UTV Action" tvg-logo="https://dl.dropbox.com/s/gunzqonthx73x9z/utvaction.jpg" group-title="HINDI CHANNELS",UTV Action
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/588.m3u8
 #EXTINF:-1 ,75.& Picture
-https://snehz5tvnew.herokuapp.com?c=0-9-tvpictureshd
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-pictures
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="HINDI CHANNELS",& Pictures HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/701.m3u8
-#EXTINF:-1 ,76.B4U Movies
-http://103.205.133.19/hls/b4umovies.m3u8
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvpictureshd
+#EXTINF:-1 ,76.zee action
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeaction
+#EXTINF:-1 ,76.& flix
+https://sneh-zee5tv-1.up.railway.app/?c=0-9-channel_2105335046
 #EXTINF:-1 ,77.&TV
 https://snehz5tvnew.herokuapp.com?c=0-9-tvhd_0
 #EXTINF:-1 ,78.Befix Movie
