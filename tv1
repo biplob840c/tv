@@ -180,17 +180,17 @@ http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 ,81.CN
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1 ,82. PTV sports
-http://tv.pmcon.net/hls/stream11.m3u8
+http://cdn2.niazitv.pk:8080/PTV-Sports-FunTV-100/index.m3u8
 #EXTINF:-1 ,83. star sports-1
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:-1 ,84. star sports-1 hindi
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/668.m3u8
+#EXTINF:-1 ,84. willow
+https://p03.quest123.top/live/webcrici01/playlist.m3u8
 #EXTINF:-1 ,85. tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2
 http://tv.pmcon.net/hls/stream16.m3u8
 #EXTINF:-1 ,86. star sports-2
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
-#EXTINF:-1 ,87. star sports-2
-http://tv.pmcon.net/hls/stream16.m3u8
+#EXTINF:-1 ,87. atn sports
+https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 #EXTINF:-1 ,88. tvg-logo="https://i.imgur.com/TL2jAU6.png", Star Sports Select 1 HD 
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:-1 ,89.Star Sports Select 2 HD
@@ -215,6 +215,8 @@ http://tv2.ebox.live:8080/live/ten-sports.m3u8
 http://180.210.191.2/hls/stream34.m3u8
 #EXTINF:-1 ,45.DD National
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
+#EXTINF:-1 ,45.srilanka tv
+http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 #EXTINF:-1 ,46.HBO hd
 http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:-1 ,46.HBO
