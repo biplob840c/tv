@@ -75,18 +75,18 @@ http://103.159.4.38:5868/BD-BANGLA-13/tracks-v1a1/mono.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Khusbo tv" tvg-logo="https://1.bp.blogspot.com/-5tGF6dQFsdM/X5rlfx1rudI/AAAAAAAABjM/YoV7bum8Xt4LIZau1c6faScovgIfTkkhgCLcBGAsYHQ/w800/images%2B%25281%2529.jpeg " group-title="Bangla",Khusbo tv
 https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
-#EXTINF:-1 ,36.Alif Tv
-http://128.199.212.160/alif/1080/index.m3u8
-#EXTINF:-1 ,37.Star Jolsha HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/899.m3u8
+#EXTINF:-1 ,36.ten 1
+https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
+#EXTINF:-1 ,37.Sony Six
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 ,38.Star Jolsha HD
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
-#EXTINF:-1 ,39.Colors Bangla
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/976.m3u8
+#EXTINF:-1 ,39.Ten 2
+https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
 #EXTINF:-1 ,40.Colors Bangla HD
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
-#EXTINF:-1 ,42.Jolsha Movies hd
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/962.m3u8
+#EXTINF:-1 ,42. ten 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 ,44.Zee Bangla
 https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="Zee Bangla 4K" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="INDIAN BANGLA ",Zee Bangla 4K
