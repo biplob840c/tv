@@ -4,7 +4,7 @@ http://tv.pmcon.net/hls/stream33.m3u8
 #EXTINF:-1 ,02. Modina tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,03.BTV. tvg-id="(no tvg-id)" tvg-name="Btv tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736 " group-title="Bangla",03.Btv
-http://103.159.4.38:9191/BD-BANGLA-8/tracks-v1a1/mono.m3u8
+http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 ,04.BTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 ,05.BTV CTG
@@ -16,13 +16,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,Channel i
 http://103.159.4.38:5868/BD-BANGLA-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,08.Ekattor
-http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
+https://live.sonyplex.com/sonyplex/Ekattor-TV.stream/index.m3u8
 #EXTINF:-1 ,09.Duronto
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png " group-title="Bangla",Somoy
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/543.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 ,10.NTV
-http://103.159.4.38:5868/BD-BANGLA-18/tracks-v1a1/mono.m3u8
+https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 ,11.EKUSHEY TV [BD]
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangla",12.Bangla Vision
@@ -36,17 +36,17 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 , world cup 1
-https://prod-fastly-ap-southeast-1.video.pscp.tv/Transcoding/v1/hls/pxMBejQA83DIWNrIb4c7qW0Ye2QVxD-Iwt4oJyyJ0RBtwsok22Is8Pqz4dIi_PGiTyb2cK2ic5C26UyPmTPa1w/transcode/ap-southeast-1/periscope-replay-direct-live/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_highlatency.m3u8?type=livel
+https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
 #EXTINF:-1 , 18. world cup 2
 http://103.70.140.27:8080/hls/tsports.m3u8
 #EXTINF:-1 , 18. world cup 3
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635611954&md5=S9NN43LbVR37_iJu7JSiTA&user=49729ec489674ef3912b6d7cd0822923
+http://103.40.226.94:8080/hls/channel_1.m3u8
 #EXTINF:-1 , 18. world cup 4
 http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
 #EXTINF:-1 , 18. world cup 5
-http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635803865&md5=mfL10Og8f2YaG1eflIdoPQ&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 , 18. world cup 6
-http://103.159.4.38:5868/BD-BANGLA-11/tracks-v1a1/mono.m3u8
+https://edge01.iptv.digijadoo.net/live/t_sports/chunks.m3u8?expires=1635803911&md5=mkJMlpiBU5WkgM4UZsEBog&user=ef3b0701f26743a4a12ce79435bc6d0d
 #EXTINF:-1 ,20.Sky sports
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1 ,21.Boyshakhi
@@ -62,7 +62,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,29.Bangla tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 ,30.depto tv
-a-up2.shttps://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Bangladeshi",Asian TV
+http://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+#EXTINF:-1 ,30.khusbo bangla
+http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
 #EXTINF:-1 ,31.News 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 ,32.Jumuna TV
@@ -77,16 +81,26 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://d2my7pmu7z3zc5.cloudfront.net/KHUSBOO_TV.m3u8
 #EXTINF:-1 ,36.ten 1
 https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-#EXTINF:-1 ,37.Sony Six
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
-#EXTINF:-1 ,38.Star Jolsha HD
-http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 ,39.Ten 2
 https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-#EXTINF:-1 ,40.Colors Bangla HD
-http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 ,37.Sony Six
+https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 ,42. ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+#EXTINF:-1 ,38.Star Jolsha
+http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29094.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla",Star Jalsha HD
+http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7875
+#EXTINF:-1 ,38.Star Jolsha HD
+http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:-1 ,38.Jolsha movies HD
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
+#EXTINF:-1 ,40.Colors Bangla HD
+http://tv2.ebox.live:8080/live/colors-bangla.m3u8
+#EXTINF:-1 ,40.Colors Bangla HD new
+https://26gl.short.gy/ZeeBanglaHd-by-DoraTv.m3u8
+#EXTINF:0 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="Indian Bangla",Colors Bangla
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3415
 #EXTINF:-1 ,44.Zee Bangla
 https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="Zee Bangla 4K" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="INDIAN BANGLA ",Zee Bangla 4K
@@ -94,7 +108,7 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/975.m3u8
 #EXTINF:-1 ,45.Zee Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 ,46.Zee Bangla Cenema
-https://snehz5tvnew.herokuapp.com?c=0-9-zeebanglacinema
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
 #EXTINF:-1 ,47.Sony Att 
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/566.m3u8
 #EXTINF:-1 ,49.Star Plus
@@ -104,7 +118,7 @@ http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1 ,51.Star Plus hd new
 http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-id="starbharathd.in" tvg-name="Star Bharat 4K" tvg-logo="https://lh3.googleusercontent.com/8MbdrbcuQsn5DSFjufxgSqQMfvuLPgkT6nHJiUu1kqRthYctoGQlYo2423R-B0c6GnM" group-title="HINDI CHANNELS",Star Bharat 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/593.m3u8
+http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-id="colors.in" tvg-name="Colors 4K" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/colors_in.jpg" group-title="HINDI CHANNELS",Colors 4K
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/605.m3u8
 #EXTINF:-1 tvg-id="aapkacolors.us" tvg-name="Aapka Colors HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bb/Aapka_Colors.svg/revision/latest?cb=20191223200640" group-title="HINDI CHANNELS",Aapka Colors HD
@@ -152,6 +166,8 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/706.m3u8
 #EXTINF:-1 ,70.Star Gold select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 ,71.Zee Cenema
+http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,71.Zee Cenema
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeecinema
 #EXTINF:-1 ,72.Zee Cenema hd
 https://snehz5tvnew.herokuapp.com?c=0-9-zeecinemahd
@@ -165,6 +181,8 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/588.m3u8
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-pictures
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="HINDI CHANNELS",& Pictures HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvpictureshd
+#EXTINF:-1 ,76.zee action
+#http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
 #EXTINF:-1 ,76.zee action
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeaction
 #EXTINF:-1 ,76.& flix
@@ -275,10 +293,10 @@ https://snehz5tvnew.herokuapp.com?c=0-9-zing
 https://snehz5tvnew.herokuapp.com?c=0-9-133
 #EXTINF:-1 ,62.Music India
 http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
-#EXTINF:-1 ,63.Dil Se
-https://live.hungama.com/linear/dil-se/playlist.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 ,64.Masthi
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
+#EXTINF:-1 ,63.M tunes
+http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:-1 ,64.M tv
+https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MTVIN.m3u8
 #EXTINF:-1 ,65.Mtv
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
 #EXTINF:-1 ,66.proguti tv
