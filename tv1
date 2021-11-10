@@ -36,15 +36,15 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 , world cup 1
-https://live.sonyplex.com/sonyplex/T-SPORTS.stream/index.m3u8
+http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 , 18. world cup 2
-http://103.70.140.27:8080/hls/tsports.m3u8
+http://89.187.162.89/Capital_Music/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , 18. world cup 3
-https://edge01.iptv.digijadoo.net/live/gazi_tv/chunks.m3u8?expires=1635864086&md5=RD7TM1wFoAhTidxjiHWdDw&user=49729ec489674ef3912b6d7cd0822923
+http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 , 18. world cup 4
-http://nwbz1u.ecm.tm/806B6CF/84137e/SK_MA_ASTRO_SUPER_SPORT_CRICKET/tracks-v1a1/index.m3u8?token=0558356b27398f74c6bf8c3be801782c27ff83d6c3d8086796083c9e4eae0718a96e35a78db35fc417891f79725c21b88b1da11a64ac33705b66d7f50ff103affd5a58ef48256855a8ba8eae22ac6594c65d6bb7c33e329027c7364d6cc809fa887c8464d715b237c7e50e07a64eff32421d00c4de17b8b06ce5
+http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1 , 18. world cup 5
-https://nayeem-parvez.tk/digijadoo/Gazi-TV.m3u8
+http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:-1 , 18. world cup 6
 https://nayeem-parvez.tk/digijadoo/T-Sports.m3u8
 #EXTINF:-1 ,20.Sky sports
@@ -90,7 +90,7 @@ https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
 #EXTINF:-1 ,42. ten 3
 https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 ,38.Star Jolsha
-http://basic-iptvesun.com:8080/live/carter/GUV1bMq2VK/29094.m3u8
+https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla",Star Jalsha HD
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7875
 #EXTINF:-1 ,38.Star Jolsha HD
@@ -106,13 +106,13 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3415
 #EXTINF:-1 ,44.Zee Bangla
 https://snehz5tvnew.herokuapp.com?c=0-9-zeebangla
 #EXTINF:-1 tvg-id="zeebanglahd.in" tvg-name="Zee Bangla 4K" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/zee_bangla.jpg" group-title="INDIAN BANGLA ",Zee Bangla 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/975.m3u8
+https://last.gcdn.co/IND389/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,45.Zee Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 ,46.Zee Bangla Cenema
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
-#EXTINF:-1 ,47.Sony Att 
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/566.m3u8
+#EXTINF:-1 ,47.Akash
+https://last.gcdn.co/IND396/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,49.Star Plus
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/591.m3u8
 #EXTINF:-1 ,51.Star Plus hd
