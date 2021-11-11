@@ -200,7 +200,7 @@ http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 ,81.CN
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1 ,82. PTV sports
-http://cdn2.niazitv.pk:8080/PTV-Sports-FunTV-100/index.m3u8
+http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 ,83. star sports-1
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:-1 ,84. willow
