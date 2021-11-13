@@ -16,7 +16,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,Channel i
 https://last.gcdn.co/IND419/index.m3u8
 #EXTINF:-1 ,08.Ekattor
-https://live.sonyplex.com/sonyplex/Ekattor-TV.stream/index.m3u8
+https://last.gcdn.co/IND429/index.m3u8
 #EXTINF:-1 ,09.Duronto
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png " group-title="Bangla",Somoy
@@ -74,7 +74,7 @@ http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 ,33.Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 ,34.DBC News
-http://103.159.4.38:5868/BD-BANGLA-13/tracks-v1a1/mono.m3u8
+https://last.gcdn.co/IND428/index.m3u8
 #EXTINF:-1 ,35.Independent
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=9xm
@@ -95,6 +95,8 @@ https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
 http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7875
 #EXTINF:-1 ,38.Star Jolsha HD
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
+#EXTINF:-1 ,38.Jolsha movies HD
+http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 #EXTINF:-1 ,38.Jolsha movies HD
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:-1 ,40.Colors Bangla HD
