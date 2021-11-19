@@ -50,7 +50,7 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 , 18. Video Channel
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:-1 ,20.TEN 3
-https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
 #EXTINF:-1 ,21.Boyshakhi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,22.MY TV
@@ -76,7 +76,7 @@ http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 ,33.Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 ,34.DBC News
-https://last.gcdn.co/IND428/index.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/7/index.m3u8
 #EXTINF:-1 ,35.Independent
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=9xm
@@ -209,10 +209,10 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 http://tv2.ebox.live:8080/live/ptvsports.m3u8
 #EXTINF:-1 ,83. star sports-1
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
-#EXTINF:-1 ,84. willow
-https://p03.quest123.top/live/webcrici01/playlist.m3u8
-#EXTINF:-1 ,85. tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Star Sports 2
-http://tv.pmcon.net/hls/stream16.m3u8
+#EXTINF:-1 ,84. ten 1
+http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
+#EXTINF:-1 ,85. tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Ten 2
+http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
 #EXTINF:-1 ,86. star sports-2
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 ,87. atn sports
@@ -221,8 +221,8 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
 http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
 #EXTINF:-1 ,89.Star Sports Select 2 HD
 http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
-#EXTINF:-1 ,89.Sony Six HD
-http://tv.pmcon.net/hls/stream10.m3u8
+#EXTINF:-1 ,89.TEN 3
+http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
 #EXTINF:-1 ,90.Sony Six HD
 http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 ,91.TEN 1 HD
