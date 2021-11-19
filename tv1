@@ -39,9 +39,11 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 , Ban vs Pak
 http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
-#EXTINF:-1 , 18. India vs NZ
+#EXTINF:-1 , 18. India vs NZ 1
 https://27y1.short.gy/StarSportsBDIX@torbapxD.m3u8
-#EXTINF:-1 , 18.ind vs NZ
+#EXTINF:-1 , 18. India vs NZ 2
+http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
+#EXTINF:-1 , 18.ind vs NZ 3
 http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 , 18.Ban vs pak 2
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637332186/ei/emCXYZPmMIL44-EPj86-uAY/ip/103.135.90.147/id/X2c91lkbPUw.1/source/yt_live_broadcast/requiressl/yes/tx/24105953/txs/24078603%2C24105952%2C24105953%2C24105954%2C24105955%2C24105956/hfr/1/playlist_duration/30/manifest_duration/30/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUVP0lQPDSVJbYCuX_7TZbUFtGK2wqrmlbpiZK7rnh5kCIQC8L6QFhiV-RUyeWJSN_5N7fYBPEM445ydvJvxWhuDVlg%3D%3D/file/index.m3u8
@@ -94,7 +96,7 @@ https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 ,38.Star Jolsha
 https://last.gcdn.co/IND391/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla",Star Jalsha HD
-http://wagmaott.com:8080/mag00:1A:79:6A:63:7A/fYx9iEO1Lu/7875
+http://tv.alphamediazone.com:8089/thunderbd/30/index.m3u8
 #EXTINF:-1 ,38.Star Jolsha HD
 http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 ,38.Jolsha movies HD
@@ -114,7 +116,7 @@ https://last.gcdn.co/IND389/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,45.Zee Bangla HD
 http://tv2.ebox.live:8080/live/zee-bangla.m3u8
 #EXTINF:-1 ,46.Zee Bangla Cenema
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3408
+http://tv.alphamediazone.com:8089/thunderbd/29/index.m3u8
 #EXTINF:-1 ,47.sony att
 http://last.gcdn.co/IND395/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,47.Akash
@@ -215,12 +217,12 @@ http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
 #EXTINF:-1 ,86. star sports-2
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
-#EXTINF:-1 ,87. atn sports
-https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
+#EXTINF:-1 ,87. six
+http://tv.alphamediazone.com:8089/thunderbd/24/index.m3u8
 #EXTINF:-1 ,88. tvg-logo="https://i.imgur.com/TL2jAU6.png", Star Sports Select 1 HD 
-http://tv2.ebox.live:8080/live/starsportsselect-1.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
 #EXTINF:-1 ,89.Star Sports Select 2 HD
-http://tv2.ebox.live:8080/live/starsportsselect-2.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
 #EXTINF:-1 ,89.TEN 3
 http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
 #EXTINF:-1 ,90.Sony Six HD
@@ -247,8 +249,8 @@ http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:-1 ,46.HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 ,47.Star Movies HD
-http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
+#EXTINF:-1 ,47.ano Movies HD
+http://tv.alphamediazone.com:8089/thunderbd/39/index.m3u8
 #EXTINF:-1 ,47.Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sneh English Movies",Thrill
@@ -256,7 +258,7 @@ http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 ,47.Star World
 http://221.120.204.4/star-world-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,47.PIX hd
-http://tv2.ebox.live:8080/live/sony-pix.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/41/index.m3u8
 #EXTINF:-1 ,48.& flix HD
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
 #EXTINF:-1 ,49.MBC 2
@@ -265,6 +267,8 @@ https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/in
 https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
 #EXTINF:-1 ,51.Animel HD
 https://itvorigin.multitvsolution.com/idvo/aphdhindi.m3u8
+#EXTINF:-1 ,52.Discovery Bangla
+http://tv.alphamediazone.com:8089/thunderbd/43/index.m3u8
 #EXTINF:-1 ,52.Discovery hindi
 https://idvd.multitvsolution.com/idvo/discoveryhindi_540p/index.m3u8
 #EXTINF:-1 ,52.Discovery hd e2
