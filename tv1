@@ -49,8 +49,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637332186/ei/e
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 , 18. Video Channel
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
-#EXTINF:-1 ,20.Sky sports
-http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
+#EXTINF:-1 ,20.TEN 3
+https://feed.play.mv/live/10005200/RG2fKR6d9p/master.m3u8
 #EXTINF:-1 ,21.Boyshakhi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,22.MY TV
