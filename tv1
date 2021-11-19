@@ -10,6 +10,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,05.BTV CTG
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png", 06.ATN bangla
+http://tv.alphamediazone.com:8089/thunderbd/2/index.m3u8
+#EXTINF:-1,  ATN BANGLA 2
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png",07. Channel i
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
@@ -33,10 +35,14 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 ,13.RTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 ,14.Masranga 1
+http://tv.alphamediazone.com:8089/thunderbd/51/index.m3u8
 #EXTINF:-1 ,14.Masranga
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 ,14.Gazi tv
+http://tv.alphamediazone.com:8089/thunderbd/102/index.m3u8
 #EXTINF:-1 , Ban vs Pak
 http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
 #EXTINF:-1 , 18. India vs NZ 1
@@ -53,8 +59,12 @@ http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
 #EXTINF:-1 ,20.TEN 3
 http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
+#EXTINF:-1 ,21.Boyshakhi 1
+http://tv.alphamediazone.com:8089/thunderbd/61/index.m3u8
 #EXTINF:-1 ,21.Boyshakhi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
+#EXTINF:-1 ,22.MY TV 1
+http://tv.alphamediazone.com:8089/thunderbd/56/index.m3u8
 #EXTINF:-1 ,22.MY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 ,23. Channel 9
@@ -106,7 +116,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
 #EXTINF:-1 ,40.Colors Bangla HD
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 ,40.Colors Bangla HD new
-https://26gl.short.gy/ZeeBanglaHd-by-DoraTv.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/66/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="Indian Bangla",Colors Bangla
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3415
 #EXTINF:-1 ,44.Zee Bangla
@@ -122,7 +132,7 @@ http://last.gcdn.co/IND395/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,47.Akash
 https://last.gcdn.co/IND396/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,49.Star Plus
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/591.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/67/index.m3u8
 #EXTINF:-1 ,51.Star Plus hd
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1 ,51.Star Plus hd new
@@ -155,10 +165,10 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 ,61.Max HD 
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/585.m3u8
-#EXTINF:-1 ,62.Max HD 
-http://221.120.204.4/SONY-MAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,63.Max HD
-http://208.115.215.42/SonY_Max_HD/index.m3u8
+#EXTINF:-1 ,62.Max 
+http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
+#EXTINF:-1 ,63.zee cenema hd
+http://tv.alphamediazone.com:8089/thunderbd/76/index.m3u8
 #EXTINF:-1 ,64.Max 2
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
 #EXTINF:-1 ,65.Star gold HD
@@ -171,8 +181,8 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/604.m3u8
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:-1 ,69.Star Gold hd
 http://84.17.41.7:80/StarGoldHD-Hin/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="stargoldselecthd.in" tvg-name="Star Gold Select 4K" tvg-logo="https://watchindia.net/images/channels/hindi/Star_Gold_Select_HD.png" group-title="HINDI CHANNELS",Star Gold Select 4K
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/706.m3u8
+#EXTINF:-1,  zee action
+http://tv.alphamediazone.com:8089/thunderbd/90/index.m3u8
 #EXTINF:-1 ,70.Star Gold select
 http://43.230.123.21:8080/live/star-gold-select.m3u8
 #EXTINF:-1 ,71.Zee Cenema
@@ -191,8 +201,8 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/588.m3u8
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-pictures
 #EXTINF:-1 tvg-id="andpictureshd.in" tvg-name="& Pictures HD" tvg-logo="https://watchindia.net/images/channels/hindi/AndPictures_HD.png" group-title="HINDI CHANNELS",& Pictures HD
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvpictureshd
-#EXTINF:-1 ,76.zee action
-#http://93.190.139.35:8278/streams/d/Zeeaction/playlist.m3u8
+#EXTINF:-1 ,76. & flix
+http://tv.alphamediazone.com:8089/thunderbd/78/index.m3u8
 #EXTINF:-1 ,76.zee action
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeaction
 #EXTINF:-1 ,76.& flix
@@ -280,7 +290,7 @@ http://tv2.ebox.live:8080/live/animale-planet.m3u8
 #EXTINF:-1 ,53.TLC HD
 https://itvorigin.multitvsolution.com:443/idvo/tlchdhindi_540p/index.m3u8
 #EXTINF:-1 ,54.gaanbangla
-http://103.205.133.19/hls/gaanbangla.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/58/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TNk56Ai.png", Sangeet Bangla (2)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:0 tvg-id="ext" group-title="Sneh Music",Boogle Bollywood
@@ -288,13 +298,13 @@ http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b66
 #EXTINF:-1 tvg-id="b4umusic.in" tvg-name="B4U Music" tvg-logo="https://i.imgur.com/WbBOllK.png" group-title="HINDI CHANNELS",B4U Music
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/595.m3u8
 #EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/9x_music.jpg" group-title="HINDI CHANNELS",9XM
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/681.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/48/index.m3u8
 #EXTINF:-1 ,57.Masti
 https://snehz5tvnew.herokuapp.com?c=0-9-131
 #EXTINF:-1 tvg-id="mtvhdplus.in" tvg-name="MTV India" tvg-logo="https://watchindia.net/images/channels/hindi/MTV.png" group-title="HINDI CHANNELS",MTV India
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/710.m3u8
-#EXTINF:-1 tvg-id="mtvbeatshd.in" tvg-name="MTV Beats HD" tvg-logo="https://watchindia.net/images/channels/hindi/MTV_Beats_HD.png" group-title="HINDI CHANNELS",MTV Beats HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1338.m3u8
+#EXTINF:-1,  doom music
+http://tv.alphamediazone.com:8089/thunderbd/57/index.m3u8
 #EXTINF:-1 ,59.9x jalwa
 https://snehz5tvnew.herokuapp.com?c=0-9-134
 #EXTINF:-1 ,60.Zing
@@ -309,8 +319,8 @@ http://14.199.164.20:4001/play/a0p2/index.m3u8
 https://raw.githubusercontent.com/firojshahriyarmasud/IPTV/main/Channels/MTVIN.m3u8
 #EXTINF:-1 ,65.Mtv
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 ,66.proguti tv
-http://tv.bdiptv.com:8081/live/progoti/chunks.m3u8
+#EXTINF:-1 ,66.atn music
+http://tv.alphamediazone.com:8089/thunderbd/82/index.m3u8
 #EXTINF:-1 ,67.Movies Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 ,68.Joy Jatra
