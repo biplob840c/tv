@@ -16,7 +16,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png",07. Channel i
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,Channel i
-https://last.gcdn.co/IND419/index.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/6/index.m3u8
 #EXTINF:-1 ,08.Ekattor
 https://last.gcdn.co/IND429/index.m3u8
 #EXTINF:-1 ,09.Duronto
@@ -41,7 +41,9 @@ http://tv.alphamediazone.com:8089/thunderbd/51/index.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 ,14.Gazi tv
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/GTVBangladeshLogo.png" group-title="Bangla",GAZI TV
+http://103.78.255.178:8080/gtv/index.m3u8
+#EXTINF:-1 ,14.t sports
 http://tv.alphamediazone.com:8089/thunderbd/102/index.m3u8
 #EXTINF:-1 , Ban vs Pak
 http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
@@ -51,8 +53,8 @@ https://27y1.short.gy/StarSportsBDIX@torbapxD.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
 #EXTINF:-1 , 18.ind vs NZ 3
 http://93.152.174.144:4000/play/skysports2/index.m3u8
-#EXTINF:-1 , 18.Ban vs pak 2
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1637332186/ei/emCXYZPmMIL44-EPj86-uAY/ip/103.135.90.147/id/X2c91lkbPUw.1/source/yt_live_broadcast/requiressl/yes/tx/24105953/txs/24078603%2C24105952%2C24105953%2C24105954%2C24105955%2C24105956/hfr/1/playlist_duration/30/manifest_duration/30/gcr/bd/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cgcr%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIgUVP0lQPDSVJbYCuX_7TZbUFtGK2wqrmlbpiZK7rnh5kCIQC8L6QFhiV-RUyeWJSN_5N7fYBPEM445ydvJvxWhuDVlg%3D%3D/file/index.m3u8
+#EXTINF:-1 , 18.ten sports
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
 #EXTINF:-1 , 18. world cup 5
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 , 18. Video Channel
@@ -63,7 +65,7 @@ http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/61/index.m3u8
 #EXTINF:-1 ,21.Boyshakhi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
-#EXTINF:-1 ,22.MY TV 1
+#EXTINF:-1 ,21.my tv 1
 http://tv.alphamediazone.com:8089/thunderbd/56/index.m3u8
 #EXTINF:-1 ,22.MY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
@@ -87,7 +89,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 http://tv2.ebox.live:8080/live/ex-jamuna.m3u8
 #EXTINF:-1 ,33.Channel 24
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 ,34.DBC News
+#EXTINF:-1 ,33. dbc
 http://tv.alphamediazone.com:8089/thunderbd/7/index.m3u8
 #EXTINF:-1 ,35.Independent
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -112,7 +114,7 @@ http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 ,38.Jolsha movies HD
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 #EXTINF:-1 ,38.Jolsha movies HD
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3412
+http://tv.alphamediazone.com:8089/thunderbd/31/index.m3u8
 #EXTINF:-1 ,40.Colors Bangla HD
 http://tv2.ebox.live:8080/live/colors-bangla.m3u8
 #EXTINF:-1 ,40.Colors Bangla HD new
@@ -145,10 +147,10 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/605.m3u8
 http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2661.m3u8
 #EXTINF:-1 ,52.Colors HD
 http://208.115.215.42/Colors_TV_HD/index.m3u8
+#EXTINF:-1 ,52.Colors HD 2
+http://tv.alphamediazone.com:8089/thunderbd/38/index.m3u8
 #EXTINF:-1 ,53.Sony
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/1139.m3u8
-#EXTINF:-1 ,54.Sony HD
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/2659.m3u8
+http://tv.alphamediazone.com:8089/thunderbd/38/index.m3u8
 #EXTINF:-1 ,55.Sony hd
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 ,56.Zee Tv hd
@@ -157,8 +159,8 @@ http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/603.m3u8
 http://tv2.ebox.live:8080/live/colors.m3u8
 #EXTINF:-1 ,58.Zee Tv hd
 https://snehz5tvnew.herokuapp.com?c=0-9-zeetvhd
-#EXTINF:-1 ,59.Sony SAB
-http://iptv.ponnoshare.com:25461/live/Trivedi/Trivedi52/582.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
 #EXTINF:-1 ,60.Max hd new
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,60.Max hd
@@ -205,8 +207,8 @@ https://sneh-zee5tv-1.up.railway.app/?c=0-9-tvpictureshd
 http://tv.alphamediazone.com:8089/thunderbd/78/index.m3u8
 #EXTINF:-1 ,76.zee action
 https://sneh-zee5tv-1.up.railway.app/?c=0-9-zeeaction
-#EXTINF:-1 ,76.& flix
-https://sneh-zee5tv-1.up.railway.app/?c=0-9-channel_2105335046
+#EXTINF:-1 ,76.z cafe
+http://tv.alphamediazone.com:8089/thunderbd/69/index.m3u8
 #EXTINF:-1 ,77.&TV
 https://snehz5tvnew.herokuapp.com?c=0-9-tvhd_0
 #EXTINF:-1 ,78.Befix Movie
@@ -215,6 +217,8 @@ https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
 https://snehz5tvnew.herokuapp.com?c=0-9-zeeaction
 #EXTINF:-1 ,80.Nick e2
 http://tv2.ebox.live:8080/live/nick.m3u8
+#EXTINF:-1 ,81.CN
+http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2456.m3u8
 #EXTINF:-1 ,81.CN
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1 ,82. PTV sports
@@ -247,6 +251,8 @@ http://tv2.ebox.live:8080/live/sonyten-3.m3u8
 http://tv2.ebox.live:8080/live/Sky-Sports-cric.m3u8
 #EXTINF:-1 ,95. tvg-logo="https://i.imgur.com/C49YuUd.jpg", Sky Sports mix
 http://tv2.ebox.live:8080/live/Sky-Sports-Mix.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
+http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
 #EXTINF:-1 ,96. tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", Ten Cricket
 http://tv2.ebox.live:8080/live/ten-sports.m3u8
 #EXTINF:-1 ,97. tvg-logo="https://i.imgur.com/DnFiP02.png" group-title="Sports", ESPN
