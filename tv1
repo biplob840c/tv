@@ -223,6 +223,8 @@ http://tv.alphamediazone.com:8089/thunderbd/39/index.m3u8
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="Indian Worldwide", Star Movies Action IN
 http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2859
+#EXTINF: -1 group-title="Indian Worldwide", Star Movies HD IN
+http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/2818
 #EXTINF:0 tvg-id="ext" group-title="Sneh English Movies",Thrill
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 ,47.Star World
