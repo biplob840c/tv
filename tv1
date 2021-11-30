@@ -147,6 +147,8 @@ http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
 #EXTINF:-1 ,66.Star gold hd
 http://tv2.ebox.live:8080/live/star-gold.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
+http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjW-i3-Y7NykHYE8VNTnYE/m3u8
 #EXTINF:-1 ,68.RASI HD
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:-1,  zee action
