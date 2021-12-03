@@ -18,7 +18,7 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,08 Channel i
 http://tv.alphamediazone.com:8089/thunderbd/6/index.m3u8
 #EXTINF:-1 ,09.Ekattor
-http://portal.ramz123.xyz:8080/icaleia7/1FLxrHNvzy/5962
+http://208.86.19.21:80/604.stream/index.m3u8
 #EXTINF:-1 ,10.Duronto
 http://89.187.185.89:3232/ban-duronto/index.m3u8
 #EXTINF:-1 ,11. cartoon 
@@ -50,7 +50,7 @@ http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
 #EXTINF:-1 , 23. India vs NZ 1
 https://27y1.short.gy/StarSportsBDIX@torbapxD.m3u8
 #EXTINF:-1 , 24. India vs NZ 2
-http://tv.alphamediazone.com:8089/thunderbd/25/index.m3u8
+http://103.157.210.165:8000/play/a024/index.m3u8
 #EXTINF:-1 , 25.ind vs NZ 3
 https://csm-e-stv.tls1.yospace.com/csm/live/203444271.m3u8
 #EXTINF:-1 , 26.ten sports
@@ -59,8 +59,8 @@ http://tv.gadgetvaly.com:8880/live/bulbul/ASrlj2sBry/163.m3u8
 http://tv2.ebox.live:8080/live/nk-tsports.m3u8
 #EXTINF:-1 , 28. Video Channel
 http://stream1.livebox.co.in/kbcreationhls/live.m3u8
-#EXTINF:-1 ,29.TEN 3
-http://tv.alphamediazone.com:8089/thunderbd/22/index.m3u8
+#EXTINF:-1 ,29.willow
+http://208.86.19.21:80/731.stream/index.m3u8
 #EXTINF:-1 ,30.Boyshakhi 1
 http://tv.alphamediazone.com:8089/thunderbd/61/index.m3u8
 #EXTINF:-1 ,31.Boyshakhi
@@ -104,7 +104,7 @@ http://tv2.ebox.live:8080/live/star-jalsha.m3u8
 #EXTINF:-1 ,38.Jolsha movies HD
 http://suncable.serveftp.com/jalshamuvies-enc/video.m3u8
 #EXTINF:-1 ,38.Jolsha movies HD
-http://tv.alphamediazone.com:8089/thunderbd/31/index.m3u8
+http://208.86.19.21:80/716.stream/index.m3u8
 #EXTINF:-1 ,40.Colors Bangla HD
 http://tv.alphamediazone.com:8089/thunderbd/66/index.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/09phOKV.jpg" group-title="Indian Bangla",Colors Bangla
@@ -122,7 +122,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 ,47.Akash
 https://last.gcdn.co/IND396/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,49.Star Plus
-http://tv.alphamediazone.com:8089/thunderbd/67/index.m3u8
+http://103.131.212.138:8000/play/a01g/index.m3u8
 #EXTINF:-1 ,51.Star Plus hd
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1 ,51.Star Plus hd new
@@ -132,7 +132,7 @@ http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
 http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
 #EXTINF:-1 ,53.Sony
-http://tv.alphamediazone.com:8089/thunderbd/38/index.m3u8
+http://103.131.212.138:8000/play/a01k/index.m3u8
 #EXTINF:-1 ,55.Sony hd
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 ,57.Colors hd
@@ -142,7 +142,7 @@ http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,60.Max hd
 http://tv2.ebox.live:8080/live/sony-max.m3u8
 #EXTINF:-1 ,62.Max 
-http://tv.alphamediazone.com:8089/thunderbd/77/index.m3u8
+http://103.131.212.138:8000/play/a02b/index.m3u8
 #EXTINF:-1 ,64.Max 2
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
 #EXTINF:-1 ,66.Star gold hd
@@ -155,14 +155,14 @@ http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 http://tv.alphamediazone.com:8089/thunderbd/90/index.m3u8
 #EXTINF:-1 ,71.Zee Cenema
 http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,63.zee cenema hd
-http://tv.alphamediazone.com:8089/thunderbd/76/index.m3u8
+#EXTINF:-1 ,63.star gold select hd
+http://103.131.212.138:8000/play/a015/index.m3u8
 #EXTINF:-1 ,73.Zee Cenema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,76. & flix
-http://tv.alphamediazone.com:8089/thunderbd/78/index.m3u8
-#EXTINF:-1 ,76.z cafe
-http://tv.alphamediazone.com:8089/thunderbd/69/index.m3u8
+#EXTINF:-1 ,76. Utv action
+http://103.131.212.138:8000/play/a00k/index.m3u8
+#EXTINF:-1 ,76.star movies
+http://103.131.212.138:8000/play/a00v/index.m3u8
 #EXTINF:-1 ,77.&TV
 https://snehz5tvnew.herokuapp.com?c=0-9-tvhd_0
 #EXTINF:-1 ,78.Befix Movie
@@ -176,7 +176,7 @@ http://latinosiptv.online:8090/live/notocar/xmauc84bx1/2456.m3u8
 #EXTINF:-1 ,81.CN
 https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index_4.m3u8
 #EXTINF:-1 ,82. PTV sports
-http://tv2.ebox.live:8080/live/ptvsports.m3u8
+http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:-1 ,83. star sports-1
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
 #EXTINF:-1 ,87. six
@@ -219,8 +219,8 @@ http://live.siyathatv.lk:19904/hls/siyatha_tv.m3u8
 http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:-1 ,46.HBO
 http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
-#EXTINF:-1 ,47.ano Movies HD
-http://tv.alphamediazone.com:8089/thunderbd/39/index.m3u8
+#EXTINF:-1 ,47.Movies now
+http://103.131.212.138:8000/play/a034/index.m3u8
 #EXTINF:-1 ,47.Star Movies HD
 http://221.120.204.4/STAR-MOVIEAS-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF: -1 group-title="Indian Worldwide", Star Movies Action IN
@@ -257,8 +257,8 @@ https://snehz5tvnew.herokuapp.com?c=0-9-131
 https://snehz5tvnew.herokuapp.com?c=0-9-zing
 #EXTINF:-1 ,61.9x Tashan
 https://snehz5tvnew.herokuapp.com?c=0-9-133
-#EXTINF:-1 ,63.M tunes
-http://14.199.164.20:4001/play/a0p2/index.m3u8
+#EXTINF:-1 ,63 B4U
+http://208.86.19.21:80/733.stream/index.m3u8
 #EXTINF:-1 ,66.atn music
 http://tv.alphamediazone.com:8089/thunderbd/82/index.m3u8
 #EXTINF:-1 ,67.Movies Bangla
