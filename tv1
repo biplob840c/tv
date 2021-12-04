@@ -10,13 +10,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,05.BTV CTG
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png", 06.ATN bangla
-http://tv.alphamediazone.com:8089/thunderbd/2/index.m3u8
+http://etv.roarzone.info:8081/thunderbd/2/chunks.m3u8?nimblesessionid=9502662&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDk6MzM6MjcgQU0maGFzaF92YWx1ZT1UTTNlTmkwTzZxOTNXajRqYlJxaDVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1, 07. ATN BANGLA 2
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png",07. Channel i
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,08 Channel i
-http://tv.alphamediazone.com:8089/thunderbd/6/index.m3u8
+http://etv.roarzone.info:8081/thunderbd/6/chunks.m3u8?nimblesessionid=9502612&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDk6MzI6NDIgQU0maGFzaF92YWx1ZT14WmRsdjduNFpjekpCUGJHclY2cUdRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 ,09.Ekattor
 http://208.86.19.21:80/604.stream/index.m3u8
 #EXTINF:-1 ,10.Duronto
@@ -28,11 +28,13 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,13.NTV Uk
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 ,14.ntv
-https://last.gcdn.co/IND420/index.m3u8
+http://etv.roarzone.info:8081/thunderbd/54/chunks.m3u8?nimblesessionid=9502510&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDk6MzE6MzggQU0maGFzaF92YWx1ZT1YN3N3aHZZSzd1bEFrQ0dxYnE1VjVRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangla",12.Bangla Vision
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,16.ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 ,16.ETV
+http://etv.roarzone.info:8081/thunderbd/65/chunks.m3u8?nimblesessionid=9502274&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDk6Mjg6NTEgQU0maGFzaF92YWx1ZT1MR1E4dUxqbHJuU1duUFZIRlZiWDFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 ,17.RTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 ,18.Masranga 1
@@ -66,7 +68,7 @@ http://tv.alphamediazone.com:8089/thunderbd/61/index.m3u8
 #EXTINF:-1 ,31.Boyshakhi
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,32.my tv 1
-http://tv.alphamediazone.com:8089/thunderbd/56/index.m3u8
+http://etv.roarzone.info:8081/thunderbd/56/chunks.m3u8?nimblesessionid=9502744&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDk6MzQ6MzIgQU0maGFzaF92YWx1ZT12dlkwdU5lZkJLTHk3clRGWENuTkRBPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
 #EXTINF:-1 ,22.MY TV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 ,23. Channel 9
