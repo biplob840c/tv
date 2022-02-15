@@ -183,20 +183,22 @@ https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29e
 http://221.120.204.4/LOCKLE-PTV-SPORTS/index.m3u8
 #EXTINF:-1 ,83. star sports-1
 http://tv2.ebox.live:8080/live/starsports-1.m3u8
+#EXTINF:-1 ,83. star sports-1
+http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 ,87. six
-http://tv.alphamediazone.com:8089/thunderbd/24/index.m3u8
+http://live.flixhub.net/hls/sonysix.m3u8
 #EXTINF:-1 ,84. ten 1
-http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
+http://live.flixhub.net/hls/sonyten1.m3u8
 #EXTINF:-1 ,85. tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Ten 2
-http://tv.alphamediazone.com:8089/thunderbd/21/index.m3u8
+http://live.flixhub.net/hls/sonyten2.m3u8
 #EXTINF:-1 ,89.TEN 3
-http://tv.alphamediazone.com:8089/thunderbd/20/index.m3u8
+http://live.flixhub.net/hls/sonyten3.m3u8
 #EXTINF:-1 ,86. star sports-2
 http://tv2.ebox.live:8080/live/starsportshd-2.m3u8
 #EXTINF:-1 ,88. tvg-logo="https://i.imgur.com/TL2jAU6.png", Star Sports Select 1 HD 
-http://tv.alphamediazone.com:8089/thunderbd/27/index.m3u8
+http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 ,89.Star Sports Select 2 HD
-http://tv.alphamediazone.com:8089/thunderbd/28/index.m3u8
+http://live.flixhub.net/hls/select2.m3u8
 #EXTINF:-1 ,90.Sony Six HD
 http://tv2.ebox.live:8080/live/sonysix.m3u8
 #EXTINF:-1 ,91.TEN 1 HD
