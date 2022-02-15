@@ -9,8 +9,8 @@ http://103.106.2.149:13456/btv.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 ,05.BTV CTG
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/5PsRkPd.png", 06.ATN bangla
-http://etv.roarzone.info:8081/thunderbd/2/chunks.m3u8?nimblesessionid=9502662&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDk6MzM6MjcgQU0maGFzaF92YWx1ZT1UTTNlTmkwTzZxOTNXajRqYlJxaDVnPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 channel i
+http://live.flixhub.net/hls/channeli.m3u8
 #EXTINF:-1, 07. ATN BANGLA 2
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png",07. Channel i
@@ -33,12 +33,14 @@ http://etv.roarzone.info:8081/thunderbd/54/chunks.m3u8?nimblesessionid=9502510&w
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,16.ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,16.ETV
-http://etv.roarzone.info:8081/thunderbd/65/chunks.m3u8?nimblesessionid=9502274&wmsAuthSign=c2VydmVyX3RpbWU9MTIvNC8yMDIxIDk6Mjg6NTEgQU0maGFzaF92YWx1ZT1MR1E4dUxqbHJuU1duUFZIRlZiWDFRPT0mdmFsaWRtaW51dGVzPTYwJmlkPTU=
+#EXTINF:-1 ,16.Gazi tv
+http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 ,17.RTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 ,18.Jolsha Movies
 http://live.flixhub.net/hls/jalshamovies.m3u8
+#EXTINF:-1 ,19.Masranga
+http://live.flixhub.net/hls/masranga.m3u8
 #EXTINF:-1 ,19.Masranga
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
@@ -46,9 +48,9 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 #EXTINF:-1 ,19 Utv action
 http://live.flixhub.net/hls/utvaction.m3u8
 #EXTINF:-1 ,21.t sports
-http://tv.alphamediazone.com:8089/thunderbd/102/index.m3u8
-#EXTINF:-1 , 22. Ban vs Pak
-http://tv.alphamediazone.com:8089/thunderbd/1/index.m3u8
+http://live.flixhub.net/hls/t-sports.m3u8
+#EXTINF:-1 , 22. Somoi tv
+http://live.flixhub.net/hls/somoy.m3u8
 #EXTINF:-1 , 23. India vs NZ 1
 https://27y1.short.gy/StarSportsBDIX@torbapxD.m3u8
 #EXTINF:-1 , 24. India vs NZ 2
