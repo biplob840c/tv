@@ -226,7 +226,7 @@ http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1 ,46.HBO hd
 http://tv2.ebox.live:8080/live/hbo.m3u8
 #EXTINF:-1 ,46.HBO
-http://50.7.161.82:8278/streams/d/Hbo/playlist.m3u8
+
 #EXTINF:-1 ,47.Movies now
 
 #EXTINF:-1 ,47.Star Movies HD
@@ -242,7 +242,7 @@ http://45.126.83.51/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 ,47.PIX hd
 
 #EXTINF:-1 ,50.MBC
-https://shls-mbcbollywood-prod-dub.shahid.net/out/v1/a79c9d7ef2a64a54a64d5c4567b3462a/index_3.m3u8
+
 #EXTINF:-1 ,52.Discovery Bangla
 http://live.flixhub.net/hls/discovery.m3u8
 #EXTINF:-1 ,52.travel xp
@@ -258,17 +258,24 @@ http://live.flixhub.net/hls/animalplanent.m3u8
 #EXTINF:-1, wild
 http://live.flixhub.net/hls/wild.m3u8
 #EXTINF:-1 tvg-id="9xm.in" tvg-name="9XM" tvg-logo="http://www.tv-logo.com/pt-data/uploads/images/logo/9x_music.jpg" group-title="HINDI CHANNELS",9XM
-http://tv.alphamediazone.com:8089/thunderbd/48/index.m3u8
+
 #EXTINF:-1 ,57.9xm
-https://snehz5tvnew.herokuapp.com?c=0-9-131
+
 #EXTINF:-1 ,60.Zing
-https://snehz5tvnew.herokuapp.com?c=0-9-zing
-#EXTINF:-1 ,61.9x Tashan
-https://snehz5tvnew.herokuapp.com?c=0-9-133
-#EXTINF:-1 ,63 B4U
-http://208.86.19.21:80/733.stream/index.m3u8
-#EXTINF:-1 ,66.atn music
-http://tv.alphamediazone.com:8089/thunderbd/82/index.m3u8
+
+
+
+ht
+htt
+http
+
+
+om
+
+http
+ht
+
+
 #EXTINF:-1 ,67.Movies Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 ,67.red bull
