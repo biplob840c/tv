@@ -124,57 +124,57 @@ http://live.flixhub.net/hls/zeebanglahd.m3u8
 #EXTINF:-1 , Star Jolsha
 http://live.flixhub.net/hls/starjalsha.m3u8
 #EXTINF:-1 ,47.sony att
-http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 ,47.Akash
-https://last.gcdn.co/IND396/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,47.sun bangla
+http://live.flixhub.net/hls/sunbangla.m3u8
 #EXTINF:-1 ,49.Star Plus
-http://103.131.212.138:8000/play/a01g/index.m3u8
+http://live.flixhub.net/hls/starplus.m3u8
 #EXTINF:-1 ,51.Star Plus hd
 http://tv2.ebox.live:8080/live/star-plus.m3u8
 #EXTINF:-1 ,51.Star Plus hd new
-http://221.120.204.4/star-plus-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star plus
-http://221.120.204.4/star-plus-LOCKLE/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uu2TekX.png" group-title="Hindi", Star Bharat
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsR2Xg8-2MnqWaWVHeT0o17c/m3u8
+
 #EXTINF:-1 ,53.Sony
-http://103.131.212.138:8000/play/a01k/index.m3u8
+http://live.flixhub.net/hls/sonyen.m3u8
 #EXTINF:-1 ,55.Sony hd
 http://tv2.ebox.live:8080/live/sonyhd.m3u8
 #EXTINF:-1 ,57.Colors hd
-http://tv2.ebox.live:8080/live/colors.m3u8
+http://live.flixhub.net/hls/colore-tv-hd.m3u8
 #EXTINF:-1 ,60.Max hd new
 http://221.120.204.4/SONY-MAX-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,60.Max hd
-http://tv2.ebox.live:8080/live/sony-max.m3u8
+
 #EXTINF:-1 ,62.Max 
-http://103.131.212.138:8000/play/a02b/index.m3u8
+
 #EXTINF:-1 ,64.Max 2
 http://tv2.ebox.live:8080/live/sony-max-2.m3u8
 #EXTINF:-1 ,66.Star gold hd
 http://tv2.ebox.live:8080/live/star-gold.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
-http://b1g.one:80/play/0s9_4iSMkEsoaD2War1qsYjW-i3-Y7NykHYE8VNTnYE/m3u8
+http://live.flixhub.net/hls/stargold2hd.m3u8
 #EXTINF:-1 ,68.RASI HD
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
 #EXTINF:-1,  zee action
-http://tv.alphamediazone.com:8089/thunderbd/90/index.m3u8
+
 #EXTINF:-1 ,71.Zee Cenema
-http://208.115.215.42/ZEE_CInema_HD/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,63.star gold select hd
-http://103.131.212.138:8000/play/a015/index.m3u8
+
 #EXTINF:-1 ,73.Zee Cenema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,76. Utv action
-http://103.131.212.138:8000/play/a00k/index.m3u8
+
 #EXTINF:-1 ,76.star movies
-http://103.131.212.138:8000/play/a00v/index.m3u8
-#EXTINF:-1 ,77.&TV
-https://snehz5tvnew.herokuapp.com?c=0-9-tvhd_0
+http://live.flixhub.net/hls/starmovies.m3u8
+#EXTINF:-1 ,77.CN
+http://live.flixhub.net/hls/cn.m3u8
 #EXTINF:-1 ,78.Befix Movie
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1 ,79.Zee Action
-https://snehz5tvnew.herokuapp.com?c=0-9-zeeaction
+#EXTINF:-1 ,79.nick
+http://live.flixhub.net/hls/nick.m3u8
 #EXTINF:-1 ,80.Nick e2
 http://tv2.ebox.live:8080/live/nick.m3u8
 #EXTINF:-1 ,81.CN
