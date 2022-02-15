@@ -157,16 +157,16 @@ http://tv2.ebox.live:8080/live/star-gold.m3u8
 http://live.flixhub.net/hls/stargold2hd.m3u8
 #EXTINF:-1 ,68.RASI HD
 http://singamcloud.in:1935/rasinetwork/rasihindi/playlist.m3u8
-#EXTINF:-1,  zee action
-
-#EXTINF:-1 ,71.Zee Cenema
-
-#EXTINF:-1 ,63.star gold select hd
-
+#EXTINF:-1,  mn+
+http://live.flixhub.net/hls/mn+.m3u8
+#EXTINF:-1 ,71.mnx
+http://live.flixhub.net/hls/mnx-hd.m3u8
+#EXTINF:-1 ,63.pix
+http://live.flixhub.net/hls/sonypixhd.m3u8
 #EXTINF:-1 ,73.Zee Cenema HD
 http://221.120.204.4/zee-cinema-LOCKLE/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,76. Utv action
-
+#EXTINF:-1 ,76. movies now
+http://live.flixhub.net/hls/movies-now.m3u8
 #EXTINF:-1 ,76.star movies
 http://live.flixhub.net/hls/starmovies.m3u8
 #EXTINF:-1 ,77.CN
