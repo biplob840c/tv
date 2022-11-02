@@ -41,10 +41,12 @@ http://live.flixhub.net/hls/masranga.m3u8
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 , 23. Sports
-https://27y1.short.gy/StarSportsBDIX@torbapxD.m3u8
+#EXTINF:-1 , 23. t Sports
+http://30.30.30.30/live/skyfeed2001/index.m3u8
+#EXTINF:-1 , 23. GTV 2 
+http://30.30.30.30/live/skyfeed1005/index.m3u8
 #EXTINF:-1 , 27. star sports 1
-https://nbn.chowdhury-shaheb.com/live/nb-starsports1_720p/chunks.m3u8
+http://30.30.30.30/live/skyfeed1011/index.m3u8
 #EXTINF:-1 ,31.Boyshakhi
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,32.and picture 
