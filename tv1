@@ -45,8 +45,12 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://30.30.30.30/live/skyfeed2001/index.m3u8
 #EXTINF:-1 , 23. GTV 2 
 http://30.30.30.30/live/skyfeed1005/index.m3u8
+#EXTINF:-1 , 23. GTV 3
+http://30.30.30.30/live/skyfeed2004/index.m3u8
 #EXTINF:-1 , 27. star sports 1
 http://30.30.30.30/live/skyfeed1011/index.m3u8
+#EXTINF:-1 , 27. ptv sports 
+http://30.30.30.30/live/skyfeed2003/index.m3u8
 #EXTINF:-1 ,31.Boyshakhi
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,32.and picture 
@@ -110,7 +114,7 @@ http://live.flixhub.net/hls/sunbangla.m3u8
 #EXTINF:-1 ,19 Utv action
 http://live.flixhub.net/hls/utvaction.m3u8
 #EXTINF:-1 , 28. Max
-http://live.flixhub.net/hls/sonymax.m3u8
+http://30.30.30.30/live/skyfeed2007/index.m3u8
 #EXTINF:-1 ,29.Max HD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
 #EXTINF:-1 ,30.star gold
