@@ -31,6 +31,8 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 , t sports
 http://10.90.90.114:8081/thunderbd/102/chunks.m3u8?nimblesessionid=7986122&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAzOjM1OjU4IFBNJmhhc2hfdmFsdWU9STBhTUNZQitaUTdlamczN1dGaEtnUT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 , t sports
+http://103.127.93.82:8234/TSports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 , T sports
 http://103.145.76.43:8080/hls/show.m3u8
 #EXTINF:-1 , sports 18
