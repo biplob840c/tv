@@ -17,18 +17,32 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png " group-title="Bangla",Somoy
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1, 07. ekattor
+http://live.flixhub.net/hls/nexus.m3u8
 #EXTINF:-1 ,13.NTV Uk
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
+#EXTINF:-1 ,13.NTV
+http://10.90.90.114:8081/thunderbd/54/chunks.m3u8?nimblesessionid=7986634&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAzOjM4OjA5IFBNJmhhc2hfdmFsdWU9dFRDZkJxYi80ZU54OXhuWm1YRVFTZz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangla",12.Bangla Vision
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,16.ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 , t sports
 http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , t sports
+http://10.90.90.114:8081/thunderbd/102/chunks.m3u8?nimblesessionid=7986122&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAzOjM1OjU4IFBNJmhhc2hfdmFsdWU9STBhTUNZQitaUTdlamczN1dGaEtnUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 , T sports
 http://103.145.76.43:8080/hls/show.m3u8
+#EXTINF:-1 , sports 18
+http://live.flixhub.net/hls/bein1.m3u8
 #EXTINF:-1 ,16.Gazi tv
 http://live.flixhub.net/hls/Gazi-TV.m3u8
+#EXTINF:-1 ,16.Gazi tv
+http://103.123.169.206:8081/hls/potato-1.m3u8
+#EXTINF:-1 ,16.Gazi tv 2
+http://10.90.90.114:8081/thunderbd/1/chunks.m3u8?nimblesessionid=7985933&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAzOjM1OjE1IFBNJmhhc2hfdmFsdWU9R1RXNUlhbWVOeElrZVVuWENXQ3JQUT09JnZhbGlkbWludXRlcz02MCZpZD01
+#EXTINF:-1 ,16.world cup
+http://10.90.90.114:8081/thunderbd/53/chunks.m3u8?nimblesessionid=7986428&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAzOjM3OjIwIFBNJmhhc2hfdmFsdWU9NkRIaHdPQnkxcElDanFBdWVDaXJzUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 ,17.RTV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 ,18.Jolsha Movies
