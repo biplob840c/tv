@@ -27,8 +27,8 @@ http://10.90.90.114:8081/thunderbd/54/chunks.m3u8?nimblesessionid=7986634&wmsAut
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,16.ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 , t sports
-http://103.78.255.178:8080/starselect1/tracks-v1a1/mono.m3u8
+#EXTINF:-1 , tofee
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 , t sports
 http://10.90.90.114:8081/thunderbd/102/chunks.m3u8?nimblesessionid=7986122&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAzOjM1OjU4IFBNJmhhc2hfdmFsdWU9STBhTUNZQitaUTdlamczN1dGaEtnUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 , T sports
