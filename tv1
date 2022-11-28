@@ -32,7 +32,7 @@ https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 , t sports
 http://10.90.90.114:8081/thunderbd/102/chunks.m3u8?nimblesessionid=7986122&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAzOjM1OjU4IFBNJmhhc2hfdmFsdWU9STBhTUNZQitaUTdlamczN1dGaEtnUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 , t sports
-http://103.127.93.82:8234/TSports/tracks-v1a1/mono.m3u8
+http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 , T sports
 http://103.145.76.43:8080/hls/show.m3u8
 #EXTINF:-1 , sports 18
@@ -42,7 +42,7 @@ http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 ,16.Gazi tv
 http://103.123.169.206:8081/hls/potato-1.m3u8
 #EXTINF:-1 ,16.Gazi tv 2
-http://10.90.90.114:8081/thunderbd/1/chunks.m3u8?nimblesessionid=7985933&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAzOjM1OjE1IFBNJmhhc2hfdmFsdWU9R1RXNUlhbWVOeElrZVVuWENXQ3JQUT09JnZhbGlkbWludXRlcz02MCZpZD01
+http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
 #EXTINF:-1 ,16.world cup
 http://10.90.90.114:8081/thunderbd/53/chunks.m3u8?nimblesessionid=7986428&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAzOjM3OjIwIFBNJmhhc2hfdmFsdWU9NkRIaHdPQnkxcElDanFBdWVDaXJzUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 ,17.RTV
