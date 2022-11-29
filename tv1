@@ -11,12 +11,16 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1, channel i
 http://live.flixhub.net/hls/channeli.m3u8
+#EXTINF:-1, 07. ATN BANGLA
+http://tv2.efiberbd.net:8080/live/mkaua/stream/49.m3u8
 #EXTINF:-1, 07. ATN BANGLA 2
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png",07. Channel i
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png " group-title="Bangla",Somoy
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+#EXTINF:-1, 07. channel i
+http://tv2.efiberbd.net:8080/live/mkaua/stream/50.m3u8
 #EXTINF:-1, 07. ekattor
 http://live.flixhub.net/hls/nexus.m3u8
 #EXTINF:-1 ,13.NTV Uk
@@ -42,7 +46,7 @@ http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 ,16.Gazi tv
 http://103.123.169.206:8081/hls/potato-1.m3u8
 #EXTINF:-1 ,16.Gazi tv 2
-http://tv2.efiberbd.net:8080/live/mkaua/stream/4.m3u8
+http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:-1 ,16.world cup
 http://10.90.90.114:8081/thunderbd/53/chunks.m3u8?nimblesessionid=7986428&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAzOjM3OjIwIFBNJmhhc2hfdmFsdWU9NkRIaHdPQnkxcElDanFBdWVDaXJzUT09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 ,17.RTV
@@ -126,21 +130,25 @@ http://live.flixhub.net/hls/sunbangla.m3u8
 #EXTINF:-1 ,19 Utv action
 http://live.flixhub.net/hls/utvaction.m3u8
 #EXTINF:-1 , 28. Max
-http://30.30.30.30/live/skyfeed2007/index.m3u8
+http://tv2.efiberbd.net:8080/live/mkaua/stream/25.m3u8
 #EXTINF:-1 ,29.Max HD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
 #EXTINF:-1 ,30.star gold
 http://live.flixhub.net/hls/stargold.m3u8
 #EXTINF:-1 ,30.z cenema
 http://live.flixhub.net/hls/zeecinemahd.m3u8
+#EXTINF:-1 ,30.z cenema
+http://tv2.efiberbd.net:8080/live/mkaua/stream/26.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
 http://live.flixhub.net/hls/stargold2hd.m3u8
 #EXTINF:-1 ,49.Star Plus
 http://live.flixhub.net/hls/starplus.m3u8
+#EXTINF:-1 ,49.Star Plus
+http://tv2.efiberbd.net:8080/live/mkaua/stream/20.m3u8
 #EXTINF:-1 ,53.Sony
 http://live.flixhub.net/hls/sonyen.m3u8
 #EXTINF:-1 ,53.Sony 2
-http://103.149.130.122:8089/38/index.m3u8
+http://tv2.efiberbd.net:8080/live/mkaua/stream/22.m3u8
 #EXTINF:-1 ,57.Colors hd
 http://live.flixhub.net/hls/colore-tv-hd.m3u8
 #EXTINF:-1 ,64.colorscineplex
@@ -259,3 +267,9 @@ http://30.30.30.30/live/skyfeed2004/index.m3u8
 http://30.30.30.30/live/skyfeed1011/index.m3u8
 #EXTINF:-1 , 27. ptv sports 
 http://30.30.30.30/live/skyfeed2003/index.m3u8
+#EXTINF:-1 , 27. sangit bangla
+http://tv2.efiberbd.net:8080/live/mkaua/stream/59.m3u8
+#EXTINF:-1 , 27. 9xm
+http://tv2.efiberbd.net:8080/live/mkaua/stream/65.m3u8
+#EXTINF:-1 , 27. 9x jalwa
+http://tv2.efiberbd.net:8080/live/mkaua/stream/67.m3u8
