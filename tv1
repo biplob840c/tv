@@ -3,8 +3,8 @@
 http://live.flixhub.net/hls/qurqntv.m3u8
 #EXhttp://live.flixhub.net/hls/qurqntv.m3u8TINF:-1 ,02. Modina tv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 ,03.BTV. tvg-id="(no tvg-id)" tvg-name="Btv tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png/revision/latest?cb=20210409072736 " group-title="Bangla",03.Btv
-http://103.106.2.149:13456/btv.m3u8
+#EXTINF:-1 ,03.amar bangla
+http://tv2.efiberbd.net:8080/live/mkaua/stream/11.m3u8
 #EXTINF:-1 ,04.BTV
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 #EXTINF:-1 ,05.BTV CTG
@@ -51,8 +51,14 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://live.flixhub.net/hls/jalshamovies.m3u8
 #EXTINF:-1 ,19.Masranga
 http://live.flixhub.net/hls/masranga.m3u8
-#EXTINF:-1 ,19.Masranga
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mass.stream/chunks.m3u8
+#EXTINF:-1 ,19.jolsha movies
+http://tv2.efiberbd.net:8080/live/mkaua/stream/12.m3u8
+
+
+#EXTINF:-1,  duronto
+http://tv2.efiberbd.net:8080/live/mkaua/stream/15.m3u8
+
+
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 ,31.sanonda
