@@ -26,7 +26,7 @@ http://live.flixhub.net/hls/nexus.m3u8
 #EXTINF:-1 ,13.NTV Uk
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 ,13.NTV
-http://10.90.90.114:8081/thunderbd/54/chunks.m3u8?nimblesessionid=7986634&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAzOjM4OjA5IFBNJmhhc2hfdmFsdWU9dFRDZkJxYi80ZU54OXhuWm1YRVFTZz09JnZhbGlkbWludXRlcz02MCZpZD01
+http://202.53.170.254:8080/NTV/tracks-v1a1/mono.m3u8?token=ac6f11c4569d0b6443f85678a7b0efa0d52568ae-d4876af2a26026fd634346ca602df1cc-1669837342-1669826542
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangla",12.Bangla Vision
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,16.ETV
