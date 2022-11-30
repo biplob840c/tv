@@ -34,7 +34,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 , tofee
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 , t sports
-http://202.53.170.254:8080/WorldCup2022SD/tracks-v1a1/mono.m3u8?token=c2a2416b8f358ab028a2722f3554ded95f84b7e1-8952dd8cca1869d0d96ddb47dac039c2-1669842838-1669832038
+http://202.53.170.254:8080/WorldCup2022SD/tracks-v1a1/mono.m3u8?token=ea00886d143ea4f2db3fbc3bbcdcd5609548354d-0b296fad88cf0b18b4aa9c228eeccb5f-1669843280-1669832480
 #EXTINF:-1 , T sports
 http://103.145.76.43:8080/hls/show.m3u8
 #EXTINF:-1 , sports 18
