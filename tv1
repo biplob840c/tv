@@ -222,3 +222,5 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/59.m3u8
 http://tv2.efiberbd.net:8080/live/mkaua/stream/65.m3u8
 #EXTINF:-1 , 27. 9x jalwa
 http://tv2.efiberbd.net:8080/live/mkaua/stream/67.m3u8
+#EXTINF:-1 , 27. zoom
+http://202.53.170.254:8080/Zoom/tracks-v1a1/mono.m3u8?token=744bdda8cfaf1db186e2934f3690c691deb2b8dc-ec0cc23913caec6f479d8840902285c8-1669838708-1669827908
