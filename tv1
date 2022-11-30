@@ -50,9 +50,7 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 , T sports
 http://103.123.169.206:8081/hls/potato-2.m3u8
 #EXTINF:-1 ,16.world cup
-http://202.53.170.254:8080/TSportsHD/tracks-v1a1/mono.m3u8?token=4f991522c110184fb52bc47d5c3ca7c10e0ada8c-cb71c9ab2a3c7716edf5153f0a7f633e-1669837480-1669826680
-#EXTINF:-1 ,21.rtv
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+http://10.90.90.114:8081/thunderbd/102/chunks.m3u8?nimblesessionid=8739980&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiA1OjIyOjAzIFBNJmhhc2hfdmFsdWU9Q1N6UnZuanp2K25vMXl6OCtlOWhqdz09JnZhbGlkbWludXRlcz02MCZpZD01
 #EXTINF:-1 ,21.ten sports
 http://103.123.169.206:8081/hls/potato-4.m3u8
 #EXTINF:-1 ,18.Jolsha Movies
