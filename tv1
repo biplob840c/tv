@@ -50,7 +50,7 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 , T sports
 http://103.123.169.206:8081/hls/potato-2.m3u8
 #EXTINF:-1 ,16.world cup
-http://10.90.90.114:8081/thunderbd/102/chunks.m3u8?nimblesessionid=8739980&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMzAvMjAyMiA1OjIyOjAzIFBNJmhhc2hfdmFsdWU9Q1N6UnZuanp2K25vMXl6OCtlOWhqdz09JnZhbGlkbWludXRlcz02MCZpZD01
+http://103.102.27.173/live/tvfeed1001/index.m3u8
 #EXTINF:-1 ,21.ten sports
 http://103.123.169.206:8081/hls/potato-4.m3u8
 #EXTINF:-1 ,18.Jolsha Movies
