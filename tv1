@@ -34,9 +34,9 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 , tofee
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 , t sports
-http://202.53.170.254:8080/WorldCup2022SD/tracks-v1a1/mono.m3u8?token=d5cedbc384c0bd1fd165d5e4186d82ada13fda37-d30448d6ecfa67cadc27a14f1d31e6bc-1669837112-1669826312
-#EXTINF:-1 , t sports
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
+#EXTINF:-1 , t sports
+http://202.53.170.254:8080/WorldCup2022SD/tracks-v1a1/mono.m3u8?token=d5cedbc384c0bd1fd165d5e4186d82ada13fda37-d30448d6ecfa67cadc27a14f1d31e6bc-1669837112-1669826312
 #EXTINF:-1 , T sports
 http://103.145.76.43:8080/hls/show.m3u8
 #EXTINF:-1 , sports 18
@@ -45,24 +45,23 @@ http://live.flixhub.net/hls/bein1.m3u8
 http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 ,16.Gazi tv
 http://103.123.169.206:8081/hls/potato-1.m3u8
+#EXTINF:-1 , T sports
+http://103.123.169.206:8081/hls/potato-2.m3u8
 #EXTINF:-1 ,16.Gazi tv 2
 http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 #EXTINF:-1 ,16.world cup
-http://10.90.90.114:8081/thunderbd/53/chunks.m3u8?nimblesessionid=7986428&wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjYvMjAyMiAzOjM3OjIwIFBNJmhhc2hfdmFsdWU9NkRIaHdPQnkxcElDanFBdWVDaXJzUT09JnZhbGlkbWludXRlcz02MCZpZD01
-#EXTINF:-1 ,17.RTV
+http://202.53.170.254:8080/TSportsHD/tracks-v1a1/mono.m3u8?token=4f991522c110184fb52bc47d5c3ca7c10e0ada8c-cb71c9ab2a3c7716edf5153f0a7f633e-1669837480-1669826680
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 ,21.ten sports
+http://103.123.169.206:8081/hls/potato-4.m3u8
 #EXTINF:-1 ,18.Jolsha Movies
 http://live.flixhub.net/hls/jalshamovies.m3u8
 #EXTINF:-1 ,19.Masranga
 http://live.flixhub.net/hls/masranga.m3u8
 #EXTINF:-1 ,19.jolsha movies
 http://tv2.efiberbd.net:8080/live/mkaua/stream/12.m3u8
-
-
 #EXTINF:-1,  duronto
 http://tv2.efiberbd.net:8080/live/mkaua/stream/15.m3u8
-
-
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 ,31.sanonda
@@ -103,8 +102,6 @@ https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=2
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 , 22. Somoi tv
 http://live.flixhub.net/hls/somoy.m3u8
-#EXTINF:-1 ,21.t sports
-http://live.flixhub.net/hls/t-sports.m3u8
 #EXTINF:-1 , 24. six
 http://live.flixhub.net/hls/sonysix.m3u8
 #EXTINF:-1 , 25.ten1
