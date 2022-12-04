@@ -49,7 +49,7 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/36.m3u8
 http://tv2.efiberbd.net:8080/live/mkaua/stream/3.m3u8
 #EXTINF:-1 , T sports
 http://103.123.169.206:8081/hls/potato-2.m3u8
-#EXTINF:-1 ,16.world cup
+#EXTINF:-1 ,16.Ban vs Ind
 https://jellyflix.ga/jellyflix/videos/cc12486b-b38b-9470-ffa2-e0be9cef8c34/live.m3u8?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOC4wLjAuMCBTYWZhcmkvNTM3LjM2fDE2NzAxNDk2NDYxOTY1&MediaSourceId=f23466229107fee99d7ac84890d242ba&VideoCodec=h264,h264&AudioCodec=aac&AudioStreamIndex=-1&VideoBitrate=223808000&AudioBitrate=192000&AudioSampleRate=48000&MaxFramerate=25&PlaySessionId=961434ac25584f6c9e570570425e9122&api_key=c4bd719eaaf0470c94182b92c948aadc&LiveStreamId=a17c75760a04e99b68cf766e11316e1c_09efa0d56b934a82adec00a87b837fb0_f23466229107fee99d7ac84890d242ba&TranscodingMaxAudioChannels=2&RequireAvc=false&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&h264-level=31&h264-videobitdepth=8&h264-profile=main&h264-audiochannels=2&aac-profile=lc&h264-rangetype=SDR&h264-deinterlace=true&TranscodeReasons=SecondaryAudioNotSupported
 #EXTINF:-1 ,21.ten sports
 http://103.123.169.206:8081/hls/potato-4.m3u8
