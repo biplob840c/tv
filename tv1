@@ -59,8 +59,8 @@ http://live.flixhub.net/hls/jalshamovies.m3u8
 http://live.flixhub.net/hls/masranga.m3u8
 #EXTINF:-1 ,19.jolsha movies
 http://tv2.efiberbd.net:8080/live/mkaua/stream/12.m3u8
-#EXTINF:-1,  duronto
-http://tv2.efiberbd.net:8080/live/mkaua/stream/15.m3u8
+#EXTINF:-1,  rtv
+https://jellyflix.ga/jellyflix/videos/e3e60231-e2d5-385b-62cd-0e64c5fb07e8/live.m3u8?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOC4wLjAuMCBTYWZhcmkvNTM3LjM2fDE2NzAxNDk2NDYxOTY1&MediaSourceId=4d82385d733ce0de13c27df56194a618&VideoCodec=h264,h264&AudioCodec=aac&AudioStreamIndex=-1&VideoBitrate=223808000&AudioBitrate=192000&AudioSampleRate=48000&MaxFramerate=25&PlaySessionId=3c4ce8fb85fe42b2ac8c83c9dd1c48b0&api_key=c4bd719eaaf0470c94182b92c948aadc&LiveStreamId=a17c75760a04e99b68cf766e11316e1c_09efa0d56b934a82adec00a87b837fb0_4d82385d733ce0de13c27df56194a618&TranscodingMaxAudioChannels=2&RequireAvc=false&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&h264-level=31&h264-videobitdepth=8&h264-profile=high&h264-audiochannels=2&aac-profile=lc&h264-rangetype=SDR&h264-deinterlace=true&TranscodeReasons=SecondaryAudioNotSupported
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 ,31.sanonda
