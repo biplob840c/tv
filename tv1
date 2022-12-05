@@ -34,7 +34,7 @@ https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 , tofee
 https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
 #EXTINF:-1 , t sports
-http://103.102.27.173/live/tvfeed1002/index.m3u8
+http://tv.maguraplex.net:8000/live/tsports/index.m3u8
 #EXTINF:-1 , T sports
 http://103.145.76.43:8080/hls/show.m3u8
 #EXTINF:-1 , sports 18
