@@ -49,10 +49,10 @@ http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 http://103.143.235.50:8080/101/101.m3u8
 #EXTINF:-1 , T sports
 http://103.143.235.50:8080/102/102.m3u8
-#EXTINF:-1 ,16.Ban vs Ind
-https://jellyflix.ga/jellyflix/videos/cc12486b-b38b-9470-ffa2-e0be9cef8c34/live.m3u8?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOC4wLjAuMCBTYWZhcmkvNTM3LjM2fDE2NzAxNDk2NDYxOTY1&MediaSourceId=f23466229107fee99d7ac84890d242ba&VideoCodec=h264,h264&AudioCodec=aac&AudioStreamIndex=-1&VideoBitrate=223808000&AudioBitrate=192000&AudioSampleRate=48000&MaxFramerate=25&PlaySessionId=961434ac25584f6c9e570570425e9122&api_key=c4bd719eaaf0470c94182b92c948aadc&LiveStreamId=a17c75760a04e99b68cf766e11316e1c_09efa0d56b934a82adec00a87b837fb0_f23466229107fee99d7ac84890d242ba&TranscodingMaxAudioChannels=2&RequireAvc=false&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&h264-level=31&h264-videobitdepth=8&h264-profile=main&h264-audiochannels=2&aac-profile=lc&h264-rangetype=SDR&h264-deinterlace=true&TranscodeReasons=SecondaryAudioNotSupported
-#EXTINF:-1 ,21.ten sports
-http://103.123.169.206:8081/hls/potato-4.m3u8
+#EXTINF:-1 ,16.fox sports
+https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
+#EXTINF:-1 ,21.ben sports 1
+https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
 #EXTINF:-1 ,18.Jolsha Movies
 http://live.flixhub.net/hls/jalshamovies.m3u8
 #EXTINF:-1 ,19.Masranga
@@ -225,3 +225,5 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/67.m3u8
 http://202.53.170.254:8080/Zoom/tracks-v1a1/mono.m3u8?token=744bdda8cfaf1db186e2934f3690c691deb2b8dc-ec0cc23913caec6f479d8840902285c8-1669838708-1669827908
 #EXTINF:-1 ,21.rtv
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+#EXTINF:-1 , t10
+https://d3cq7cdp2cfi92.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/ec01722a-18e0-47f8-9977-e71a57283319/0.m3u8
