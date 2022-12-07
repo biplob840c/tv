@@ -165,6 +165,8 @@ http://103.149.130.122:8089/42/index.m3u8
 http://live.flixhub.net/hls/cn.m3u8
 #EXTINF:-1 ,79.nick
 http://live.flixhub.net/hls/nick.m3u8
+#EXTINF:-1 ,79.nick 2
+https://siloh.pluto.tv/lilo/production/Nick/04/master_4.m3u8
 #EXTINF:-1 ,83. star sports-1
 http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 ,87. six
@@ -179,8 +181,8 @@ http://live.flixhub.net/hls/sonyten3.m3u8
 http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 #EXTINF:-1 ,89.Star Sports Select 2 HD
 http://live.flixhub.net/hls/select2.m3u8
-#EXTINF:-1, euro sports
-http://live.flixhub.net/hls/euro.m3u8
+#EXTINF:-1, DD National
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ddnational/ddnational.isml/ddnational-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ,52.Discovery Bangla
 http://live.flixhub.net/hls/discovery.m3u8
 #EXTINF:-1 ,52.Discovery Bangla 2
