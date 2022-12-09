@@ -1,16 +1,17 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/CJMc4VQ.png", 01.Macca 
+#EXTINF:-1, 01.Macca 
 http://live.flixhub.net/hls/qurqntv.m3u8
-#EXhttp://live.flixhub.net/hls/qurqntv.m3u8TINF:-1 ,02. Modina tv
+#EXTINF:-1, Duronto
+http://live.flixhub.net/hls/duranta.m3u8
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
-#EXTINF:-1 ,03.amar bangla
-http://tv2.efiberbd.net:8080/live/mkaua/stream/11.m3u8
 #EXTINF:-1 ,04.BTV
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
+http://live.flixhub.net/hls/t-sports.m3u8
 #EXTINF:-1 ,05.BTV CTG
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvnational-ctg.stream/chunks.m3u8
 #EXTINF:-1, channel i
 http://live.flixhub.net/hls/channeli.m3u8
+#EXTINF:-1, ATN
+http://live.flixhub.net/hls/atn.m3u8
 #EXTINF:-1, 07. ATN BANGLA 2
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png",07. Channel i
@@ -21,8 +22,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://live.flixhub.net/hls/nexus.m3u8
 #EXTINF:-1 ,13.NTV Uk
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-#EXTINF:-1 ,13.NTV
-https://jellyflix.ga/jellyflix/videos/5cdae256-e924-84b7-8aee-6637e7203525/live.m3u8?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOC4wLjAuMCBTYWZhcmkvNTM3LjM2fDE2NzAxNDk2NDYxOTY1&MediaSourceId=9030873832c80a8b1be44416fa47d8e3&VideoCodec=h264,h264&AudioCodec=aac&AudioStreamIndex=-1&VideoBitrate=223808000&AudioBitrate=192000&AudioSampleRate=48000&MaxFramerate=25&PlaySessionId=78d433452f514197b6cfbd3ead621879&api_key=c4bd719eaaf0470c94182b92c948aadc&LiveStreamId=a17c75760a04e99b68cf766e11316e1c_09efa0d56b934a82adec00a87b837fb0_9030873832c80a8b1be44416fa47d8e3&TranscodingMaxAudioChannels=2&RequireAvc=false&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&h264-level=31&h264-videobitdepth=8&h264-profile=high&h264-audiochannels=2&aac-profile=lc&h264-rangetype=SDR&h264-deinterlace=true&TranscodeReasons=SecondaryAudioNotSupported
+#EXTINF:-1 ,Drishyam 2
+https://fs.plus.net.bd/Movies/Hindi/2022/Drishyam%202%20%282022%29/Drishyam%202%20%282022%29%20Hindi%20HQ%20S-Print%201080p%20x264%20AAC.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangla",12.Bangla Vision
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,16.ETV
@@ -43,8 +44,8 @@ http://103.123.169.206:8081/hls/potato-1.m3u8
 http://tv.maguraplex.net:8000/live/gazitvhd1/index.m3u8
 #EXTINF:-1 , Gazi tv
 http://103.143.235.50:8080/101/101.m3u8
-#EXTINF:-1 , T sports
-http://103.143.235.50:8080/102/102.m3u8
+#EXTINF:-1 , TEN sports
+http://live.flixhub.net/hls/ten.m3u8
 #EXTINF:-1 ,16.fox sports
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
 #EXTINF:-1 ,21.ben sports 1
@@ -54,9 +55,9 @@ http://live.flixhub.net/hls/jalshamovies.m3u8
 #EXTINF:-1 ,19.Masranga
 http://live.flixhub.net/hls/masranga.m3u8
 #EXTINF:-1 ,19.jolsha movies
-http://tv2.efiberbd.net:8080/live/mkaua/stream/12.m3u8
-#EXTINF:-1,  rtv
-https://jellyflix.ga/jellyflix/videos/e3e60231-e2d5-385b-62cd-0e64c5fb07e8/live.m3u8?DeviceId=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEwOC4wLjAuMCBTYWZhcmkvNTM3LjM2fDE2NzAxNDk2NDYxOTY1&MediaSourceId=4d82385d733ce0de13c27df56194a618&VideoCodec=h264,h264&AudioCodec=aac&AudioStreamIndex=-1&VideoBitrate=223808000&AudioBitrate=192000&AudioSampleRate=48000&MaxFramerate=25&PlaySessionId=3c4ce8fb85fe42b2ac8c83c9dd1c48b0&api_key=c4bd719eaaf0470c94182b92c948aadc&LiveStreamId=a17c75760a04e99b68cf766e11316e1c_09efa0d56b934a82adec00a87b837fb0_4d82385d733ce0de13c27df56194a618&TranscodingMaxAudioChannels=2&RequireAvc=false&SegmentContainer=ts&MinSegments=1&BreakOnNonKeyFrames=True&h264-level=31&h264-videobitdepth=8&h264-profile=high&h264-audiochannels=2&aac-profile=lc&h264-rangetype=SDR&h264-deinterlace=true&TranscodeReasons=SecondaryAudioNotSupported
+
+#EXTINF:-1,  Nagorik
+http://live.flixhub.net/hls/nagoriktv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 ,31.sanonda
@@ -72,15 +73,13 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 #EXTINF:-1 ,27.Anondo Tv
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
 #EXTINF:-1 ,28.BIJOY TV HD [BD]
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
+
 #EXTINF:-1 ,29.Bangla tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 ,30.depto tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/yGgvoxY.png" group-title="Bangladeshi",Asian TV
-http://cdn-sgp.oc.bd-cast.com/jago/0/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
 #EXTINF:-1 ,30.khusbo bangla
-http://idvd.multitvsolution.com/idvo/khushboo_540p/index.m3u8
+http://live.flixhub.net/hls/khushboo.m3u8
 #EXTINF:-1 ,31.News 24
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 ,32.Jumuna TV
@@ -103,8 +102,12 @@ http://live.flixhub.net/hls/sonysix.m3u8
 http://live.flixhub.net/hls/sonyten1.m3u8
 #EXTINF:-1 , 26.Star sports 1
 http://live.flixhub.net/hls/stersports1hd.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian Bangla", zoom
+#EXTINF:-1 ,38. zoom
 http://live.flixhub.net/hls/zoom.m3u8
+#EXTINF:-1 ,38. 9xm
+http://live.flixhub.net/hls/9xm.m3u8
+#EXTINF:-1 ,38. bindas
+http://live.flixhub.net/hls/bindass.m3u8
 #EXTINF:-1 ,38. zee bangla
 http://live.flixhub.net/hls/zeebanglahd.m3u8
 #EXTINF:-1 ,38.Star jolsha
@@ -117,20 +120,22 @@ http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
 http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 ,47.sony att
 http://live.flixhub.net/hls/Sony_Aath.m3u8
+#EXTINF:-1 ,47.akash
+http://live.flixhub.net/hls/akash.m3u8
 #EXTINF:-1 ,47.sun bangla
 http://live.flixhub.net/hls/sunbangla.m3u8
 #EXTINF:-1 ,19 Utv action
 http://live.flixhub.net/hls/utvaction.m3u8
-#EXTINF:-1 , 28. Max
-http://tv2.efiberbd.net:8080/live/mkaua/stream/25.m3u8
+#EXTINF:-1 , 28. UTV
+http://live.flixhub.net/hls/utv.m3u8
 #EXTINF:-1 ,29.Max HD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
 #EXTINF:-1 ,30.star gold
 http://live.flixhub.net/hls/stargold.m3u8
 #EXTINF:-1 ,30.z cenema
 http://live.flixhub.net/hls/zeecinemahd.m3u8
-#EXTINF:-1 ,30.z cenema
-http://tv2.efiberbd.net:8080/live/mkaua/stream/26.m3u8
+#EXTINF:-1 ,30.movie
+http://live.flixhub.net/hls/dhin.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
 http://live.flixhub.net/hls/stargold2hd.m3u8
 #EXTINF:-1 ,49.Star Plus
@@ -140,11 +145,13 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/20.m3u8
 #EXTINF:-1 ,53.Sony
 http://live.flixhub.net/hls/sonyen.m3u8
 #EXTINF:-1 ,53.Sony 2
-http://tv2.efiberbd.net:8080/live/mkaua/stream/22.m3u8
+
 #EXTINF:-1 ,57.Colors hd
 http://live.flixhub.net/hls/colore-tv-hd.m3u8
 #EXTINF:-1 ,64.colorscineplex
 http://live.flixhub.net/hls/colorscineplex.m3u8
+#EXTINF:-1 ,30.mbc
+http://live.flixhub.net/hls/mbc.m3u8
 #EXTINF:-1,  mn+
 http://live.flixhub.net/hls/mn+.m3u8
 #EXTINF:-1 ,71.mnx
@@ -155,8 +162,12 @@ http://live.flixhub.net/hls/sonypixhd.m3u8
 http://live.flixhub.net/hls/movies-now.m3u8
 #EXTINF:-1 ,76.star movies
 http://live.flixhub.net/hls/starmovies.m3u8
-#EXTINF:-1 ,76. movie
+#EXTINF:-1 ,76.movies
 http://103.149.130.122:8089/42/index.m3u8
+#EXTINF:-1 ,76.lotus
+http://live.flixhub.net/hls/lotus.m3u8
+#EXTINF:-1 ,76.star world
+http://live.flixhub.net/hls/star-worldhd.m3u8
 #EXTINF:-1 ,77.CN
 http://live.flixhub.net/hls/cn.m3u8
 #EXTINF:-1 ,79.nick
@@ -203,6 +214,8 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-id="AlJazeera.nws" group-title="Sneh English News",Al Jazeera SD
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
+#EXTINF:-1 ,67.bbc
+http://live.flixhub.net/hls/bbcworld.m3u8
 #EXTINF:-1 , 23. t Sports
 http://30.30.30.30/live/skyfeed2001/index.m3u8
 #EXTINF:-1 , 23. GTV 2 
