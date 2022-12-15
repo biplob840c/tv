@@ -138,6 +138,8 @@ https://tv.googledrivelinks.com/live.php?c=Sony_MAX2&q=250&e=.m3u8
 http://live.flixhub.net/hls/stargold.m3u8
 #EXTINF:-1 ,30.z cenema
 http://live.flixhub.net/hls/zeecinemahd.m3u8
+#EXTINF:-1 ,30.z action
+http://103.168.91.228/LIVE1HD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,30.movie
 http://live.flixhub.net/hls/dhin.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
