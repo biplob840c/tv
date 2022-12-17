@@ -24,6 +24,8 @@ http://live.flixhub.net/hls/nexus.m3u8
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
 #EXTINF:-1 ,Drishyam 2
 https://fs.plus.net.bd/Movies/Hindi/2022/Drishyam%202%20%282022%29/Drishyam%202%20%282022%29%20Hindi%20HQ%20S-Print%201080p%20x264%20AAC.mkv
+#EXTINF:-1 ,amropali
+https://bbs-bangla.binodonbangla.workers.dev/0:/Amrapali/[%20Www.StarquaitHD.my.id%20]-Amrapali%20(2022)%20Bengali%20720p.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangla",12.Bangla Vision
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,16.ETV
