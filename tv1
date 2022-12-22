@@ -3,6 +3,8 @@
 http://live.flixhub.net/hls/qurqntv.m3u8
 #EXTINF:-1, Duronto
 http://live.flixhub.net/hls/duranta.m3u8
+#EXTINF:-1 ,Drishyam 2
+https://fs.plus.net.bd/Movies/Hindi/2022/Drishyam%202%20%282022%29/Drishyam%202%20%282022%29%20Hindi%20HQ%20S-Print%201080p%20x264%20AAC.mkv
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,04.BTV
 http://live.flixhub.net/hls/t-sports.m3u8
@@ -22,30 +24,20 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://live.flixhub.net/hls/nexus.m3u8
 #EXTINF:-1 ,13.NTV Uk
 https://a.jsrdn.com/broadcast/22680_3BR3zocwi9/-0800/c.m3u8
-#EXTINF:-1 ,Drishyam 2
-https://fs.plus.net.bd/Movies/Hindi/2022/Drishyam%202%20%282022%29/Drishyam%202%20%282022%29%20Hindi%20HQ%20S-Print%201080p%20x264%20AAC.mkv
-#EXTINF:-1 ,amropali
-https://bbs-bangla.binodonbangla.workers.dev/0:/Amrapali/[%20Www.StarquaitHD.my.id%20]-Amrapali%20(2022)%20Bengali%20720p.mkv
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangla",12.Bangla Vision
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,16.ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-
-
 #EXTINF:-1 , sports 18
 http://live.flixhub.net/hls/bein1.m3u8
 #EXTINF:-1 ,16.Gazi tv
 http://live.flixhub.net/hls/Gazi-TV.m3u8
-#EXTINF:-1 ,30.Gazi tv2
-http://103.168.91.228/LIVE1HD/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 ,21.rtv
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 ,18.Jolsha Movies
 http://live.flixhub.net/hls/jalshamovies.m3u8
 #EXTINF:-1 ,19.Masranga
 http://live.flixhub.net/hls/masranga.m3u8
-#EXTINF:-1 ,19.jolsha movies
-
 #EXTINF:-1,  Nagorik
 http://live.flixhub.net/hls/nagoriktv.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
@@ -62,8 +54,6 @@ https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 #EXTINF:-1 ,27.Anondo Tv
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/anandatv.stream/chunks.m3u8
-#EXTINF:-1 ,28.BIJOY TV HD [BD]
-
 #EXTINF:-1 ,29.Bangla tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 ,30.depto tv
@@ -120,27 +110,18 @@ http://live.flixhub.net/hls/utvaction.m3u8
 http://live.flixhub.net/hls/utv.m3u8
 #EXTINF:-1 ,29.Max HD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
-#EXTINF:-1 ,29.Max
-https://tv.googledrivelinks.com/live.php?c=Sony_Max_HD&q=250&e=.m3u8
-#EXTINF:-1 ,29.Max 2
-https://tv.googledrivelinks.com/live.php?c=Sony_MAX2&q=250&e=.m3u8
 #EXTINF:-1 ,30.star gold
 http://live.flixhub.net/hls/stargold.m3u8
 #EXTINF:-1 ,30.z cenema
 http://live.flixhub.net/hls/zeecinemahd.m3u8
-
 #EXTINF:-1 ,30.movie
 http://live.flixhub.net/hls/dhin.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
 http://live.flixhub.net/hls/stargold2hd.m3u8
 #EXTINF:-1 ,49.Star Plus
 http://live.flixhub.net/hls/starplus.m3u8
-#EXTINF:-1 ,49.Star Plus
-http://tv2.efiberbd.net:8080/live/mkaua/stream/20.m3u8
 #EXTINF:-1 ,53.Sony
 http://live.flixhub.net/hls/sonyen.m3u8
-#EXTINF:-1 ,53.Sony 2
-
 #EXTINF:-1 ,57.Colors hd
 http://live.flixhub.net/hls/colore-tv-hd.m3u8
 #EXTINF:-1 ,64.colorscineplex
@@ -235,8 +216,7 @@ http://tv2.efiberbd.net:8080/live/mkaua/stream/65.m3u8
 http://tv2.efiberbd.net:8080/live/mkaua/stream/67.m3u8
 #EXTINF:-1 , 27. zoom
 http://202.53.170.254:8080/Zoom/tracks-v1a1/mono.m3u8?token=744bdda8cfaf1db186e2934f3690c691deb2b8dc-ec0cc23913caec6f479d8840902285c8-1669838708-1669827908
-#EXTINF:-1 ,21.rtv
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
+
 #EXTINF:-1 , t10
 https://d3cq7cdp2cfi92.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/ec01722a-18e0-47f8-9977-e71a57283319/0.m3u8
 #EXTINF:-1 ,UTV movies
