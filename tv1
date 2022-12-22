@@ -74,6 +74,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ,36.Sangeet Bangla
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/sangeetbangla/sangeetbangla.isml/sangeetbangla-audio_208482_und=208000-video=877600.m3u8
+#EXTINF:-1 ,36.Sangeet Bangla
+http://live.flixhub.net/hls/sangeetbangla.m3u8
 #EXTINF:-1 , 22. Somoi tv
 http://live.flixhub.net/hls/somoy.m3u8
 #EXTINF:-1 , 24. six
