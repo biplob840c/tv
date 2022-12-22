@@ -3,8 +3,10 @@
 http://live.flixhub.net/hls/qurqntv.m3u8
 #EXTINF:-1, Duronto
 http://live.flixhub.net/hls/duranta.m3u8
-#EXTINF:-1 ,Drishyam 2
-https://fs.plus.net.bd/Movies/Hindi/2022/Drishyam%202%20%282022%29/Drishyam%202%20%282022%29%20Hindi%20HQ%20S-Print%201080p%20x264%20AAC.mkv
+#EXTINF:-1 ,attack
+http://103.197.251.237/eolftps2/eolftps2d2/Hindi/2022/Attack%20Part%201%202022%20Hindi%201080p%20Zee5%20WEBRip%20DD%205.1%20ESubs%20x264%20-%20mkvAnime.mp4
+#EXTINF:-1 ,Saaho
+http://103.197.251.237/eolftps2/eolftps2d2/Hindi/2019/Saaho%20(2019)%20_%20CityCloud.mp4
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8?Live-TV%E2%84%A2
 #EXTINF:-1 ,04.BTV
 http://live.flixhub.net/hls/t-sports.m3u8
@@ -218,18 +220,19 @@ http://30.30.30.30/live/skyfeed1011/index.m3u8
 http://30.30.30.30/live/skyfeed2003/index.m3u8
 #EXTINF:-1 , 27. sangit bangla
 http://tv2.efiberbd.net:8080/live/mkaua/stream/59.m3u8
-#EXTINF:-1 , 27. 9xm
-http://tv2.efiberbd.net:8080/live/mkaua/stream/65.m3u8
+#EXTINF:-1 , 27. Ba pass 3 movie
+http://103.197.251.237/eolftps2/eolftps2d2/Hindi/2021/B.A.%20Pass%203.mp4
 #EXTINF:-1 , 27. 9x jalwa
 http://tv2.efiberbd.net:8080/live/mkaua/stream/67.m3u8
-#EXTINF:-1 , 27. zoom
-http://202.53.170.254:8080/Zoom/tracks-v1a1/mono.m3u8?token=744bdda8cfaf1db186e2934f3690c691deb2b8dc-ec0cc23913caec6f479d8840902285c8-1669838708-1669827908
-
-#EXTINF:-1 , t10
-https://d3cq7cdp2cfi92.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-2ff27mp9b8422-prod/ec01722a-18e0-47f8-9977-e71a57283319/0.m3u8
-#EXTINF:-1 ,UTV movies
-http://iptv12k.com:35461/80203091402/213445/657
-#EXTINF:-1 ,Colors Cineplex
-http://iptv12k.com:35461/80203091402/213445/664
-#EXTINF:-1 ,Star GOLD HD
-http://iptv12k.com:35461/80203091402/213445/8563
+#EXTINF:-1 , 27. Gril on the train
+http://103.197.251.237/eolftps2/eolftps2d1/Hindi%20Movies/2021/The_Girl_On_The_Train_2021_Hindi_1080P_%20WEBRip.mp4
+#EXTINF:-1 , august 1975
+http://103.197.251.237/eolftps2/eolftps2d2/Bangla/2021/August%201975%20(2021)%20-%20MovieBazar.mp4
+#EXTINF:-1 ,Network er baire
+http://103.197.251.237/eolftps2/eolftps2d2/Bangla/2021/Networker%20Baire%20(2021)%20-%20MovieBazar.mp4
+#EXTINF:-1 ,Khachar vitor achin pakhi
+http://103.197.251.237/eolftps2/eolftps2d2/Bangla/2021/Khachar%20Bhitor%20Ochin%20Pakhi%20(2021)%20-%20MovieBazar.mp4
+#EXTINF:-1 ,(Mon jane na) Movie
+http://103.197.251.237/eolftps2/eolftps2d2/Indian%20Bangla/2019/Mon%20Jaane%20Na%20(2019)%20-%20MovieBazar.mp4
+#EXTINF:-1 ,Dybbuk The Curse Is Real (2021) hasmi
+http://103.197.251.237/eolftps2/eolftps2d2/9.11.2021/Dybbuk%20The%20Curse%20Is%20Real%20(2021)%201080p%20WEBDL.mp4
