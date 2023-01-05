@@ -92,6 +92,8 @@ http://live.flixhub.net/hls/sonyten1.m3u8
 http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 ,38. zoom
 http://live.flixhub.net/hls/zoom.m3u8
+#EXTINF:-1 ,38. 9xm
+https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=562400.m3u8
 #EXTINF:-1 ,38. Masti
 http://live.flixhub.net/hls/masti.m3u8
 #EXTINF:-1 ,38. bindas
@@ -122,8 +124,8 @@ http://live.flixhub.net/hls/sony-maxhd.m3u8
 http://live.flixhub.net/hls/stargold.m3u8
 #EXTINF:-1 ,30.z cenema
 http://live.flixhub.net/hls/zeecinemahd.m3u8
-#EXTINF:-1 ,30.movie
-http://live.flixhub.net/hls/dhin.m3u8
+#EXTINF:-1 ,30.show box
+https://epiconvh.s.llnwi.net/showbox/master_864.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
 http://live.flixhub.net/hls/stargold2hd.m3u8
 #EXTINF:-1 ,49.Star Plus
