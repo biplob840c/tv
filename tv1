@@ -89,6 +89,8 @@ http://live.flixhub.net/hls/sonysix.m3u8
 http://live.flixhub.net/hls/sonyten1.m3u8
 #EXTINF:-1 , 26.Star sports 1
 http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 , willow
+https://11live03.akamaized.net:443/FTX2_WILLOW/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,38. zoom
 http://live.flixhub.net/hls/zoom.m3u8
 #EXTINF:-1 ,38. 9xm
