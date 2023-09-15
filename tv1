@@ -173,8 +173,10 @@ http://live.flixhub.net/hls/wild.m3u8
 
 #EXTINF:-1, bbcearth
 http://live.flixhub.net/hls/bbcearth.m3u8
-#EXTINF:-1 ,68.RASI HD
-
+#EXTINF:-1 ,68.TEN Sports
+http://23.255.0.10:8080/2/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,68.Gazi TV
+http://23.255.0.10:8080/3/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,67.Movies Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 ,67.red bull
