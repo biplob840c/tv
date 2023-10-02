@@ -5,10 +5,10 @@ http://live.flixhub.net/hls/qurqntv.m3u8
 http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 ,03.Gazi tv
 http://live.flixhub.net/hls/Gazi-TV.m3u8
+#EXTINF:-1 ,05.T sports
+https://stream.midiplexhd.com/gazi-access/tracks-v1a1/mono.m3u8?token=bb6324922032e75ff309e467f262032fc9f85fcf-4a977ccc9d09be6ecaf8ccd19c029288-1696351022-1696264622
 #EXTINF:-1 ,04.Max HD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
-#EXTINF:-1 ,05.star gold
-http://live.flixhub.net/hls/stargold.m3u8
 #EXTINF:-1 ,06.z cenema
 http://live.flixhub.net/hls/zeecinemahd.m3u8
 #EXTINF:-1 ,07.Star Plus
