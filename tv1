@@ -3,6 +3,8 @@
 http://live.flixhub.net/hls/qurqntv.m3u8
 #EXTINF:-1 ,02. star sports-1
 http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 ,02. star sports-2
+http://live.flixhub.net/hls/starsports2.m3u8
 #EXTINF:-1 ,03.Gazi tv
 http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 ,05.T sports
@@ -77,8 +79,8 @@ http://live.flixhub.net/hls/sonyten1.m3u8
 http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 ,38. 9xm
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=562400.m3u8
-#EXTINF:-1 ,38. Masti
-
+#EXTINF:-1 ,38. 9xm hd
+http://live.flixhub.net/hls/9xm.m3u8
 #EXTINF:-1 ,38. goldmins
 http://live.flixhub.net/hls/starbangla.m3u8
 #EXTINF:-1 ,38. zee bangla
@@ -139,6 +141,8 @@ http://live.flixhub.net/hls/nick.m3u8
 https://siloh.pluto.tv/lilo/production/Nick/04/master_4.m3u8
 #EXTINF:-1 ,83. star sports-1
 http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 ,02. star sports-2
+http://live.flixhub.net/hls/starsports2.m3u8
 #EXTINF:-1 ,87. six
 http://live.flixhub.net/hls/sonysix.m3u8
 #EXTINF:-1 ,84. ten 1
@@ -153,6 +157,10 @@ http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 http://live.flixhub.net/hls/select2.m3u8
 #EXTINF:-1 ,89.18
 http://live.flixhub.net/hls/18.m3u8
+#EXTINF:-1 ,89.ptv sports
+http://live.flixhub.net/hls/ptv.m3u8
+#EXTINF:-1 ,89.star sports3
+http://live.flixhub.net/hls/starsports3.m3u8
 #EXTINF:-1 , T sports
 http://103.145.76.43:8080/hls/show.m3u8
 #EXTINF:-1, DD National
