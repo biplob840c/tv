@@ -8,7 +8,6 @@ http://live.flixhub.net/hls/starsports2.m3u8
 #EXTINF:-1 ,03.Gazi tv
 http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 ,05.T sports
-
 https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1697268666~exp=1697311866~acl=/*~data=45.61.146.183-WEB~hmac=6ce3fcb1e212e1fe31dd9731734fa365f6d7d4da09e7789aebe8a9755cc51cd3
 #EXTINF:-1 ,04.Max HD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
