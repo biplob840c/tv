@@ -39,6 +39,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tvs2.aynaott.com/banglavision/tracks-v1a1/mono.m3u8?hdnts=st=1697269244~exp=1697312444~acl=/*~data=45.61.146.183-WEB~hmac=f66aa41f9463d101a87d94ab174c95a702e725c6cd5d1e15888a31ded774b956
 #EXTINF:-1 ,16.ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 ,16.ETV
+https://tvs1.aynaott.com/etv/tracks-v1a1/mono.m3u8?hdnts=st=1697287222~exp=1697330422~acl=/*~data=45.61.146.183-WEB~hmac=cd6021fc71b0be9142fc28b1b8e41735578d8cd910a6754106167bb2d02c76ac
 #EXTINF:-1 ,21.rtv
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 ,18.Jolsha Movies
@@ -49,8 +51,14 @@ http://live.flixhub.net/hls/masranga.m3u8
 https://tvs1.aynaott.com/durontotv/tracks-v1a1/mono.m3u8?hdnts=st=1697269034~exp=1697312234~acl=/*~data=45.61.146.183-WEB~hmac=933c853bb1d1c426e2f4f6b6e5ea9658402d9ea37b7297a8bebebb1a3e891f25
 #EXTINF:-1 ,76.channedl 9
 https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8?hdnts=st=1697269167~exp=1697312367~acl=/*~data=45.61.146.183-WEB~hmac=a959d323532a7d1be324afe7ece37a67bbbff17faebe843d33b6f50fa2846126
+#EXTINF:-1 ,76.Mohona
+https://tvs1.aynaott.com/mohonatv/tracks-v1a1/mono.m3u8?hdnts=st=1697286550~exp=1697329750~acl=/*~data=45.61.146.183-WEB~hmac=b3f5d949e891eb2cfa012f91786543d6fa1aaca2e5814498854750e91f0fae18
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/satvoff5666.stream/chunks.m3u8
+#EXTINF:-1 ,31.SA TV
+https://tvs1.aynaott.com/satv/tracks-v1a1/mono.m3u8?hdnts=st=1697286805~exp=1697330005~acl=/*~data=45.61.146.183-WEB~hmac=ee02be33b64c4bcdccd8c7296089d2e45d08b7aa26c1c133ab84eaa692b364fc
+#EXTINF:-1 ,31.Desh Tv
+https://tvs1.aynaott.com/deshtv/tracks-v1a1/mono.m3u8?hdnts=st=1697286862~exp=1697330062~acl=/*~data=45.61.146.183-WEB~hmac=7b76e2dd03367ea14f2432491f99f8f326dd6467547eef50b80ed5ec0650b39f
 #EXTINF:-1 ,31.Boyshakhi
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,32.and picture 
@@ -63,8 +71,12 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 #EXTINF:-1 ,30.depto tv
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/deeptotv.stream/chunks.m3u8
+#EXTINF:-1 ,30.ASIN TV
+https://tvs1.aynaott.com/asiantv/tracks-v1a1/mono.m3u8?hdnts=st=1697286753~exp=1697329953~acl=/*~data=45.61.146.183-WEB~hmac=56c39eed90868e29bb5fb2a77156ac682185501dd35bcaec5df340c303299622
 #EXTINF:-1 ,30.sptv
 http://alvetv.com/mbtv/sptv/index.m3u8
+#EXTINF:-1 ,30.Bijoy tv
+https://tvs1.aynaott.com/bijoytv/tracks-v1a1/mono.m3u8?hdnts=st=1697286631~exp=1697329831~acl=/*~data=45.61.146.183-WEB~hmac=560e4c8e6bdb80259ea5ff7afc746c80a82996f0a9f1a5551d3f58e491e0ea34
 #EXTINF:-1 ,31.News 24
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/news24local.stream/chunks.m3u8
 #EXTINF:-1 ,32.DBC
@@ -77,6 +89,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ,36.Sangeet Bangla
 http://live.flixhub.net/hls/sangeetbangla.m3u8
+#EXTINF:-1 ,36.Sangeet Bangla 2
+https://tvs1.aynaott.com/SangeetBangla/tracks-v1a1/mono.m3u8?hdnts=st=1697285454~exp=1697328654~acl=/*~data=45.61.146.183-WEB~hmac=09a2b7c8b1e57df99be73e79fc34d970d3af7e90ea75acf53c4f85af3b02edc5
 #EXTINF:-1 , 22. Somoi tv
 http://live.flixhub.net/hls/somoy.m3u8
 #EXTINF:-1 , 24. six
@@ -89,6 +103,8 @@ http://live.flixhub.net/hls/stersports1hd.m3u8
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=562400.m3u8
 #EXTINF:-1 ,38. 9xm hd
 http://live.flixhub.net/hls/9xm.m3u8
+#EXTINF:-1 ,38. B4U
+https://tvs1.aynaott.com/b4umusic/tracks-v1a1/mono.m3u8?hdnts=st=1697285380~exp=1697328580~acl=/*~data=45.61.146.183-WEB~hmac=0b7358170c108cfaa18a0523e6176ac0f23174804013f59dce9ffe02325f7768
 #EXTINF:-1 ,38. goldmins
 http://live.flixhub.net/hls/starbangla.m3u8
 #EXTINF:-1 ,38. zee bangla
@@ -106,8 +122,8 @@ http://live.flixhub.net/hls/Sony_Aath.m3u8
 
 #EXTINF:-1 ,47.sun bangla
 http://live.flixhub.net/hls/sunbangla.m3u8
-#EXTINF:-1 ,19 ATN
-
+#EXTINF:-1 ,19 MAX2
+https://tvs1.aynaott.com/SonyMax2/tracks-v1a1/mono.m3u8?hdnts=st=1697285232~exp=1697328432~acl=/*~data=45.61.146.183-WEB~hmac=6971aa98fb2dd59fe9081477741eee8635bee9e690c32841ce6332d090d559cc
 #EXTINF:-1 ,30.zeetv
 http://live.flixhub.net/hls/zeetv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
@@ -128,20 +144,28 @@ http://live.flixhub.net/hls/movies-now.m3u8
 http://live.flixhub.net/hls/starmovies.m3u8
 #EXTINF:-1 ,76.star world
 http://live.flixhub.net/hls/star-worldhd.m3u8
-#EXTINF:-1 ,77.CN
-
+#EXTINF:-1 ,77.sony YAY
+https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8?hdnts=st=1697285894~exp=1697329094~acl=/*~data=45.61.146.183-WEB~hmac=7cb28098f67e140099e7fdf13c0ae73ba049d0017d0b07e1de05173674906afd
 #EXTINF:-1 ,79.nick
 http://live.flixhub.net/hls/nick.m3u8
-#EXTINF:-1 ,79.sony kid
-
-#EXTINF:-1 ,79.POGO
-
+#EXTINF:-1 ,79.PBS kids
+https://tvs2.aynaott.com/pbskids/tracks-v1a1/mono.m3u8?hdnts=st=1697285666~exp=1697328866~acl=/*~data=45.61.146.183-WEB~hmac=3dc35cba0333991fc71a3a880aae9621fdda05908d9041fc1e15a2ab5c8c796c
+#EXTINF:-1 ,79.CN
+https://tvs2.aynaott.com/cartoonnetwork/tracks-v1a1/mono.m3u8?hdnts=st=1697285609~exp=1697328809~acl=/*~data=45.61.146.183-WEB~hmac=c7ba7d5c31c48c554aaed862d176744689e06060af73fa07e293437c54b753ea
 #EXTINF:-1 ,79.nick 2
 https://siloh.pluto.tv/lilo/production/Nick/04/master_4.m3u8
 #EXTINF:-1 ,83. star sports-1
 http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 ,89.star sports3
+http://live.flixhub.net/hls/stersports1hd.m3u8
+#EXTINF:-1 ,83. A sports
+https://tvs1.aynaott.com/asports/tracks-v1a1/mono.m3u8?hdnts=st=1697285758~exp=1697328958~acl=/*~data=45.61.146.183-WEB~hmac=abc7a80ac59fa77c930505e04c959ac32cbdef075d6d71f0d29bc727c76462fd
 #EXTINF:-1 ,02. star sports-2
 http://live.flixhub.net/hls/starsports2.m3u8
+#EXTINF:-1 ,89.ptv sports
+http://live.flixhub.net/hls/ptv.m3u8
+#EXTINF:-1 ,47.Gazi tv
+https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1697268843~exp=1697312043~acl=/*~data=45.61.146.183-WEB~hmac=ae4abb1d2e8496ea6139779acf75860b97db96ea93419cac3a4fc74d88177610
 #EXTINF:-1 ,87. six
 http://live.flixhub.net/hls/sonysix.m3u8
 #EXTINF:-1 ,84. ten 1
@@ -156,12 +180,7 @@ http://live.flixhub.net/hls/Star_Sport_Select1HD.m3u8
 http://live.flixhub.net/hls/select2.m3u8
 #EXTINF:-1 ,89.18
 http://live.flixhub.net/hls/18.m3u8
-#EXTINF:-1 ,89.ptv sports
-http://live.flixhub.net/hls/ptv.m3u8
-#EXTINF:-1 ,89.star sports3
-http://live.flixhub.net/hls/stersports1hd.m3u8
-#EXTINF:-1 ,47.Gazi tv
-https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1697268843~exp=1697312043~acl=/*~data=45.61.146.183-WEB~hmac=ae4abb1d2e8496ea6139779acf75860b97db96ea93419cac3a4fc74d88177610
+
 #EXTINF:-1 , T sports
 http://103.145.76.43:8080/hls/show.m3u8
 #EXTINF:-1, DD National
@@ -198,9 +217,27 @@ http://live.flixhub.net/hls/bbcworld.m3u8
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
 #EXTINF:-1 ,21.ben sports 1
 https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 , 27. sangit bangla
-http://tv2.efiberbd.net:8080/live/mkaua/stream/59.m3u8
-#EXTINF:-1 , 27. 9x jalwa
-http://tv2.efiberbd.net:8080/live/mkaua/stream/67.m3u8
+#EXTINF:-1 , 27. Masranga
+https://tvs1.aynaott.com/maasrangatv/tracks-v1a1/mono.m3u8?hdnts=st=1697287175~exp=1697330375~acl=/*~data=45.61.146.183-WEB~hmac=284efc531185d046d10bf74d058ba2b5fe3081eab0dd18f99d5ec87a57f2b9db
+#EXTINF:-1 , 27. somoy tv
+https://tvs1.aynaott.com/somoytv/tracks-v1a1/mono.m3u8?hdnts=st=1697286987~exp=1697330187~acl=/*~data=45.61.146.183-WEB~hmac=a7f75a75fcb0087aa45f749a27a3dec8d9f8bd96e1af2b3534b6e527439d403b
+#EXTINF:-1 , 27. 71TV
+https://tvs1.aynaott.com/ekattorbdtv/tracks-v1a1/mono.m3u8?hdnts=st=1697286915~exp=1697330115~acl=/*~data=45.61.146.183-WEB~hmac=2055db234067df11f8fc0f1f7513a86ef691cd8880061b46898082bbe44c426c
+#EXTINF:-1 , 27. MAX
+https://tvs1.aynaott.com/MaxHD/tracks-v1a1/mono.m3u8?hdnts=st=1697285309~exp=1697328509~acl=/*~data=45.61.146.183-WEB~hmac=149f774feaf1ff2b69bf5484d3b36f7a9ad986bf4e08acabd89a8f569ecded40
+#EXTINF:-1 , 27. sony
+https://tvs2.aynaott.com/SonyHD/tracks-v1a1/mono.m3u8?hdnts=st=1697286033~exp=1697329233~acl=/*~data=45.61.146.183-WEB~hmac=41b04a7dce2e2a53ae942ac2fe88e965475c1936fb1570d8117c744c1f26dddb
+#EXTINF:-1 , 27. Sony Att
+https://tvs1.aynaott.com/Sony8/tracks-v1a1/mono.m3u8?hdnts=st=1697286242~exp=1697329442~acl=/*~data=45.61.146.183-WEB~hmac=45791647229a878951ef0b5310530ed81896d4c082298652e64a692bbbaa3a80
+#EXTINF:-1 , 27. SAB
+https://tvs1.aynaott.com/SabHD/tracks-v1a1/mono.m3u8?hdnts=st=1697285959~exp=1697329159~acl=/*~data=45.61.146.183-WEB~hmac=3a8a3fdea9a5a826a1731ace7a749565cc807664b4a1fbc283752389e450887b
+#EXTINF:-1 , 27. ptv sports
+https://tvs2.aynaott.com/Ptvsports/tracks-v1a1/mono.m3u8?hdnts=st=1697285535~exp=1697328735~acl=/*~data=45.61.146.183-WEB~hmac=9827b3f1c57649587af5cd5600f589f50ef80a43286c1904e3f90cc44258a3d4
+#EXTINF:-1 , 27. ten1 sports
+https://tvs2.aynaott.com/Ten1HD/tracks-v1a1/mono.m3u8?hdnts=st=1697286107~exp=1697329307~acl=/*~data=45.61.146.183-WEB~hmac=cdcf872e982f93332946f5619c4c2ffbdeaa44237ce2c013bc8ca48ad605cdaa
+#EXTINF:-1 , 27. Sony WAH
+https://tvs1.aynaott.com/SonyWah/tracks-v1a1/mono.m3u8?hdnts=st=1697286167~exp=1697329367~acl=/*~data=45.61.146.183-WEB~hmac=ac30c24d1f3b478a81b933c16e0fa0ae5ceb975840b8614e19a1f0556b2670b4
+#EXTINF:-1 , 27. Gann Bangla
+https://tvs1.aynaott.com/gaanbangla/tracks-v1a1/mono.m3u8?hdnts=st=1697286695~exp=1697329895~acl=/*~data=45.61.146.183-WEB~hmac=7aa4018060bb34922f787bdc35a182439619c1c30cf2f599abd954b1d1e9e0c7
 #EXTINF:-1 ,Brammasro
 https://fs.plus.net.bd/Movies/Hindi/2022/Brahmastra%20Part%20One%3A%20Shiva%20%282022%29/Brahmastra%20Part%20One%20-%20Shiva%202022%20Hindi%20ORG%201080p%20WEB-DL%20x264%20ESubs.mkv
