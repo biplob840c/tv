@@ -95,14 +95,14 @@ http://live.flixhub.net/hls/zee-bangla-cinema.m3u8
 http://live.flixhub.net/hls/colore-bangla-cinema.m3u8
 #EXTINF:-1 ,47.sony att
 http://live.flixhub.net/hls/Sony_Aath.m3u8
-#EXTINF:-1 ,47.akash
+#EXTINF:-1 ,47.Gazi tv
 https://tvs2.aynaott.com/gtvhd/tracks-v1a1/mono.m3u8?hdnts=st=1697268843~exp=1697312043~acl=/*~data=45.61.146.183-WEB~hmac=ae4abb1d2e8496ea6139779acf75860b97db96ea93419cac3a4fc74d88177610
 #EXTINF:-1 ,47.sun bangla
 http://live.flixhub.net/hls/sunbangla.m3u8
-#EXTINF:-1 ,19 Utv action
-
-#EXTINF:-1 , 28. UTV
-
+#EXTINF:-1 ,19 ATN
+https://tvs2.aynaott.com/atnbangla/tracks-v1a1/mono.m3u8?hdnts=st=1697268978~exp=1697312178~acl=/*~data=45.61.146.183-WEB~hmac=dba14ac9af3ed50beb4be1d9768d17a471885f47c33ff51897d7a77ad45012c2
+#EXTINF:-1 , 28.Durunto
+https://tvs1.aynaott.com/durontotv/tracks-v1a1/mono.m3u8?hdnts=st=1697269034~exp=1697312234~acl=/*~data=45.61.146.183-WEB~hmac=933c853bb1d1c426e2f4f6b6e5ea9658402d9ea37b7297a8bebebb1a3e891f25
 
 #EXTINF:-1 ,30.zeetv
 http://live.flixhub.net/hls/zeetv.m3u8
@@ -111,8 +111,8 @@ http://live.flixhub.net/hls/zeetv.m3u8
 
 #EXTINF:-1 ,64.colorscineplex
 http://live.flixhub.net/hls/colorscineplex.m3u8
-#EXTINF:-1 ,30.movies-now
-
+#EXTINF:-1 ,30.NTV
+https://tvs2.aynaott.com/ntv/tracks-v1a1/mono.m3u8?hdnts=st=1697269082~exp=1697312282~acl=/*~data=45.61.146.183-WEB~hmac=db189172b340ec627c42572299b5988998ca5db6100c6afc8987da74683bd211
 #EXTINF:-1,  mn+
 http://live.flixhub.net/hls/mn+.m3u8
 #EXTINF:-1 ,71.mnx
@@ -123,10 +123,10 @@ http://live.flixhub.net/hls/sonypixhd.m3u8
 http://live.flixhub.net/hls/movies-now.m3u8
 #EXTINF:-1 ,76.star movies
 http://live.flixhub.net/hls/starmovies.m3u8
-#EXTINF:-1 ,76.movies
-
-#EXTINF:-1 ,76.lotus
-
+#EXTINF:-1 ,76.channedl 9
+https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8?hdnts=st=1697269167~exp=1697312367~acl=/*~data=45.61.146.183-WEB~hmac=a959d323532a7d1be324afe7ece37a67bbbff17faebe843d33b6f50fa2846126
+#EXTINF:-1 ,76.B vision
+https://tvs2.aynaott.com/banglavision/tracks-v1a1/mono.m3u8?hdnts=st=1697269244~exp=1697312444~acl=/*~data=45.61.146.183-WEB~hmac=f66aa41f9463d101a87d94ab174c95a702e725c6cd5d1e15888a31ded774b956
 #EXTINF:-1 ,76.star world
 http://live.flixhub.net/hls/star-worldhd.m3u8
 #EXTINF:-1 ,77.CN
