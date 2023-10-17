@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, 01.Macca 
 http://live.flixhub.net/hls/qurqntv.m3u8
+#EXTINF:-1 ,02. world cup 
+https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
 #EXTINF:-1 ,02. star sports-1
 http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 ,02. star sports-2
