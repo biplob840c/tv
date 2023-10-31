@@ -3,6 +3,8 @@
 http://live.flixhub.net/hls/qurqntv.m3u8
 #EXTINF:-1 ,02. world cup 
 https://ott.sonyplex.com:444/play/V7bMhseWvzq2L18X8hGbefmhw9o1yNtqn1S2CY6Yyi8/m3u8
+#EXTINF:-1 ,02. world cup 2
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1698751235~exp=1698794435~acl=/*~data=45.61.146.183-WEB~hmac=47cd19b7fbc65a78d9702338522b1096868990fe01e2f99969cf974d86cd03a3
 #EXTINF:-1 ,02. star sports-1
 http://live.flixhub.net/hls/stersports1hd.m3u8
 #EXTINF:-1 ,02. star sports-2
