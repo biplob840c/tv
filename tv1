@@ -14,7 +14,7 @@ http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 ,03.Gazi TV 11plus
 http://11plus.live/live/Gazi-TV/index.m3u8
 #EXTINF:-1 ,03.t sports
-http://11plus.live/live/tsports/index.m3u8
+https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1699703026~exp=1699746226~acl=/*~data=45.61.146.183-WEB~hmac=9193f9792d22b323c17a25d28e5b9acd092433a2eebd6e39e43b5568d88e03b7
 #EXTINF:-1 ,GAZI TV 2
 http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,04.Max HD
