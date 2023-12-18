@@ -13,12 +13,10 @@ http://live.flixhub.net/hls/starsports2.m3u8
 http://live.flixhub.net/hls/Gazi-TV.m3u8
 #EXTINF:-1 ,03.Gazi TV 11plus
 http://11plus.live/live/Gazi-TV/index.m3u8
-#EXTINF:-1 ,03.t sports
-https://tvs2.aynaott.com/tsportshd/tracks-v1a1/mono.m3u8?hdnts=st=1699703026~exp=1699746226~acl=/*~data=45.61.146.183-WEB~hmac=9193f9792d22b323c17a25d28e5b9acd092433a2eebd6e39e43b5568d88e03b7
-#EXTINF:-1 ,GAZI TV 2
-http://103.175.242.10:8080/live/gtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,04.Max HD
 http://live.flixhub.net/hls/sony-maxhd.m3u8
+#EXTINF:-1 ,04.star gold HD
+http://live.flixhub.net/hls/stargold.m3u8
 #EXTINF:-1 ,06.z cenema
 http://live.flixhub.net/hls/zeecinemahd.m3u8
 #EXTINF:-1 ,07.Star Plus
@@ -30,7 +28,7 @@ http://live.flixhub.net/hls/colore-tv-hd.m3u8
 #EXTINF:-1, 10.channel i
 http://live.flixhub.net/hls/channeli.m3u8
 #EXTINF:-1, 11.ATN
-
+http://live.flixhub.net/hls/sangeetbangla.m3u8
 #EXTINF:-1, 12. ATN BANGLA 2
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png",13. Channel i
