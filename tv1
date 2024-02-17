@@ -26,7 +26,7 @@ http://live.flixhub.net/hls/sonyen.m3u8
 #EXTINF:-1 ,09.Colors hd
 http://live.flixhub.net/hls/colore-tv-hd.m3u8
 #EXTINF:-1, 10.channel i
-http://live.flixhub.net/hls/channeli.m3u8
+http://live.flixhub.net/hls/4016.m3u8
 #EXTINF:-1, 11.ATN
 http://live.flixhub.net/hls/sangeetbangla.m3u8
 #EXTINF:-1, 12. ATN BANGLA 2
@@ -38,7 +38,7 @@ http://live.flixhub.net/hls/71.m3u8
 #EXTINF:-1 ,30.Nagorik
 http://live.flixhub.net/hls/5007.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png " group-title="Bangla",Somoy
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/chunks.m3u8
+http://live.flixhub.net/hls/4010.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Banglavision" tvg-logo="https://apkplz.net/storage/images/net/gurujibd/banglavision/net.gurujibd.banglavision_1.png " group-title="Bangla",12.Bangla Vision
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglav000.stream/chunks.m3u8
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
@@ -72,14 +72,16 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/dbcnews.stream/chunks.m3u8
 #EXTINF:-1 ,33.Channel 24
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/chunks.m3u8
+#EXTINF:-1 ,35.Jamuna TV
+http://live.flixhub.net/hls/4005.m3u8
 #EXTINF:-1 ,35.Independent
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
+http://live.flixhub.net/hls/4008.m3u8
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=9xm
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
 #EXTINF:-1 ,36.Sangeet Bangla
-http://live.flixhub.net/hls/sangeetbangla.m3u8
-#EXTINF:-1 , 22. Somoi tv
-http://live.flixhub.net/hls/somoy.m3u8
+http://live.flixhub.net/hls/4120.m3u8
+#EXTINF:-1 , 22. Green tv
+http://live.flixhub.net/hls/4055.m3u8
 #EXTINF:-1 , 24. six
 http://live.flixhub.net/hls/sonysix.m3u8
 #EXTINF:-1 , 25.ten1
@@ -95,7 +97,7 @@ http://live.flixhub.net/hls/5006.m3u8
 #EXTINF:-1 ,38. zee bangla
 http://live.flixhub.net/hls/5048.m3u8
 #EXTINF:-1 ,38.Star jolsha
-http://live.flixhub.net/hls/starjalsha.m3u8
+http://live.flixhub.net/hls/5053.m3u8
 #EXTINF:-1 ,38.Colors Bangla
 http://live.flixhub.net/hls/5047.m3u8
 #EXTINF:-1 ,44.Zee Bangla Cenema
@@ -105,7 +107,11 @@ http://live.flixhub.net/hls/5033.m3u8
 #EXTINF:-1 ,47.sony att
 http://live.flixhub.net/hls/5049.m3u8
 #EXTINF:-1 ,47.sun bangla
-http://live.flixhub.net/hls/sunbangla.m3u8
+http://live.flixhub.net/hls/5051.m3u8
+#EXTINF:-1 ,47.GB
+http://live.flixhub.net/hls/4018.m3u8
+#EXTINF:-1 ,47.Enter10 Bangla
+http://live.flixhub.net/hls/4036.m3u8
 #EXTINF:-1 ,30.zeetv
 http://live.flixhub.net/hls/zeetv.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
@@ -184,7 +190,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:0 tvg-id="AlJazeera.nws" group-title="Sneh English News",Al Jazeera SD
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 #EXTINF:-1 ,67.bbc
-http://live.flixhub.net/hls/bbcworld.m3u8
+http://live.flixhub.net/hls/5003.m3u8
 #EXTINF:-1 ,16.fox sports
 https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
 #EXTINF:-1 ,21.ben sports 1
