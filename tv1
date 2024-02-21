@@ -49,11 +49,13 @@ http://live.flixhub.net/hls/5054.m3u8
 http://live.flixhub.net/hls/5039.m3u8
 #EXTINF:-1 ,22.MY TV
 
-#EXTINF:-1 ,27.Anondo Tv
-
-#EXTINF:-1 ,29.Bangla tv
-
+#EXTINF:-1 ,27.Tara cenema
+http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,29.t sports
+http://103.142.80.22:8080/Channel-1/tracks-v1a1/mono.m3u8
 http://alvetv.com/mbtv/sptv/index.m3u8
+#EXTINF:-1 ,30.somoy tv
+http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 ,30.jumuna tv
 http://live.flixhub.net/hls/4005.m3u8
 #EXTINF:-1 ,35.Independent
@@ -160,8 +162,8 @@ http://live.flixhub.net/hls/5027.m3u8
 http://live.flixhub.net/hls/5038.m3u8
 #EXTINF:-1 ,68.TEN Sports
 http://23.255.0.10:8080/2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,68.Gazi TV
-http://23.255.0.10:8080/3/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,68.sports
+http://treambura.com:8080/live/soacra_pitis/KOAG8DvCPcj76hzMnHKRNZHRHYrdJg/9097.ts
 #EXTINF:-1 ,67.Movies Bangla
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
 #EXTINF:-1 ,67.red bull
