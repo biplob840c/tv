@@ -5,6 +5,8 @@ http://live.flixhub.net/hls/4112.m3u8
 http://live.flixhub.net/hls/5052.m3u8
 #EXTINF:-1 ,03.Gazi tv
 http://live.flixhub.net/hls/5008.m3u8
+#EXTINF:-1 ,03.Gazi tv2
+http://38.96.178.201/live/GaziTV/index.m3u8
 #EXTINF:-1 ,04.Max HD
 http://live.flixhub.net/hls/5029.m3u8
 #EXTINF:-1 ,04.star gold HD
