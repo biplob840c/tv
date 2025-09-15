@@ -1,14 +1,19 @@
 #EXTM3U
 #EXTINF:-1, 01.Tofee
 http://103.73.107.122:3255/TSportsHD/index.m3u8
-#EXTINF:-1 ,02. star sports-1
-http://live.flixhub.net/hls/5052.m3u8
-#EXTINF:-1 ,03.Gazi tv
-http://live.flixhub.net/hls/5008.m3u8
-#EXTINF:-1 ,03.Gazi tv2
-http://38.96.178.201/live/GaziTV/index.m3u8
-#EXTINF:-1 ,04.Max HD
-http://live.flixhub.net/hls/5029.m3u8
+#EXTINF:-1 ,02. star Jolsha HD
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
+#EXTINF:-1 ,03.Jolsha Movies HD
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=4060800503
+#EXTINF:-1 ,03.Z Banhla Cenema
+https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,03.Sony ATT
+https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,03.Sun Bangla
+https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,04.Enter10 Bangla
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+
 #EXTINF:-1 ,04.star gold HD
 http://live.flixhub.net/hls/5028.m3u8
 #EXTINF:-1 ,06.z cenema
