@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1, 01.Macca 
-http://live.flixhub.net/hls/4112.m3u8
+#EXTINF:-1, 01.Tofee
+http://103.73.107.122:3255/TSportsHD/index.m3u8
 #EXTINF:-1 ,02. star sports-1
 http://live.flixhub.net/hls/5052.m3u8
 #EXTINF:-1 ,03.Gazi tv
