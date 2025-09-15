@@ -1,191 +1,46 @@
 #EXTM3U
 #EXTINF:-1, 01.Tofee
 http://103.73.107.122:3255/TSportsHD/index.m3u8
-#EXTINF:-1 ,02. star Jolsha HD
+#EXTINF:-1, 02.Ten Cricket
+https://edge3-moblive.yuppcdn.net/drm/smil:tencricketdrm.smil/chunklist_b996000.m3u8
+#EXTINF:-1, 03.BTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8\
+#EXTINF:-1, 04.Jumuna
+https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 05.71
+https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 07.Channel 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 08.Somoi
+https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 09.indepen
+https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 10.Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 11.NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 12.ATN bangla
+https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 13.Channel I
+https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 14.Dipto TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
+#EXTINF:-1 ,15. star Jolsha HD
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
-#EXTINF:-1 ,03.Jolsha Movies HD
+#EXTINF:-1 ,16.Jolsha Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=4060800503
-#EXTINF:-1 ,03.Z Banhla Cenema
+#EXTINF:-1 ,17.Z Banhla Cenema
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,03.Sony ATT
+#EXTINF:-1 ,18.Sony ATT
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,03.Sun Bangla
+#EXTINF:-1 ,19.Sun Bangla
 https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,04.Enter10 Bangla
+#EXTINF:-1 ,20.Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
+#EXTINF:-1 ,21.Zee Bangla
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8?hdnts=
+#EXTINF:-1 ,23.S Bangla
+https://cdn-4.pishow.tv/live/1143/1143_0.m3u8
+#EXTINF:-1 ,24.Bangla +
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-1 ,04.star gold HD
-http://live.flixhub.net/hls/5028.m3u8
-#EXTINF:-1 ,06.z cenema
-http://live.flixhub.net/hls/5032.m3u8
-#EXTINF:-1 ,07.Star Plus
-http://live.flixhub.net/hls/5030.m3u8
-#EXTINF:-1 ,08.Sony
-http://live.flixhub.net/hls/5034.m3u8
-#EXTINF:-1 ,09.Colors hd
-http://live.flixhub.net/hls/5035.m3u8
-#EXTINF:-1, 10.channel i
-http://live.flixhub.net/hls/4016.m3u8
-#EXTINF:-1, 11.ATN
-
-#EXTINF:-1, 12. ATN BANGLA 2
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p0I5dr0.png",13. Channel i
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/chunks.m3u8
-#EXTINF:-14, 71 tv
-http://live.flixhub.net/hls/4017.m3u8
-#EXTINF:-1 ,30.Nagorik
-http://live.flixhub.net/hls/5007.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Somoy" tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/f/f6/%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/1200px-%E0%A6%B8%E0%A6%AE%E0%A6%AF%E0%A6%BC_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png " group-title="Bangla",Somoy
-http://live.flixhub.net/hls/4010.m3u8
-#EXTINF:-1 ,21.ETV
-https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,21.rtv
-
-#EXTINF:-1 ,18.Jolsha Movies
-http://live.flixhub.net/hls/5054.m3u8
-#EXTINF:-1 ,19.Masranga
-
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sa Tv" tvg-logo="http://4.bp.blogspot.com/-FwBXTxdboWM/V5pOQO6PI7I/AAAAAAAAAFs/MkYD6ZDEgvsIHIed4TqF3EDY1MFKg5xgQCK4B/s1600/satv%2Blogo.png " group-title="Bangla",16.SA TV
-
-#EXTINF:-1 ,31.Boyshakhi
-
-#EXTINF:-1 ,32.and picture 
-http://live.flixhub.net/hls/5039.m3u8
-#EXTINF:-1 ,22.MY TV
-
-#EXTINF:-1 ,27.Tara cenema
-http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,29.t sports
-http://103.142.80.22:8080/Channel-1/tracks-v1a1/mono.m3u8
-http://alvetv.com/mbtv/sptv/index.m3u8
-#EXTINF:-1 ,30.somoy tv
-http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
-#EXTINF:-1 ,30.jumuna tv
-http://live.flixhub.net/hls/4005.m3u8
-#EXTINF:-1 ,35.Independent
-http://live.flixhub.net/hls/4008.m3u8
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name=9xm
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=877600.m3u8
-#EXTINF:-1 ,36.Sangeet Bangla
-http://live.flixhub.net/hls/4120.m3u8
-#EXTINF:-1 , 22. Green tv
-http://live.flixhub.net/hls/4055.m3u8
-#EXTINF:-1 , 22. ZEE tv
-http://live.flixhub.net/hls/5031.m3u8
-#EXTINF:-1 , 22. goldmins
-http://live.flixhub.net/hls/4117.m3u8
-#EXTINF:-1 ,38. 9xm
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/9XM-audio_208482_und=208000-video=562400.m3u8
-#EXTINF:-1 ,38. 9xm hd
-http://live.flixhub.net/hls/4122.m3u8
-#EXTINF:-1 ,38. masti
-http://live.flixhub.net/hls/4124.m3u8
-#EXTINF:-1 ,38. star movie
-http://live.flixhub.net/hls/5006.m3u8
-#EXTINF:-1 ,38. zee bangla
-http://live.flixhub.net/hls/5048.m3u8
-#EXTINF:-1 ,38.Star jolsha
-http://live.flixhub.net/hls/5053.m3u8
-#EXTINF:-1 ,38.Colors Bangla
-http://live.flixhub.net/hls/5047.m3u8
-#EXTINF:-1 ,44.Zee Bangla Cenema
-http://live.flixhub.net/hls/5050.m3u8
-#EXTINF:-1 ,45.Colors Cenema
-http://live.flixhub.net/hls/5033.m3u8
-#EXTINF:-1 ,47.sony att
-http://live.flixhub.net/hls/5049.m3u8
-#EXTINF:-1 ,47.sun bangla
-http://live.flixhub.net/hls/5051.m3u8
-#EXTINF:-1 ,47.GB
-http://live.flixhub.net/hls/4018.m3u8
-#EXTINF:-1 ,47.Enter10 Bangla
-http://live.flixhub.net/hls/4036.m3u8
-#EXTINF:-1 ,30.zeetv
-http://live.flixhub.net/hls/zeetv.m3u8
-#EXTINF: -1 tvg-logo="https://i.imgur.com/YvGtRg7.png" group-title="Hindi", Star Gold 2 4K
-
-
-#EXTINF:-1 ,64.colorscineplex
-http://live.flixhub.net/hls/5037.m3u8
-#EXTINF:-1 ,63.pix
-http://live.flixhub.net/hls/5022.m3u8
-#EXTINF:-1 ,76. movies now
-http://live.flixhub.net/hls/5018.m3u8
-#EXTINF:-1 ,76.star movies
-http://live.flixhub.net/hls/5021.m3u8
-#EXTINF:-1 ,76.HBO
-http://live.flixhub.net/hls/5005.m3u8
-#EXTINF:-1 ,79.nick
-http://live.flixhub.net/hls/5024.m3u8
-#EXTINF:-1 ,79.sonic
-http://live.flixhub.net/hls/5041.m3u8
-#EXTINF:-1 ,83. sports-18
-http://live.flixhub.net/hls/5017.m3u8
-#EXTINF:-1 ,89.star sports3
-http://live.flixhub.net/hls/5052.m3u8
-#EXTINF:-1 ,02. star sports-2
-http://live.flixhub.net/hls/5042.m3u8
-#EXTINF:-1 ,88. tvg-logo="https://i.imgur.com/TL2jAU6.png", Star Sports Select 1 HD 
-http://live.flixhub.net/hls/5055.m3u8
-#EXTINF:-1 ,02. star sports selt-2
-http://live.flixhub.net/hls/5043.m3u8
-#EXTINF:-1 ,89.ptv sports
-http://live.flixhub.net/hls/4151.m3u8
-#EXTINF:-1 ,84. ten 1
-http://live.flixhub.net/hls/5056.m3u8
-#EXTINF:-1 ,85. tvg-logo="https://i.imgur.com/VcSPzlc.png" group-title="Sports", Ten 2
-http://live.flixhub.net/hls/5044.m3u8
-#EXTINF:-1 ,89.TEN 3
-http://live.flixhub.net/hls/5045.m3u8
-#EXTINF:-1 ,87. ten 5
-http://live.flixhub.net/hls/5020.m3u8
-
-
-#EXTINF:-1 ,89.sony cortoon
-http://live.flixhub.net/hls/5023.m3u8
-
-#EXTINF:-1 , T sports
-http://103.145.76.43:8080/hls/show.m3u8
-#EXTINF:-1, DD National
-
-#EXTINF:-1 ,52.Discovery Bangla
-http://live.flixhub.net/hls/5026.m3u8
-#EXTINF:-1 ,52.Discovery Bangla 2
-
-#EXTINF:-1 ,52.travel xp
-http://live.flixhub.net/hls/5046.m3u8
-#EXTINF:-1 ,52.National geo 
-http://live.flixhub.net/hls/5036.m3u8
-#EXTINF:-1 ,54.animel
-http://live.flixhub.net/hls/5025.m3u8
-#EXTINF:-1, wild
-http://live.flixhub.net/hls/5027.m3u8
-#EXTINF:-1, TLC
-
-#EXTINF:-1, bbcearth
-http://live.flixhub.net/hls/5038.m3u8
-#EXTINF:-1 ,68.TEN Sports
-http://23.255.0.10:8080/2/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,68.sports
-http://treambura.com:8080/live/soacra_pitis/KOAG8DvCPcj76hzMnHKRNZHRHYrdJg/9097.ts
-#EXTINF:-1 ,67.Movies Bangla
-https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/moviebanglalink2.stream/chunks.m3u8
-#EXTINF:-1 ,67.red bull
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:0 tvg-id="AlJazeera.nws" group-title="Sneh English News",Al Jazeera SD
-https://live-hls-web-aje.getaj.net/AJE/03.m3u8
-#EXTINF:-1 ,67.bbc
-http://live.flixhub.net/hls/5003.m3u8
-#EXTINF:-1 ,16.fox sports
-https://d17lgdx4t7a4od.cloudfront.net/out/v1/9143d1b1e45440b99f1fdc3a6a50c210/index_155.m3u8
-#EXTINF:-1 ,21.ben sports 1
-https://siloh.pluto.tv/lilo/production/BEIN/ES/master_1.m3u8
-#EXTINF:-1 ,Brammasro
-https://fs.plus.net.bd/Movies/Hindi/2022/Brahmastra%20Part%20One%3A%20Shiva%20%282022%29/Brahmastra%20Part%20One%20-%20Shiva%202022%20Hindi%20ORG%201080p%20WEB-DL%20x264%20ESubs.mkv
-#EXTINF:-1 ,tumi asbe bole
-https://fs.plus.net.bd/Movies/Indian-Bangla/Tumi%20Ashbe%20Bole%20%282021%29/Tumi.Ashbe.Bole.2021.1080p.DSNP.WEB-DL.AAC2.0.x264-Telly.mkv
-#EXTINF:-1 ,tui sudu amar
-https://fs.plus.net.bd/Movies/Indian-Bangla/Tui%20Sudhu%20Amar%20%282018%29/Tui%20Sudhu%20Amar%20%282018%29%20Bengali%201080P%20AMZN%20WEBRIP%20DDP%202.0%20H265%20HEVC%20ESUB.mkvmkv
-#EXTINF:-1 , আবার বিবাহ অভিযান
-https://fs.plus.net.bd/Movies/Indian-Bangla/Abar%20Bibaho%20Obhijaan%20%282023%29/Abar%20Bibaho%20Obhijaan%202023%20Bengali%20ORG%201080p%20WEB-DL%20x264%20ESubs.mkv
