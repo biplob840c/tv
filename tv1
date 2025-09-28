@@ -27,12 +27,19 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 #EXTINF:-1, 13.Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 13.Duronto
+https://tvsen4.aynaott.com/durontotv/tracks-v1a1/mono.ts.m3u8
+
 #EXTINF:-1, 14.Dipto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 #EXTINF:-1 ,15.Jolsha Movies HD
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=4060800503
+#EXTINF:-1 ,15.Sanonda TV
+https://live.sanonda.tv/sanonda/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,16.Z Banhla Cenema
 https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,23. colors bangla cenema
+https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/stream_0.m3u8?uid=3925977078
 #EXTINF:-1 ,17.Sony ATT
 https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,18.Sun Bangla
@@ -40,15 +47,33 @@ https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,19.Enter10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1 ,20.S Bangla
-https://cdn-4.pishow.tv/live/1143/1143_0.m3u8
+https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
 #EXTINF:-1 ,21.Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,22.Amar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 ,23. star Jolsha HD
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
+#EXTINF:-1 ,23. colors bangla
+https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/stream_0.m3u8?uid=3036658487
 #EXTINF:-1 ,23. star Sports
 http://10.10.10.2/live/fnf004/index.m3u8
+#EXTINF:-1 ,23. khusbo
+https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
+#EXTINF:-1 ,23. ETV
+https://bozztv.com/rongo/rongo-EkusheyTV/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,23. Masranga
+https://bozztv.com/rongo/rongo-Maasranga/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,23. Boishakhi
+https://bozztv.com/rongo/rongo-BoishakhiTV/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,23. channel 9
+https://bozztv.com/rongo/rongo-Channel9/tracks-v2a1/mono.m3u8
+#EXTINF:-1 ,23. me tv
+https://iptvbd.live/metv1080/1080.m3u8
+#EXTINF:-1 ,23. channel A1
+https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
+
+
 #EXTINF:-1 ,24.Zee Bangla
 https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8?hdnts=
 
