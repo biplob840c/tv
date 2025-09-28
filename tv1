@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1, 01.Ten cricket
-http://30.30.30.138:8088/121/tracks-v1a1/mono.m3u8?token=bc73eab2ca4cfc38ff949297cecc76cc2f7274e1-5134d0ca5f54f2e939ec79bfafc80b24-1759049473-1759045873
+http://redforce.live:8082/SONY-SPORTS.5HD/tracks-v1a1/mono.m3u8?token=0a7510db8207b4ab94e0082c92e4333500a1edf9-c7423991bc12501be2df940060918753-1747174094-1747163294
 #EXTINF:-1, 01.T sports
 http://10.10.10.2/live/fnf002/index.m3u8
 #EXTINF:-1, 01.T Sports 2
 http://10.10.10.2/live/fnf003/index.m3u8
 #EXTINF:-1, 02.T
-http://30.30.30.138:8088/102/tracks-v1a1/mono.m3u8?token=bf1157bea66447ae3cb3be9fcaebacc74e7bc219-054874af699895e86df415cf6af41900-1759049550-1759045950
+http://redforce.live:8082/NAGORIK.TV.HD/tracks-v1a1/mono.m3u8?token=8ec7cd3cd4f90d4ad11ff0cc918c4ed6e9546739-502dbf1483bfbbb0729a109c607cb32e-1747174439-1747163639
 #EXTINF:-1, 03.BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
 #EXTINF:-1, 04.Jumuna
