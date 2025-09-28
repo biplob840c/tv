@@ -72,6 +72,15 @@ https://bozztv.com/rongo/rongo-Channel9/tracks-v2a1/mono.m3u8
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 ,23. channel A1
 https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
+#EXTINF:-1 ,23. B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+#EXTINF:-1 ,23. B4U Movies
+https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
+#EXTINF:-1 ,23. Colors ceneplex
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
+#EXTINF:-1 ,23. Colors ceneplex supperhit
+https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
+
 
 
 #EXTINF:-1 ,24.Zee Bangla
