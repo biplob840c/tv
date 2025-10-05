@@ -1,10 +1,14 @@
 #EXTM3U
-#EXTINF:-1, 01.Ten cricket
-http://10.99.99.99:8082/ZEE.CINEMA.HD/tracks-v1a1/mono.m3u8?token=1c3db96124a4063e1264f84ae2fe3ed28d216930-0b650184013520963859eef71b38dbdb-1759676130-1759665330
+#EXTINF:-1, 01.T sports
+http://10.16.100.213:8080/hls/tsports.m3u8
+#EXTINF:-1, 01. Sony 1
+http://10.16.100.213:8080/hls/SonySportsTen1Hd.m3u8
 #EXTINF:-1, 01.T sports
 http://10.10.10.2/live/fnf002/index.m3u8
 #EXTINF:-1, 01.T Sports 2
 http://10.10.10.2/live/fnf003/index.m3u8
+#EXTINF:-1, 01.PTV Sports
+http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
 #EXTINF:-1, 02.T
 http://10.99.99.99:8082/SONY.MAX.HD/tracks-v1a1/mono.m3u8?token=f60ec56381a97c58ccb2cdf2958a9f7e27b86264-a33215f955f8228568a6f9e9239341b2-1759676036-1759665236
 #EXTINF:-1, 02.T
