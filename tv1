@@ -9,10 +9,12 @@ http://10.10.10.2/live/fnf002/index.m3u8
 http://10.10.10.2/live/fnf003/index.m3u8
 #EXTINF:-1, 01.PTV Sports
 http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
-#EXTINF:-1, 02.T
-http://10.99.99.99:8082/SONY.MAX.HD/tracks-v1a1/mono.m3u8?token=f60ec56381a97c58ccb2cdf2958a9f7e27b86264-a33215f955f8228568a6f9e9239341b2-1759676036-1759665236
-#EXTINF:-1, 02.T
-http://10.99.99.99:8082/STAR.GOLD.HD/tracks-v1a1/mono.m3u8?token=e8c3edc2b14912294550b8c43c32b9397bf724f6-698e6a6eaeb2bdee006088cfa05ae7af-1759676073-1759665273
+#EXTINF:-1, 02.Max
+http://10.99.99.99:8082/SONY.MAX.HD/tracks-v1a1/mono.m3u8?token=40f334e3a7d26670c8614d81a206c87a54e2a8e6-e9cde11d88b770667580e5bcb12d88f2-1759692112-1759681312
+#EXTINF:-1, 02.Z cenema
+http://10.99.99.99:8082/ZEE.CINEMA.HD/tracks-v1a1/mono.m3u8?token=fd8875d4374d127d485701a5eee81e0ed3bf934b-0d1d7a900c8084887045b8dcba8d3a3e-1759692166-1759681366
+#EXTINF:-1, 02.Star gold
+http://10.99.99.99:8082/STAR.GOLD.HD/tracks-v1a1/mono.m3u8?token=716c5e0f04682336cbf2d03e7b45c34ec415fa07-5b25ac7443c2c26182f9a3401bdeb34f-1759692202-1759681402
 
 #EXTINF:-1, 03.BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
@@ -37,7 +39,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-vid
 #EXTINF:-1, 13.Duronto
 https://tvsen4.aynaott.com/durontotv/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,15.plus HD
-http://10.99.99.99:8082/STAR.PLUS.HD/tracks-v1a1/mono.m3u8?token=930cfc545e78ff6abc25b2aaecfaa8271188fbba-01e4bed6bb212d7a6883bbacafaafb64-1759676102-1759665302
+http://10.99.99.99:8082/STAR.PLUS.HD/tracks-v1a1/mono.m3u8?token=988038e3cd492440a698b89315f1296d0b4b69a7-3e08b1a75961c9cda693c434863583c7-1759692230-1759681430
 
 
 #EXTINF:-1, 14.Dipto TV
