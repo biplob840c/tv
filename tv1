@@ -1,6 +1,7 @@
 #EXTM3U
-#EXTINF:-1, 01.T sports
-http://10.16.100.213:8080/hls/tsports.m3u8
+#EXTINF:-1, 01.star sports
+http://10.99.99.99:8082/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8?token=8af69494a957e9208d09af5004b299643e147652-0056a2839c8f5322ac2eab61e6f6dcd2-1762431110-1762420310
+
 #EXTINF:-1, 01. Sony 1
 http://10.16.100.202:8080/hls/tsports.m3u8
 #EXTINF:-1, 01.T sports
