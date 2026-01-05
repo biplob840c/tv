@@ -11,16 +11,7 @@ http://10.10.10.2/live/fnf002/index.m3u8
 http://10.10.10.2/live/fnf003/index.m3u8
 #EXTINF:-1, 01.PTV Sports
 http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
-#EXTINF:-1, 02.Max
-http://10.99.99.99:8082/SONY.MAX.HD/tracks-v1a1/mono.m3u8?token=85487ba9c99e74f9df89addeb66d2a547c5fd672-aef891cfb00d793849c107c592321dee-1762434534-1762423734
 
-#EXTINF:-1, 02.Z cenema
-http://10.99.99.99:8082/ZEE.CINEMA.HD/tracks-v1a1/mono.m3u8?token=463a5ff43aaa7335efb6ed9fc96a359786f388b1-9a897e79038d8d1e6f75530d9c346ce1-1762434553-1762423753
-#EXTINF:-1, 02.Star gold
-http://10.99.99.99:8082/STAR.GOLD.HD/tracks-v1a1/mono.m3u8?token=a00260c47845431572e2573e3cd49f49e2ee6f9b-d1e44bc7c7c228061a6c40efeaea39b7-1762434583-1762423783
-
-#EXTINF:-1, 02.JOLSHA MOVIES
-http://10.99.99.99:8082/JALSHA.MOVIES.HD/tracks-v1a1/mono.m3u8?token=d4681c4db9c955a99c4f71a505a88f8f7c3e0cc3-660ff48d7ec72c49f98f74b8e3a0367c-1762434608-1762423808
 
 #EXTINF:-1, 03.BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
@@ -44,14 +35,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
 #EXTINF:-1, 13.Duronto
 https://tvsen4.aynaott.com/durontotv/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,15.plus HD
-http://10.99.99.99:8082/STAR.PLUS.HD/tracks-v1a1/mono.m3u8?token=08a425cf478a60d48eac1f1b6a27a7b8aafa95d8-dac9e713c0dec035fc199d14f4677be2-1762434641-1762423841
 
-#EXTINF:-1 ,15.Sony HD
-http://10.99.99.99:8082/SONY.ENT.HD/tracks-v1a1/mono.m3u8?token=7e74b52071b5738e00a206293915c0d07b44be1e-01c54be9a8632f2604689b7f231c90fb-1760985765-1760974965
-
-#EXTINF:-1 ,15.Star Barat HD
-http://10.99.99.99:8082/STAR.BHARAT.HD/tracks-v1a1/mono.m3u8?token=01789b2e8128d80c4a9021658a4cb742f8a94a8c-c98422c188ab5811509f8d9f4b88b061-1762434658-1762423858
 
 
 
