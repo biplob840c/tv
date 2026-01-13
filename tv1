@@ -1,9 +1,12 @@
 #EXTM3U
-#EXTINF:-1, 01.star sports
-http://10.99.99.99:8082/STAR.SPORTS1.HD/tracks-v1a1/mono.m3u8?token=8c4d29bc8863f88aa589e9234ee86d42c1bb8149-c6de21738a4b506988819c031a9c2e35-1762434676-1762423876
+#EXTINF:-1, 01.A sports
+http://10.16.100.206:8080/hls/asports.m3u8
+#EXTINF:-1, 01.T sports
+http://10.16.100.202:8080/hls/tsports.m3u8
 
-#EXTINF:-1, 01. star sports 2
-http://10.99.99.99:8082/STAR.SPORTS2.HD/tracks-v1a1/mono.m3u8?token=14ece56aa0f51c9089fb17a5f76848b9f77841e1-770fe4f8dcd4893e2190b373f5fb2aac-1762434700-1762423900
+
+#EXTINF:-1, 01. Star sports 1
+http://172.27.27.90:8080/tv2/index.m3u8
 
 #EXTINF:-1, 01.T sports
 http://10.10.10.2/live/fnf002/index.m3u8
