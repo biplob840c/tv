@@ -1,8 +1,6 @@
 #EXTM3U
-#EXTINF:-1, 01.Sontan Movie
-http://10.10.10.3/Data/Indian%20Bangla/new/Shontaan%20(2024)/Shontaan.mp4
-#EXTINF:-1, 01.Atka
-http://10.10.10.3/Data/Indian%20Bangla/new/Aatka%20(2026)/Aatka.2026.S01.COMPLETE.1080p.CHORKI.WEB-DL.BanglaPlex.life.H.264.AAC2.0.ESub.mp4
+#EXTINF:-1, 01.projapoti
+http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282022%29/Projapati%20%282022%29%201080p/Projapoti%20%282022%29%20Bengali%201080p%20Zee5%20WEBRip%20x264%20ESub%20-TMb.mkv
 #EXTINF:-1, 01.Antoratma Movie
 http://10.10.10.3/Data/Indian%20Bangla/new/Antaratma%20(2025)/Antaratma.mp4
 #EXTINF:-1, 01.Nur Movie
