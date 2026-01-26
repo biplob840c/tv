@@ -1,6 +1,8 @@
 #EXTM3U
 #EXTINF:-1, 01.projapoti
 http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282022%29/Projapati%20%282022%29%201080p/Projapoti%20%282022%29%20Bengali%201080p%20Zee5%20WEBRip%20x264%20ESub%20-TMb.mkv
+#EXTINF:-1, 01.movie
+http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Sankrathiki%20Vasthunam%20%282025%29%201080p%20%5BDual%20Audio%5D/Sankranthiki%20Vasthunam%20%282025%29%20UNCUT%201080p%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-HDHub.mkv
 #EXTINF:-1, 01.jogli
 http://10.10.10.3/Data/Indian%20Bangla/new/Jongli%20(2025)/Jongli.mp4
 #EXTINF:-1, 01.Antoratma Movie
