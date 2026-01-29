@@ -27,6 +27,9 @@ http://10.10.10.2/live/fnf003/index.m3u8
 #EXTINF:-1, 01.PTV Sports
 http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
 
+#EXTINF:-1, 01.T sports new
+https://iptv.prisma.net.bd/hls/stream2/playlist.m3u8
+
 
 #EXTINF:-1, 03.BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
