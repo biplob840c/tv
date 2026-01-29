@@ -7,8 +7,10 @@ http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025
 http://10.10.10.3/Data/Indian%20Bangla/new/Jongli%20(2025)/Jongli.mp4
 #EXTINF:-1, 01.Antoratma Movie
 http://10.10.10.3/Data/Indian%20Bangla/new/Antaratma%20(2025)/Antaratma.mp4
-#EXTINF:-1, 01.Nur Movie
-http://10.10.10.3/Data/Indian%20Bangla/new/Noor%20(2025)/Noor.2025.1080p.BioscopePlus.WEB-DL.BanglaPlex.me.H.264.AAC2.0.mp4
+
+#EXTINF:-1,Sony sports 5
+http://10.10.10.2/live/fnf001/index.m3u8
+
 #EXTINF:-1, 01.A sports
 http://10.16.100.206:8080/hls/asports.m3u8
 #EXTINF:-1, 01.T sports
