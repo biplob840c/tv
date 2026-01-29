@@ -46,8 +46,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 #EXTINF:-1, 13.Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 13.Duronto
-https://tvsen4.aynaott.com/durontotv/tracks-v1a1/mono.ts.m3u8
 
 
 
@@ -55,18 +53,15 @@ https://tvsen4.aynaott.com/durontotv/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1, 14.Dipto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
-#EXTINF:-1 ,15.Jolsha Movies HD
-https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/stream_0.m3u8?uid=4060800503
+#EXTINF:-1 ,23. Channel 9
+http://10.10.10.2/live/fnf004/index.m3u8
+
 #EXTINF:-1 ,15.Sanonda TV
-https://live.sanonda.tv/sanonda/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,16.Z Banhla Cenema
-https://smart.bengaldigital.live/Zee-Bangla-Cinema/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 ,23. colors bangla cenema
-https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/stream_0.m3u8?uid=3925977078
-#EXTINF:-1 ,17.Sony ATT
-https://live20.bozztv.com/giatvplayout7/giatv-209611/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="AakaashAath.in@SD" tvg-logo="https://i.imgur.com/rAAgfJ4.png" group-title="Entertainment",Aakaash Aath (720p)
-https://cdn-4.pishow.tv/live/969/master.m3u8
+
 #EXTINF:-1 ,18.Sun Bangla
 https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,19.Enter10 Bangla
@@ -78,13 +73,12 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 ,22.Amar Bangla
 https://live-stream.utkalbongo.com/utkalbongo/stream10/hls/amarbangla.m3u8
 #EXTINF:-1 ,23. star Jolsha HD
-https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
-#EXTINF:-1 ,23. colors bangla
-https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/stream_0.m3u8?uid=3036658487
-#EXTINF:-1 ,23. star Sports
-http://10.10.10.2/live/fnf004/index.m3u8
-#EXTINF:-1 tvg-id="StarSports1.in@HD" tvg-logo="https://i.imgur.com/E5jjKHI.png" group-title="Sports",Star Sports 1 HD [Geo-blocked]
-http://41.205.93.154/STARSPORTS1/index.m3u8
+
+#EXTINF:-1 ,23. DD bangla
+https://d3eyhgoylams0m.cloudfront.net/v1/manifest/93ce20f0f52760bf38be911ff4c91ed02aa2fd92/ed7bd2c7-8d10-4051-b397-2f6b90f99acb/2e9e32a4-c4f7-49c3-96d6-c4e3660c7e3f/2.m3u8
+
+
+
 #EXTINF:-1 ,23. khusbo
 https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj06BkOW8UjaOwpAilzrYTWRGVrKo7kxpI5MzUxivMCqSxr_0qxTqsxp8E-8nbVmIzxaM3Qrbm1jsJAiPcHDqOwzseVdGUC26pK2eaMmRbqKV9UHcMWtPl_lhIIKTv5YnESoG8bF5TJQCgoDLkTy8nhHdRMSydeD8Dh46TRLO8CiVVJtT1uecO2ehEtTg/s400/@nurmd2006_20250426_212613_0000.png", Movie Bangla 
@@ -93,8 +87,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/shows/2025-07-24/2507243298019.jpg?width=700",Mon Bangla 
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8 
-#EXTINF:-1 ,23. channel 9
-https://bozztv.com/rongo/rongo-Channel9/tracks-v2a1/mono.m3u8
+
 #EXTINF:-1 ,23. me tv
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 ,23. channel A1
@@ -113,33 +106,10 @@ https://cdn-2.pishow.tv/live/226/master.m3u8
 https://cdnb4u.wiseplayout.com/B4U_Movies/master.m3u8
 #EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/B4U_Kadak.png" group-title="Movies", B4U Kadak
 https://cdnb4u.wiseplayout.com/B4U_Kadak/HD720/HD720.m3u8
-#EXTINF:-1 ,23. Colors ceneplex
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/index.m3u8
-#EXTINF:-1 ,23. Colors ceneplex supperhit
-https://nonprod-sports-cohort.jiocinema.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/index.m3u8
-#EXTINF:-1 tvg-id="Andflix.in@SD" tvg-logo="https://i.imgur.com/WOyfzjC.png" group-title="Movies" http-referrer="https://onezoo.net",&flix (1080p)
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
-https://playyonogames.in/z5/stream.m3u8?id=0-9-channel_2105335046
-#EXTINF:-1 tvg-id="AndxplorHD.in@SD" tvg-logo="https://i.imgur.com/9mK6dgM.png" group-title="Movies" http-referrer="https://onezoo.net",&xplor HD (1080p)
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
-https://playyonogames.in/z5/stream.m3u8?id=0-9-209
-#EXTINF:-1  tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmovies.png" group-title="Movies",Star Movies
-https://live.dinesh29.com.np/stream/jiotvplus/starmovies/master.m3u8
-#EXTINF:-1  tvg-logo="https://live.dinesh29.com.np/logos/jiotvplus/starmovieshd.png" group-title="Movies",Star Movies HD
-https://live.dinesh29.com.np/stream/jiotvplus/starmovieshd/master.m3u8
 
-#EXTINF:-1 tvg-id="DisneyChannel.in@SD" tvg-logo="https://i.postimg.cc/854KwmH1/disneychannel.png" group-title="Kids",Disney Channel (576p) [Not 24/7]
-http://116.90.120.149:8000/play/a0bx/index.m3u8
-#EXTINF:-1 tvg-id="DisneyInternationalHD.in@SD" tvg-logo="https://i.imgur.com/JkGvrc6.png" group-title="Kids",Disney International HD (1080p)
-https://live.dinesh29.com.np/stream/jiotvplus/disneyinternationalhd/master.m3u8
-#EXTINF:-1 tvg-id="DisneyJunior.in@SD" tvg-logo="https://i.postimg.cc/KvRqrLg2/disneyjunior.png" group-title="Kids",Disney Junior (576p)
-http://116.90.120.149:8000/play/a0b3/index.m3u8
-#EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://i.imgur.com/g3eT2vP.png" group-title="Undefined" http-referrer="https://onezoo.net",Zee TV (1080p)
-#EXTVLCOPT:http-referrer=https://onezoo.net
-#KODIPROP:inputstream.adaptive.stream_headers=referer==https://onezoo.net
-https://playyonogames.in/z5/stream.m3u8?id=0-9-zeetvhd
+
+
+
 #EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="Undefined",Zoom (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 #EXTINF:-1 tvg-id="AajTak.in" tvg-logo="https://i.imgur.com/RpIdCB3.png" group-title="News",Aaj Tak (404p)
