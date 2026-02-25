@@ -7,6 +7,9 @@ http://10.10.10.3/Data/Indian%20Bangla/new/Tagar%20(2025)/Tagar.mp4
 http://10.10.10.3/Data/Indian%20Bangla/new/Jongli%20(2025)/Jongli.mp4
 #EXTINF:-1, 01.Antoratma Movie
 http://10.10.10.3/Data/Indian%20Bangla/new/Antaratma%20(2025)/Antaratma.mp4
+#EXTINF:-1 tvg-logo="https://origin-staticv2.sonyliv.com/videoasset_images/manage_file/1000015485/1771689324591794_UEFAYouthLeague26_Roundof16_Real_Madrid_vs_Chelsea_21feb_landscape_thumb.jpg" group-title="sonyliv-Football", Real Madrid vs Chelsea - 25 Feb 2026 [ENG] - UEFA Youth League 2025-26
+https://sonydaimenew.akamaized.net/hls/live/2094587/DAI03ME-V3/std_lrh-800300010.m3u8?hdnea=exp=1772077775~acl=/*~id=26851682211866244175194449354357~hmac=161cdb98c2fd7fe3d3321707c6384db717033730b5876fdf5644b826a8df91a4
+
 
 #EXTINF:-1,Sony sports 5
 http://10.10.10.2/live/fnf001/index.m3u8
