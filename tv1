@@ -51,9 +51,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-vid
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/ATN%20News1731520019.png",ATN News
 http://103.175.242.10:8080/atnnews/index.m3u8
 #EXTINF:-1 ,BANGLA ▎DBC NEWS
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108808
+https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
 #EXTINF:-1, 09.indepen
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 09.Ekhon
+https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+#EXTINF:-1, 09.News 24
+https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
+
 #EXTINF:-1, 12.ATN bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 #EXTINF:-1, 13.Channel I
@@ -68,7 +74,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-vid
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1441003
 #EXTINF:-1, 14.Dipto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
-
+#EXTINF:-1 ,BANGLA ▎CHANNEL 9
+https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
 
 
@@ -90,7 +97,8 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440981
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440993
 #EXTINF:-1 ,BANGLA ▎ASIAN TV
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440997
-
+#EXTINF:-1 ,BANGLA ▎Islamic TV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 ,BANGLA ▎NRB TV
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108829
 
