@@ -74,6 +74,8 @@ http://103.229.254.25:7001/play/a05x/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1 ,CHANNEL 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 group-title="-",Boishakhi TV
+http://103.229.254.25:7001/play/a067/index.m3u8
 #EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",GREEN TV HD
 https://app.ncare.live/streams/greentv.stream/playlist.m3u8
 
@@ -83,6 +85,8 @@ https://app.ncare.live/streams/greentv.stream/playlist.m3u8
 http://103.175.242.10:8080/atnnews/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://redforce.live/assets/images/NAGORIK1745042776.png",Nagorik tv
 http://203.18.159.115/NAGORIK/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,BIJOY TV
+http://103.229.254.25:7001/play/a066/index.m3u8
 #EXTINF:-1 ,BANGLA ▎SATV
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108836
 #EXTINF:-1 ,BANGLA ▎DESH TV
@@ -91,8 +95,8 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108810
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108824
 #EXTINF:-1 ,BANGLA ▎CHANNEL 9
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108803
-#EXTINF:-1 ,BANGLA ▎BIJOY TV
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108797
+
+
 #EXTINF:-1 ,BANGLA ▎ANANDA TV
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108878
 #EXTINF:-1 ,BANGLA ▎NEXUS TV
