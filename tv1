@@ -32,6 +32,9 @@ http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
 
 #EXTINF:-1, 01.T sports new
 http://10.10.10.2/live/fnf004/index.m3u8
+#EXTINF:-1, 01.T sports new 2
+http://103.175.242.10:8080/tsports1/index.m3u8
+
 
 #EXTINF:-1, 03.BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
@@ -45,25 +48,29 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
 #EXTINF:-1, 09.indepen
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 10.Bangla Vision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 11.NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
 #EXTINF:-1, 12.ATN bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
 #EXTINF:-1, 13.Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
-
-
-
-
-
+#EXTINF:-1, 11.NTV
+https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
+#EXTINF:-1, 10.Bangla Vision
+https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
 #EXTINF:-1, 14.Dipto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
 
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_Max_new.png/512px-Sony_Max_new.png",Sony Max
-http://103.99.249.139/sonymax/index.m3u8
 
+
+
+
+#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_Max_new.png/512px-Sony_Max_new.png",Sony Max
+http://103.175.242.10:8080/sonymax/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Star%20Gold1731407227.png",Star Gold
+http://103.175.242.10:8080/stargold/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Star%20Plus1731424615.png",Star Plus
+http://103.175.242.10:8080/starplus/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Star%20Jalsha1732256743.png",Star Jalsha
+http://103.175.242.10:8080/starjalsha/index.m3u8
 
 #EXTINF:-1 ,18.Sun Bangla
 https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
@@ -123,6 +130,44 @@ https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 #EXTINF:-1 group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+
+
+
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/BTV1731308323.png",BTV
+http://103.175.242.10:8080/btv/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Atn%20Bangla1731520005.png",Atn Bangla
+http://103.175.242.10:8080/atnbangla/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/ATN%20News1731520019.png",ATN News
+http://103.175.242.10:8080/atnnews/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Banglavision1731407320.png",Banglavision
+http://103.175.242.10:8080/banglavision/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Channel%20241731584609.png",Channel 24
+http://103.175.242.10:8080/channel24/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Channel%20i1731407855.png",Channel i
+http://103.175.242.10:8080/channeli/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/NTV1731389953.png",NTV
+http://103.175.242.10:8080/ntv/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Ekattor%20TV1731435020.png",Ekattor TV
+http://103.175.242.10:8080/ekattor/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Somoy1731406328.png",Somoy
+http://103.175.242.10:8080/somoy/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Independent%20TV1731406270.png",Independent TV
+http://103.175.242.10:8080/independent/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Jamuna%20TV1731468148.png",Jamuna TV
+http://103.175.242.10:8080/jamuna/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png",Movie Bangla
+http://103.175.242.10:8080/moviebangla/index.m3u8
+
+
+
+
+
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
+http://103.175.242.10:8080/metv/index.m3u8
+
+
+
+
 #EXTINF:-1 ,24.Animal
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/Animal%20%282023%29%201080p/Animal%20%282023%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 #EXTINF:-1 ,24.Zee Bangla
