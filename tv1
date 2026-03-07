@@ -46,6 +46,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-vid
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
 #EXTINF:-1, 08.Somoi
 https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/ATN%20News1731520019.png",ATN News
+http://103.175.242.10:8080/atnnews/index.m3u8
 #EXTINF:-1, 09.indepen
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
 #EXTINF:-1, 12.ATN bangla
@@ -67,10 +69,26 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-vid
 http://103.175.242.10:8080/sonymax/index.m3u8
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Star%20Gold1731407227.png",Star Gold
 http://103.175.242.10:8080/stargold/index.m3u8
+#EXTINF:-1 ,18.& Picture
+http://103.175.242.10:8080/zeecinema/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png",Sony 
+http://103.175.242.10:8080/sonyentten/index.m3u8
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Star%20Plus1731424615.png",Star Plus
 http://103.175.242.10:8080/starplus/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Colors%20HD1731406975.png",Colors HD
+http://103.175.242.10:8080/colorshd/index.m3u8
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Star%20Jalsha1732256743.png",Star Jalsha
 http://103.175.242.10:8080/starjalsha/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406932.png",Zee Bangla
+http://103.175.242.10:8080/zeebangla/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Sony%20Aath1731407792.png",Sony Aath
+http://103.175.242.10:8080/sonyaath/index.m3u8
+
+
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/National%20Geographic1731468376.png",National Geographic
+http://103.175.242.10:8080/natgeo/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Discovery1731407135.png",Discovery
+http://103.175.242.10:8080/discovery/index.m3u8
 
 #EXTINF:-1 ,18.Sun Bangla
 https://smart.bengaldigital.live/sun-bangla-paid/tracks-v1a1/mono.m3u8
@@ -119,6 +137,9 @@ https://cdnb4u.wiseplayout.com/B4U_Kadak/HD720/HD720.m3u8
 
 #EXTINF:-1 ,23. Jolsha Movies
 http://103.175.242.10:8080/jalshamovies/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Star%20Movies1731469513.png",Star Movies
+http://103.175.242.10:8080/starmovies/index.m3u8
+
 
 #EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://i.imgur.com/kcDJ4g0.png" group-title="Undefined",Zoom (720p)
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
@@ -157,6 +178,14 @@ http://103.175.242.10:8080/independent/index.m3u8
 http://103.175.242.10:8080/jamuna/index.m3u8
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Movie%20Bangla1731406643.png",Movie Bangla
 http://103.175.242.10:8080/moviebangla/index.m3u8
+
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2011730721777.png",Sony Ten 1
+http://stvlive.net:8080/sonyten1/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2021731408024.png",Sony Ten 2
+http://103.175.242.10:8080/sonyten2/index.m3u8
+#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2051731408219.png",Sony Ten 5
+http://103.175.242.10:8080/sonyten5/index.m3u8
+
 
 
 
