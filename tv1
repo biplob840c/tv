@@ -35,7 +35,8 @@ http://10.10.10.2/live/fnf004/index.m3u8
 #EXTINF:-1, 01.T sports new 2
 http://103.175.242.10:8080/tsports1/index.m3u8
 
-
+#EXTINF:-1, Al Jajira
+https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
 #EXTINF:-1, 03.BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1, 04.Jumuna
