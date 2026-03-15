@@ -66,10 +66,14 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1, 11.NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 ,BANGLA ▎RTV
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108833
+#EXTINF:-1 ,NTV HD
+http://103.229.254.25:7001/play/a06g/index.m3u8
+#EXTINF:-1 ,Rtv HD
+http://103.229.254.25:7001/play/a068/index.m3u8
 #EXTINF:-1, 10.Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1 ,Maasranga TV HD
+http://103.229.254.25:7001/play/a05q/index.m3u8
 #EXTINF:-1 ,EKUSHEY
 http://103.229.254.25:7001/play/a05x/index.m3u8
 #EXTINF:-1, 14.Dipto TV
@@ -78,20 +82,20 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 group-title="-",Boishakhi TV
 http://103.229.254.25:7001/play/a067/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",GREEN TV HD
+#EXTINF:-1 ,GREEN TV HD
 https://app.ncare.live/streams/greentv.stream/playlist.m3u8
 
+#EXTINF:-1 ,Duronto TV HD
+http://103.229.254.25:7001/play/a05k/index.m3u8
 
 
-#EXTINF:-1, 09.Parineeta
-http://103.87.212.46/Data/MOVIES/BANGLA/2019//Parineeta%20%282019%29/Parineeta%20%282019%29%201080p%20WEBHD.mkv
-#EXTINF:-1, 09.Pratighat
-http://103.87.212.46/Data/MOVIES/BANGLA/2021//Pratighat%20%282021%29/Pratighat%20%282021%29%20Bengali%201080p%20HDRip%20x264%20AAC%20ESub%20-SmHD.mkv
 
+#EXTINF:-1 ,Mohona TV
+http://103.229.254.25:7001/play/a05t/index.m3u8
 #EXTINF:-1 ,BIJOY TV
 http://103.229.254.25:7001/play/a066/index.m3u8
-#EXTINF:-1 ,BANGLA ▎SATV
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108836
+#EXTINF:-1 ,SA TV HD
+http://103.229.254.25:7001/play/a062/index.m3u8
 #EXTINF:-1 ,BANGLA ▎DESH TV
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108810
 #EXTINF:-1 ,BANGLA ▎MOHONA TV
@@ -102,10 +106,10 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108803
 
 #EXTINF:-1 ,BANGLA ▎ANANDA TV
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108878
-#EXTINF:-1 ,BANGLA ▎NEXUS TV
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440981
-#EXTINF:-1 ,BANGLA ▎MY TV
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440993
+#EXTINF:-1 ,NEXUS TV
+http://103.229.254.25:7001/play/a05m/index.m3u8
+#EXTINF:-1 ,MY TV
+http://103.229.254.25:7001/play/a05z/index.m3u8
 #EXTINF:-1 ,BANGLA ▎ASIAN TV
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440997
 #EXTINF:-1 group-title="-",GLOBAL TV HD
@@ -122,8 +126,8 @@ http://103.175.242.10:8080/metv/index.m3u8
 
 #EXTINF:-1 ,BANGLA ▎JALSHA MOVIES
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108783
-#EXTINF:-1 ,BENGALI ▎STAR JALSHA MOVIES HD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63524
+#EXTINF:-1 ,JALSHA MOVIES HD
+http://103.229.254.25:7001/play/a0dt/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/STAR%20GOLD%20HD1745034037.png",STAR GOLD
 http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
@@ -139,8 +143,8 @@ http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 http://103.175.242.10:8080/zeecinema/index.m3u8
 #EXTINF:-1 group-title="-",Zee Bollywood
 http://103.229.254.25:7001/play/a0dk/index.m3u8
-#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Sony%20Enter%20Ten1731469071.png",Sony 
-http://103.175.242.10:8080/sonyentten/index.m3u8
+#EXTINF:-1  ,Sony 
+http://103.229.254.25:7001/play/a09u/index.m3u8
 
 
 #EXTINF:-1 group-title="-",STAR PLUS 
@@ -186,8 +190,8 @@ http://203.18.159.115/MNPLUS/tracks-v1a1/mono.m3u8
 http://203.18.159.115/AXNHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/LOTUS%20TV1745044960.png",Lotus
 http://203.18.159.115/LOTUSTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/SONY%20PIX%20HD1745039925.png",SONY PIX HD
-http://203.18.159.115/SONYPIXHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY PIX HD
+http://103.229.254.25:7001/play/a0ed/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/AND%20FLIX%20HD1745040018.png",AND FLIX HD
 http://203.18.159.115/ANDFLIXHD/tracks-v1a1/mono.m3u8
 
@@ -1003,6 +1007,12 @@ http://10.10.10.3/api/stream/video/stream?type=movies&id=15368
 
 #EXTINF:-1 , new tamil movie
 http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Sankrathiki%20Vasthunam%20%282025%29%201080p%20%5BDual%20Audio%5D/Sankranthiki%20Vasthunam%20%282025%29%20UNCUT%201080p%20WEBRip%20x265%20HEVC%20ESub%20%5BDual%20Audio%5D%5BHindi%205.1%2BTelugu%205.1%5D%20-HDHub.mkv
+
+
+#EXTINF:-1, 09.Parineeta
+http://103.87.212.46/Data/MOVIES/BANGLA/2019//Parineeta%20%282019%29/Parineeta%20%282019%29%201080p%20WEBHD.mkv
+#EXTINF:-1, 09.Pratighat
+http://103.87.212.46/Data/MOVIES/BANGLA/2021//Pratighat%20%282021%29/Pratighat%20%282021%29%20Bengali%201080p%20HDRip%20x264%20AAC%20ESub%20-SmHD.mkv
 
 
 
