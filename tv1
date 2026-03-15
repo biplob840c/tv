@@ -62,11 +62,15 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 #EXTINF:-1, 12.ATN bangla
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+#EXTINF:-1, ATN Bangla
+http://103.229.254.25:7001/play/a06b/index.m3u8
 #EXTINF:-1, 13.Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+#EXTINF:-1, Channel i
+http://103.229.254.25:7001/play/a06e/index.m3u8
 #EXTINF:-1, 11.NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-#EXTINF:-1 ,NTV HD
+#EXTINF:-1, NTV HD
 http://103.229.254.25:7001/play/a06g/index.m3u8
 #EXTINF:-1 ,Rtv HD
 http://103.229.254.25:7001/play/a068/index.m3u8
@@ -87,9 +91,15 @@ https://app.ncare.live/streams/greentv.stream/playlist.m3u8
 
 #EXTINF:-1 ,Duronto TV HD
 http://103.229.254.25:7001/play/a05k/index.m3u8
+#EXTINF:-1 ,Cartoon Network
+http://103.229.254.25:7001/play/a0cn/index.m3u8
 
 
 
+#EXTINF:-1 ,asiantvHD
+http://103.229.254.25:7001/play/a063/index.m3u8
+#EXTINF:-1 ,BanglaTV HD
+http://103.229.254.25:7001/play/a06c/index.m3u8
 #EXTINF:-1 ,Mohona TV
 http://103.229.254.25:7001/play/a05t/index.m3u8
 #EXTINF:-1 ,BIJOY TV
@@ -98,21 +108,17 @@ http://103.229.254.25:7001/play/a066/index.m3u8
 http://103.229.254.25:7001/play/a062/index.m3u8
 #EXTINF:-1 ,BANGLA ▎DESH TV
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108810
-#EXTINF:-1 ,BANGLA ▎MOHONA TV
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108824
-#EXTINF:-1 ,BANGLA ▎CHANNEL 9
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108803
+#EXTINF:-1 CHANNEL 9
+http://103.229.254.25:7001/play/a05j/index.m3u8
 
 
-#EXTINF:-1 ,BANGLA ▎ANANDA TV
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108878
+#EXTINF:-1 ,ANANDA TV
+http://103.229.254.25:7001/play/a05v/index.m3u8
 #EXTINF:-1 ,NEXUS TV
 http://103.229.254.25:7001/play/a05m/index.m3u8
 #EXTINF:-1 ,MY TV
 http://103.229.254.25:7001/play/a05z/index.m3u8
-#EXTINF:-1 ,BANGLA ▎ASIAN TV
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/1440997
-#EXTINF:-1 group-title="-",GLOBAL TV HD
+#EXTINF:-1 ,GLOBAL TV HD
 http://103.229.254.25:7001/play/a05o/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj06BkOW8UjaOwpAilzrYTWRGVrKo7kxpI5MzUxivMCqSxr_0qxTqsxp8E-8nbVmIzxaM3Qrbm1jsJAiPcHDqOwzseVdGUC26pK2eaMmRbqKV9UHcMWtPl_lhIIKTv5YnESoG8bF5TJQCgoDLkTy8nhHdRMSydeD8Dh46TRLO8CiVVJtT1uecO2ehEtTg/s400/@nurmd2006_20250426_212613_0000.png", Movie Bangla 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
@@ -120,33 +126,53 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 ,BANGLA ▎NRB TV
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108829
+#EXTINF:-1 ,Gazi Tv HD
+http://103.229.254.25:7001/play/a06t/index.m3u8
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
 http://103.175.242.10:8080/metv/index.m3u8
 
+#EXTINF:-1 ,9XM
+http://103.229.254.25:7001/play/a07o/index.m3u8
 
 #EXTINF:-1 ,BANGLA ▎JALSHA MOVIES
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108783
 #EXTINF:-1 ,JALSHA MOVIES HD
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 
+
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/STAR%20GOLD%20HD1745034037.png",STAR GOLD
-http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
+http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 ,Star Gold 2 
+http://103.229.254.25:7001/play/a0df/index.m3u8
+#EXTINF:-1 ,Star Gold 2 HD 
+http://103.229.254.25:7001/play/a0d0/index.m3u8
+#EXTINF:-1 ,Star Gold Select HD
+http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:-1 group-title="-",Zee Cinema HD
 http://103.229.254.25:7001/play/a0c2/index.m3u8
+#EXTINF:-1 ,Zee Bollywood 
+http://103.229.254.25:7001/play/a0dk/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_Max_new.png/512px-Sony_Max_new.png",Sony Max
-http://103.175.242.10:8080/sonymax/index.m3u8
+http://103.229.254.25:7001/play/a0co/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/SONY%20MAX%20HD1745034069.png",SONY MAX HD
 http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 ,18.& Picture
 http://103.175.242.10:8080/zeecinema/index.m3u8
+#EXTINF:-1 ,& Picture
+http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:-1 group-title="-",Zee Bollywood
 http://103.229.254.25:7001/play/a0dk/index.m3u8
+#EXTINF:-1 ,Star Gold Romance 
+http://103.229.254.25:7001/play/a0ck/index.m3u8
+
+
+
 #EXTINF:-1  ,Sony 
 http://103.229.254.25:7001/play/a09u/index.m3u8
-
-
+#EXTINF:-1  ,Sony 2
+http://103.229.254.25:7001/play/a0eb/index.m3u8
 #EXTINF:-1 group-title="-",STAR PLUS 
 http://103.229.254.25:7001/play/a09p/index.m3u8
 #EXTINF:-1 group-title="-",STAR Plus HD 2
@@ -157,6 +183,8 @@ http://203.18.159.115/STARPLUSHD/tracks-v1a1/mono.m3u8
 http://203.18.159.115/STARBHARATHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/ZEE%20TV%20HD1745033383.png",ZEE TV HD
 http://203.18.159.115/ZEETVHD/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Star%20Jalsha1732256743.png",zee bangla
 http://103.175.242.10:8080/starjalsha/index.m3u8
 #EXTINF:-1 ,BENGALI ▎ZEE BANGLA HD
@@ -171,8 +199,8 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63525
 http://103.175.242.10:8080/zeebangla/index.m3u8
 #EXTINF:-1 ,BANGLA ▎COLORS BANGLA HD
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108781
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/COLORS%20BANGLA%20CINEMA1745041486.png",Colors Bangla Cinema
-http://203.18.159.115/COLORSBANGLACINEMA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Colors Bangla Cinema
+http://103.229.254.25:7001/play/a078/index.m3u8
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Sony%20Aath1731407792.png",Sony Aath
 http://103.175.242.10:8080/sonyaath/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://redforce.live/assets/images/SUN%20BANGLA%20HD1745033791.png",Sun Bangla Hd
@@ -181,7 +209,9 @@ http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/STAR%20MOVIES%20HD1745040174.png",STAR MOVIES HD
-http://203.18.159.115/STARMOVIESHD/tracks-v1a1/mono.m3u8
+http://103.229.254.25:7001/play/a02w/index.m3u8
+#EXTINF:-1 group-title="-",STAR Movies Select HD
+http://103.229.254.25:7001/play/a02v/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/MOVIES%20NOW%20HD1745040368.png",MOVIES NOW  HD
 http://203.18.159.115/MOVIESNOWHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/MN%20PLUS1745040057.png",MN PLUS HD
