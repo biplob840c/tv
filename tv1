@@ -67,8 +67,6 @@ http://103.229.254.25:7001/play/a06b/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1, Channel i
 http://103.229.254.25:7001/play/a06e/index.m3u8
-#EXTINF:-1, Ntv
-http://103.229.254.25:7001/play/a06g/index.m3u8
 #EXTINF:-1, 11.NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
@@ -76,8 +74,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 ,Rtv HD
 http://103.229.254.25:7001/play/a068/index.m3u8
+
 #EXTINF:-1, 10.Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1, Ntv
+http://103.229.254.25:7001/play/a06g/index.m3u8
 #EXTINF:-1 ,Maasranga TV HD
 http://103.229.254.25:7001/play/a05q/index.m3u8
 #EXTINF:-1 ,EKUSHEY
