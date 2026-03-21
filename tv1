@@ -58,10 +58,11 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 #EXTINF:-1, 09.News 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
-#EXTINF:-1 ,Atn HD
-http://103.229.254.25:7001/play/a06b/index.m3u8
 
 #EXTINF:-1, 12.ATN bangla
+http://103.229.254.25:7001/play/a06b/index.m3u8
+
+#EXTINF:-1 ,Maasranga TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
 
 #EXTINF:-1, 13.Channel I
@@ -78,7 +79,7 @@ http://103.229.254.25:7001/play/a068/index.m3u8
 
 #EXTINF:-1, 10.Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
-#EXTINF:-1, Ntv
+#EXTINF:-1, N tv
 http://103.229.254.25:7001/play/a06g/index.m3u8
 #EXTINF:-1 ,Maasranga TV HD
 http://103.229.254.25:7001/play/a05q/index.m3u8
