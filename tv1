@@ -27,13 +27,17 @@ http://103.229.254.25:7001/play/a0a0/index.m3u8
 http://10.10.10.2/live/fnf006/index.m3u8
 #EXTINF:-1, 01.Star Sports 2
 http://10.10.10.2/live/fnf005/index.m3u8
-#EXTINF:-1, 01.PTV Sports
-http://10.16.100.213:8080/hls/PtvSportsHD.m3u8
 
 #EXTINF:-1, 01.T sports new
 http://10.10.10.2/live/fnf004/index.m3u8
 #EXTINF:-1, 01.T sports new 2
 http://103.175.242.10:8080/tsports1/index.m3u8
+
+
+
+#EXTINF:-1, Bangla song
+https://tplay.live/originals/bengali-beats/index.m3u8
+
 
 #EXTINF:-1, Al Jajira
 https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
@@ -59,16 +63,16 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
 
 
-#EXTINF:-1, 12.ATN bangla
-http://103.229.254.25:7001/play/a06b/index.m3u8
 
 #EXTINF:-1 ,Maasranga TV 
 https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
-
 #EXTINF:-1, 13.Channel I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+
 #EXTINF:-1, Channel i
 http://103.229.254.25:7001/play/a06e/index.m3u8
+#EXTINF:-1 ,ATN 
+http://103.229.254.25:7001/play/a06b/index.m3u8
 #EXTINF:-1, 11.NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
