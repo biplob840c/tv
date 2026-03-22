@@ -258,6 +258,8 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 ,21.Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
+#EXTINF:-1 ,Hindi song
+http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 ,BANGLA ▎NEWS18 BANGLA
