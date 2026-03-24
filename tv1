@@ -167,6 +167,8 @@ http://103.229.254.25:7001/play/a0dk/index.m3u8
 http://103.229.254.25:7001/play/a0co/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/SONY%20MAX%20HD1745034069.png",SONY MAX HD
 http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,MAX
+http://103.182.170.32:8888/play/a04f
 
 
 #EXTINF:-1 ,18.& Picture
@@ -260,6 +262,9 @@ https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
 #EXTINF:-1 ,Hindi song
 http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Star Bangla
+http://103.229.254.25:7001/play/a0eo/index.m3u8
 
 
 #EXTINF:-1 ,BANGLA ▎NEWS18 BANGLA
