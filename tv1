@@ -13,8 +13,8 @@ http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian%20(Hindi%20Dubb
 http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2021).mkv
 
 
-#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Sony%20Ten%2021731408024.png",Sony Ten 2
-http://103.175.242.10:8080/sonyten2/index.m3u8
+#EXTINF:-1  ,willow
+https://cdn1.ctgiptv.com/willow-cricket/tracks-v1/mono.ts.m3u8
 #EXTINF:-1,T sports
 http://10.10.10.2/live/fnf001/index.m3u8
 
@@ -22,6 +22,8 @@ http://10.10.10.2/live/fnf001/index.m3u8
 
 #EXTINF:-1, 01. Star sports 1
 http://103.229.254.25:7001/play/a0a0/index.m3u8
+#EXTINF:-1, 01. Star sports 1
+http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, 01.T sports
 http://10.10.10.2/live/fnf006/index.m3u8
@@ -161,6 +163,8 @@ http://103.229.254.25:7001/play/a0d0/index.m3u8
 http://103.229.254.25:7001/play/a032/index.m3u8
 #EXTINF:-1 group-title="-",Zee Cinema HD
 http://103.229.254.25:7001/play/a0c2/index.m3u8
+#EXTINF:-1 group-title="-",Zee Cinema HD
+http://103.159.180.34:5001/live/165.m3u8
 #EXTINF:-1 ,Zee Bollywood 
 http://103.229.254.25:7001/play/a0dk/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_Max_new.png/512px-Sony_Max_new.png",Sony Max
@@ -168,11 +172,12 @@ http://103.229.254.25:7001/play/a0co/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/SONY%20MAX%20HD1745034069.png",SONY MAX HD
 http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,MAX
-http://103.182.170.32:8888/play/a04f
-
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max_hd&e=.m3u8
+#EXTINF:-1 ,MAX 2
+https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
 
 #EXTINF:-1 ,18.& Picture
-http://103.175.242.10:8080/zeecinema/index.m3u8
+http://103.159.180.34:5001/live/185.m3u8
 #EXTINF:-1 ,& Picture
 http://103.229.254.25:7001/play/a033/index.m3u8
 #EXTINF:-1 group-title="-",Zee Bollywood
@@ -192,12 +197,16 @@ http://103.229.254.25:7001/play/a09p/index.m3u8
 http://103.229.254.25:7001/play/a09z/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/STAR%20PLUS%20HD1745038577.png",STAR PLUS HD
 http://203.18.159.115/STARPLUSHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/STAR%20BHARAT%20HD1745045255.png",STAR BHARAT HD
-http://203.18.159.115/STARBHARATHD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,CN
+http://103.159.180.34:5001/live/166.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/ZEE%20TV%20HD1745033383.png",ZEE TV HD
 http://203.18.159.115/ZEETVHD/tracks-v1a1/mono.m3u8
 
 
+#EXTINF:-1 ,STAR JALSHA
+https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8
+#EXTINF:-1  ,zee bangla
+http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Star%20Jalsha1732256743.png",zee bangla
 http://103.175.242.10:8080/starjalsha/index.m3u8
 #EXTINF:-1 ,BENGALI ▎ZEE BANGLA HD
@@ -266,10 +275,26 @@ http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star Bangla
 http://103.229.254.25:7001/play/a0eo/index.m3u8
 
+#EXTINF:-1 ,Discovery
+https://mumbai-edge.smartplaytv.in/Discovery/index.m3u8
+#EXTINF:-1 ,Discovery Bangla
+http://103.159.180.34:5001/live/573.m3u8
+#EXTINF:-1 ,animel planet
+http://103.159.180.34:5001/live/286.m3u8
+#EXTINF:-1 ,animel planet hindi
+http://103.159.180.34:5001/live/566.m3u8
 
-#EXTINF:-1 ,BANGLA ▎NEWS18 BANGLA
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108838
+#EXTINF:-1 ,Travel
+http://103.159.180.34:5001/live/164.m3u8
+#EXTINF:-1 ,Z TV
+http://103.159.180.34:5001/live/167.m3u8
+#EXTINF:-1 ,Music india
+http://103.159.180.34:5001/live/250.m3u8
 
+#EXTINF:-1 ,Zing
+http://103.159.180.34:5001/live/585.m3u8
+#EXTINF:-1 ,9xm
+https://9xjio.wiseplayout.com/9XM/master.m3u8
 
 #EXTINF:-1 ,23. khusbo
 https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
@@ -302,6 +327,12 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404
 
 #EXTINF:-1 group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
+#EXTINF:-1 ,CNN
+https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
+#EXTINF:-1 ,DD National
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
+
+
 
 
 
@@ -1061,6 +1092,3 @@ http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025
 http://103.87.212.46/Data/MOVIES/BANGLA/2019//Parineeta%20%282019%29/Parineeta%20%282019%29%201080p%20WEBHD.mkv
 #EXTINF:-1, 09.Pratighat
 http://103.87.212.46/Data/MOVIES/BANGLA/2021//Pratighat%20%282021%29/Pratighat%20%282021%29%20Bengali%201080p%20HDRip%20x264%20AAC%20ESub%20-SmHD.mkv
-
-
-
