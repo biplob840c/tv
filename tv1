@@ -14,7 +14,9 @@ http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2
 
 
 #EXTINF:-1  ,willow
-
+https://tvsen5.aynaott.com/willowhd/index.m3u8
+#EXTINF:-1  ,Ten Cricket
+https://edge2.roarzone.net:8447/roarzone/edge3/ten_cricket/index.m3u8
 #EXTINF:-1,T sports
 http://10.10.10.2/live/fnf001/index.m3u8
 
@@ -34,6 +36,9 @@ http://10.10.10.2/live/fnf005/index.m3u8
 http://10.10.10.2/live/fnf004/index.m3u8
 #EXTINF:-1, 01.T sports new 2
 http://103.175.242.10:8080/tsports1/index.m3u8
+#EXTINF:-1, 01.T sports new 3 ayna
+https://tvsen7.aynaott.com/tsports-hd/index.m3u8
+
 
 
 
@@ -83,6 +88,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 
 #EXTINF:-1 ,Rtv HD
+https://tvsen5.aynaott.com/RtvHD/index.m3u8
+#EXTINF:-1 ,Rtv
 http://103.229.254.25:7001/play/a068/index.m3u8
 
 #EXTINF:-1, 10.Bangla Vision
@@ -90,9 +97,9 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
 #EXTINF:-1, Bangla Vision
 https://tvsen5.aynaott.com/banglavision/index.m3u8
 #EXTINF:-1, N tv
-http://103.229.254.25:7001/play/a06g/index.m3u8
+https://tvsen5.aynaott.com/ntvbd/index.m3u8
 #EXTINF:-1 ,Maasranga TV HD
-http://103.229.254.25:7001/play/a05q/index.m3u8
+https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 #EXTINF:-1 ,EKUSHEY
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 http://103.229.254.25:7001/play/a05x/index.m3u8
@@ -104,6 +111,8 @@ https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 #EXTINF:-1 ,SA TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+#EXTINF:-1 ,SA TV
+https://tvsen6.aynaott.com/satv/index.m3u8
 #EXTINF:-1 group-title="-",Boishakhi TV
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 #EXTINF:-1 ,GREEN TV HD
@@ -127,7 +136,7 @@ https://tvsen6.aynaott.com/banglatv/index.m3u8
 #EXTINF:-1 ,BanglaTV HD
 http://103.229.254.25:7001/play/a06c/index.m3u8
 #EXTINF:-1 ,Mohona TV
-http://103.229.254.25:7001/play/a05t/index.m3u8
+https://tvsen6.aynaott.com/mohonatv/index.m3u8
 #EXTINF:-1 ,BIJOY TV
 http://103.229.254.25:7001/play/a066/index.m3u8
 #EXTINF:-1 ,SA TV HD
@@ -143,11 +152,11 @@ https://tvsen6.aynaott.com/anandatv/index.m3u8
 #EXTINF:-1 ,ANANDA TV
 http://103.229.254.25:7001/play/a05v/index.m3u8
 #EXTINF:-1 ,NEXUS TV
-http://103.229.254.25:7001/play/a05m/index.m3u8
+https://tvsen6.aynaott.com/nexustv/index.m3u8
 #EXTINF:-1 ,MY TV
-http://103.229.254.25:7001/play/a05z/index.m3u8
-#EXTINF:-1 ,GLOBAL TV HD
-http://103.229.254.25:7001/play/a05o/index.m3u8
+https://tvsen6.aynaott.com/mytv/index.m3u8
+#EXTINF:-1 ,Rajdhani TV HD
+https://edge2.roarzone.net:8447/roarzone/edge3/rajdhani_tv/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj06BkOW8UjaOwpAilzrYTWRGVrKo7kxpI5MzUxivMCqSxr_0qxTqsxp8E-8nbVmIzxaM3Qrbm1jsJAiPcHDqOwzseVdGUC26pK2eaMmRbqKV9UHcMWtPl_lhIIKTv5YnESoG8bF5TJQCgoDLkTy8nhHdRMSydeD8Dh46TRLO8CiVVJtT1uecO2ehEtTg/s400/@nurmd2006_20250426_212613_0000.png", Movie Bangla 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 ,BANGLA ▎Islamic TV
@@ -161,8 +170,12 @@ http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
 http://103.175.242.10:8080/metv/index.m3u8
 
+#EXTINF:-1 ,Hindi Movie Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 ,9XM
 http://103.229.254.25:7001/play/a07o/index.m3u8
+#EXTINF:-1 ,Hindi Hits HD
+http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 #EXTINF:-1 ,Channel 16
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
@@ -172,6 +185,8 @@ http://103.229.254.25:7001/play/a0dt/index.m3u8
 
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/STAR%20GOLD%20HD1745034037.png",STAR GOLD
 http://103.229.254.25:7001/play/a0dd/index.m3u8
+#EXTINF:-1 ,Star Gold
+http://103.99.249.139/stargold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star Gold 2 
 http://103.229.254.25:7001/play/a0df/index.m3u8
 #EXTINF:-1 ,Star Gold 2 HD 
@@ -186,8 +201,10 @@ http://103.159.180.34:5001/live/165.m3u8
 http://103.229.254.25:7001/play/a0dk/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_Max_new.png/512px-Sony_Max_new.png",Sony Max
 http://103.229.254.25:7001/play/a0co/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/SONY%20MAX%20HD1745034069.png",SONY MAX HD
+#EXTINF:-1 ,SONY MAX HD
 http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://103.99.249.139/sonymax/index.m3u8
 #EXTINF:-1 ,MAX
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max_hd&e=.m3u8
 #EXTINF:-1 ,MAX 2
@@ -247,8 +264,13 @@ http://103.175.242.10:8080/sonyaath/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://redforce.live/assets/images/SUN%20BANGLA%20HD1745033791.png",Sun Bangla Hd
 http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 ,HBO
+http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 group-title="-",HBO
 https://tvsen5.aynaott.com/hbo/index.m3u8
+#EXTINF:-1 group-title="-",HBO 2
+https://tvsen7.aynaott.com/hbo2/index.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/STAR%20MOVIES%20HD1745040174.png",STAR MOVIES HD
 http://103.229.254.25:7001/play/a02w/index.m3u8
 #EXTINF:-1 group-title="-",STAR Movies Select HD
