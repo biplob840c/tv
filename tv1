@@ -110,6 +110,8 @@ http://103.229.254.25:7001/play/a0cn/index.m3u8
 
 
 #EXTINF:-1 ,asiantvHD
+https://tvsen6.aynaott.com/asiantv/index.m3u8
+#EXTINF:-1 ,asiantvHD
 http://103.229.254.25:7001/play/a063/index.m3u8
 #EXTINF:-1 ,BanglaTV HD
 http://103.229.254.25:7001/play/a06c/index.m3u8
@@ -125,6 +127,8 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108810
 http://103.229.254.25:7001/play/a05j/index.m3u8
 
 
+#EXTINF:-1 ,ANANDA TV
+https://tvsen6.aynaott.com/anandatv/index.m3u8
 #EXTINF:-1 ,ANANDA TV
 http://103.229.254.25:7001/play/a05v/index.m3u8
 #EXTINF:-1 ,NEXUS TV
