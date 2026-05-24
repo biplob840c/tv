@@ -87,8 +87,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://tvsen6.aynaott.com/channeli/index.m3u8
 #EXTINF:-1 ,ATN 
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
-#EXTINF:-1 ,ATN 
-http://103.229.254.25:7001/play/a06b/index.m3u8
+
 #EXTINF:-1, 11.NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
