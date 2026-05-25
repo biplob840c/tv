@@ -185,8 +185,10 @@ http://103.175.242.10:8080/metv/index.m3u8
 
 #EXTINF:-1 ,Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
+#EXTINF:-1 ,Bangla Movie Classic 24
+https://tplay.live/playlist/movies/bangla-movies/index.m3u8
 #EXTINF:-1 ,9XM
-http://103.229.254.25:7001/play/a07o/index.m3u8
+
 #EXTINF:-1 ,Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
