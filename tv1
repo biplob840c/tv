@@ -100,8 +100,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 #EXTINF:-1 ,Rtv HD
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
-#EXTINF:-1 ,Rtv
-http://103.229.254.25:7001/play/a068/index.m3u8
+
 
 #EXTINF:-1, 10.Bangla Vision
 https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
@@ -112,8 +111,8 @@ https://tvsen5.aynaott.com/ntvbd/index.m3u8
 #EXTINF:-1 ,Maasranga TV HD
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 #EXTINF:-1 ,EKUSHEY
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-http://103.229.254.25:7001/play/a05x/index.m3u8
+https://tvsen6.aynaott.com/etv/index.m3u8
+
 #EXTINF:-1, 14.Dipto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1, 14.Dipto TV
@@ -133,27 +132,23 @@ https://app.ncare.live/streams/greentv.stream/playlist.m3u8
 
 #EXTINF:-1 ,Duronto TV HD
 https://tvsen6.aynaott.com/durontotv-live/index.m3u8
-#EXTINF:-1 ,Duronto TV
-http://103.229.254.25:7001/play/a05k/index.m3u8
-#EXTINF:-1 ,Cartoon Network
-http://103.229.254.25:7001/play/a0cn/index.m3u8
+
+
 
 
 
 #EXTINF:-1 ,asiantvHD
 https://tvsen6.aynaott.com/asiantv/index.m3u8
-#EXTINF:-1 ,asiantvHD
-http://103.229.254.25:7001/play/a063/index.m3u8
+
 #EXTINF:-1 ,BanglaTV HD
 https://tvsen6.aynaott.com/banglatv/index.m3u8
-#EXTINF:-1 ,BanglaTV HD
-http://103.229.254.25:7001/play/a06c/index.m3u8
+
 #EXTINF:-1 ,Mohona TV
 https://tvsen6.aynaott.com/mohonatv/index.m3u8
 #EXTINF:-1 ,BIJOY TV
-http://103.229.254.25:7001/play/a066/index.m3u8
+
 #EXTINF:-1 ,SA TV HD
-http://103.229.254.25:7001/play/a062/index.m3u8
+
 #EXTINF:-1 ,DESH TV
 https://tvsen6.aynaott.com/deshtv/index.m3u8
 #EXTINF:-1 CHANNEL 9
@@ -163,7 +158,7 @@ https://tvsen6.aynaott.com/channel9/index.m3u8
 #EXTINF:-1 ,ANANDA TV
 https://tvsen6.aynaott.com/anandatv/index.m3u8
 #EXTINF:-1 ,ANANDA TV
-http://103.229.254.25:7001/play/a05v/index.m3u8
+
 #EXTINF:-1 ,NEXUS TV
 https://tvsen6.aynaott.com/nexustv/index.m3u8
 #EXTINF:-1 ,MY TV
@@ -172,7 +167,7 @@ https://tvsen6.aynaott.com/mytv/index.m3u8
 https://edge2.roarzone.net:8447/roarzone/edge3/rajdhani_tv/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj06BkOW8UjaOwpAilzrYTWRGVrKo7kxpI5MzUxivMCqSxr_0qxTqsxp8E-8nbVmIzxaM3Qrbm1jsJAiPcHDqOwzseVdGUC26pK2eaMmRbqKV9UHcMWtPl_lhIIKTv5YnESoG8bF5TJQCgoDLkTy8nhHdRMSydeD8Dh46TRLO8CiVVJtT1uecO2ehEtTg/s400/@nurmd2006_20250426_212613_0000.png", Movie Bangla 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 ,BANGLA ▎Islamic TV
+#EXTINF:-1 ,Islamic TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1 ,BANGLA ▎NRB TV
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108829
@@ -255,7 +250,7 @@ http://203.18.159.115/ZEETVHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 ,STAR JALSHA
-https://anet.keralive.workers.dev/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/starjalsha_live_https/index.m3u8
+https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
 #EXTINF:-1  ,zee bangla
 http://103.159.180.34:5001/live/625.m3u8
 #EXTINF:-1  ,zee bangla cenema
