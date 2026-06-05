@@ -24,6 +24,10 @@ http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian%20(Hindi%20Dubb
 #EXTINF:-1, 01.Ekanno barti
 http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2021).mkv
 
+#EXTINF:-1 group-title="-",Zee Cinema HD
+http://103.159.180.34:5001/live/165.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  ,willow
 https://tvsen5.aynaott.com/willowhd/index.m3u8
@@ -199,16 +203,11 @@ http://103.229.254.25:7001/play/a0dt/index.m3u8
 
 #EXTINF:-1 group-title="-",Zee Cinema HD
 http://103.159.180.34:5001/live/165.m3u8
-#EXTINF:-1 group-title="-",Zee Cinema HD
-http://103.99.249.139/zeecinema/index.m3u8
-#EXTINF:-1 ,Zee Bollywood 
-http://103.229.254.25:7001/play/a0dk/index.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Sony_Max_new.png/512px-Sony_Max_new.png",Sony Max
-http://103.229.254.25:7001/play/a0co/index.m3u8
+
+
 #EXTINF:-1 ,SONY MAX HD
 http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SONY MAX HD
-http://103.99.249.139/sonymax/index.m3u8
+
 #EXTINF:-1 ,MAX
 https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max_hd&e=.m3u8
 #EXTINF:-1 ,MAX 2
@@ -216,25 +215,12 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
 
 #EXTINF:-1 ,18.& Picture
 http://103.159.180.34:5001/live/185.m3u8
-#EXTINF:-1 ,& Picture
-http://103.229.254.25:7001/play/a033/index.m3u8
-#EXTINF:-1 group-title="-",Zee Bollywood
-http://103.229.254.25:7001/play/a0dk/index.m3u8
-#EXTINF:-1 ,Star Gold Romance 
-http://103.229.254.25:7001/play/a0ck/index.m3u8
 
 
 
-#EXTINF:-1  ,Sony 
-http://103.229.254.25:7001/play/a09u/index.m3u8
-#EXTINF:-1  ,Sony 2
-http://103.229.254.25:7001/play/a0eb/index.m3u8
-#EXTINF:-1 group-title="-",STAR PLUS 
-http://103.229.254.25:7001/play/a09p/index.m3u8
-#EXTINF:-1 group-title="-",STAR Plus HD 2
-http://103.229.254.25:7001/play/a09z/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/STAR%20PLUS%20HD1745038577.png",STAR PLUS HD
-http://203.18.159.115/STARPLUSHD/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 ,CN
 http://103.159.180.34:5001/live/166.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/ZEE%20TV%20HD1745033383.png",ZEE TV HD
