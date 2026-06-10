@@ -28,9 +28,18 @@ http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2
 http://103.159.180.34:5001/live/165.m3u8
 #EXTINF:-1 ,SONY MAX HD
 http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Gold HD
+http://198.195.239.50:8095/StarGold/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Jolsha Movies
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Jolsha Movies 2
+http://103.158.133.62:8080/jalsha_movies_hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  ,willow
 https://tvsen5.aynaott.com/willowhd/index.m3u8
+
+
 
 #EXTINF:-1  ,T sports 1
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
@@ -60,8 +69,8 @@ http://10.10.10.2/live/fnf006/index.m3u8
 
 
 
-#EXTINF:-1, 01. Star sports 1
-
+#EXTINF:-1, Ten cricket
+http://103.158.133.62:8080/tencricket/tracks-v1a1/mono.m3u8
 #EXTINF:-1, 01. Star sports 1
 http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
 
@@ -146,6 +155,9 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
 #EXTINF:-1 ,CHANNEL 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+
+#EXTINF:-1 ,Nagorik
+http://198.195.239.50:8095/nagorik/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SA TV HD
 https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 #EXTINF:-1 ,SA TV
@@ -218,6 +230,12 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 
 
+#EXTINF:-1 ,A sports
+http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Sony
+http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Plus HD
+http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 
 
 
@@ -239,22 +257,35 @@ https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
 http://103.159.180.34:5001/live/185.m3u8
 
 
+#EXTINF:-1 ,Star Movies HD
+http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Discovery
+http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,National Geo
+http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
+
 
 
 
 
 #EXTINF:-1 ,CN
-http://103.159.180.34:5001/live/166.m3u8
+http://198.195.239.50:8095/CartoonNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/ZEE%20TV%20HD1745033383.png",ZEE TV HD
 http://203.18.159.115/ZEETVHD/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 ,Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
+#EXTINF:-1  ,Sony Att
+http://103.158.133.62:8080/sonyaath/tracks-v1a1/mono.m3u8
+#EXTINF:-1  ,star jolsha
+http://103.158.133.62:8080/star_jalsha_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  ,zee bangla
 http://103.159.180.34:5001/live/625.m3u8
+#EXTINF:-1  ,zee bangla
+http://103.158.133.62:8080/zee_bangla_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  ,zee bangla cenema
-http://103.159.180.34:5001/live/3476.m3u8
+http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Star%20Jalsha1732256743.png",zee bangla
 http://103.175.242.10:8080/starjalsha/index.m3u8
 #EXTINF:-1 ,BENGALI ▎ZEE BANGLA HD
