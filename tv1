@@ -57,6 +57,10 @@ http://103.179.25.147:8181/T-SPORTS/tracks-v1a1/mono.m3u8
 http://103.158.133.62:8080/live/index.m3u8
 #EXTINF:-1  ,T sports 6
 https://live.elheddaftv.com:8081/elheddaf/index.mpd
+#EXTINF:-1  ,T sports 7
+http://103.151.61.12/T-Sports.kutta/video.m3u8
+
+
 
 
 
@@ -190,8 +194,8 @@ https://tvsen6.aynaott.com/banglatv/index.m3u8
 https://tvsen6.aynaott.com/mohonatv/index.m3u8
 #EXTINF:-1 ,BIJOY TV
 
-#EXTINF:-1 ,SA TV HD
-
+#EXTINF:-1 ,Gazi tv HD
+http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #EXTINF:-1 ,DESH TV
 https://tvsen6.aynaott.com/deshtv/index.m3u8
 #EXTINF:-1 CHANNEL 9
