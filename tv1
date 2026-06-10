@@ -31,7 +31,26 @@ http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  ,willow
 https://tvsen5.aynaott.com/willowhd/index.m3u8
-#EXTINF:-1  ,Ten Cricket
+
+#EXTINF:-1  ,T sports 1
+http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1  ,T sports 2
+http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:-1  ,T sports 3
+https://tvsen7.aynaott.com/tsports-hd/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  ,T sports 4
+http://103.179.25.147:8181/T-SPORTS/tracks-v1a1/mono.m3u8
+#EXTINF:-1  ,T sports 5
+http://103.158.133.62:8080/live/index.m3u8
+#EXTINF:-1  ,T sports 6
+https://live.elheddaftv.com:8081/elheddaf/index.mpd
+
+
+
+
+
+
+
 
 #EXTINF:-1,T sports
 http://10.10.10.2/live/fnf001/index.m3u8
