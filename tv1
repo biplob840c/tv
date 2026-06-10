@@ -170,6 +170,8 @@ https://tvsen6.aynaott.com/satv/index.m3u8
 https://tvsen6.aynaott.com/boishakhitv/index.m3u8
 #EXTINF:-1 ,GREEN TV HD
 https://app.ncare.live/streams/greentv.stream/playlist.m3u8
+#EXTINF:-1 ,SRk TV
+https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 ,Duronto TV HD
 https://tvsen6.aynaott.com/durontotv-live/index.m3u8
