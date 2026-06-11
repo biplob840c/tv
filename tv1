@@ -45,6 +45,12 @@ https://tvsen5.aynaott.com/willowhd/index.m3u8
 
 
 
+#EXTINF:-1  ,T sports
+https://edge2.roarzone.net:8447/roarzone/edge1/1/tracks-v1/index.ll.m3u8?token=f62c54aac22e7eb4ad493c1cc49f01ea2914d74b-2c66f230ce252efc05e2ec53b17ef2b9-1781183673-1781172873&_HLS_msn=1803&_HLS_part=1
+#EXTINF:-1  ,Somoi
+https://edge2.roarzone.net:8447/roarzone/edge1/2/tracks-v1/index.ll.m3u8?token=08e878e2161d1bb4ad660b1fd5e1158507ddf12d-075844808c38f104daea20616582e439-1781183196-1781172396&_HLS_msn=1039&_HLS_part=0
+
+
 #EXTINF:-1  ,T sports 1
 http://198.195.239.50:8095/Tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1  ,T sports 2
