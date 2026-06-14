@@ -10,44 +10,12 @@ http://172.16.50.7/DHAKA-FLIX-7/Kolkata%20Bangla%20Movies/%282022%29/Projapati%2
 http://10.10.10.3/Data/Indian%20Bangla/new/Tagar%20(2025)/Tagar.mp4
 #EXTINF:-1, 01 Biye.com
 http://103.87.212.46/Data/MOVIES/BANGLA/2020//Biye.Com%20%282020%29/Biye.Com%20%282020%29%20Bengali%20720p%20HDRip%20x264%20ESub%20-SmHD.mkv
-#EXTINF:-1, 01 Cactus
+
 
 #EXTINF:-1, 01.Coolie
 http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian%20(Hindi%20Dubbed)/Coolie%20(2025)%201080p%20WEBDL.mp4
 #EXTINF:-1, 01.Ekanno barti
 http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2021).mkv
-
-#EXTINF:-1 group-title="-",Zee Cinema HD
-http://103.159.180.34:5001/live/165.m3u8
-#EXTINF:-1 ,SONY MAX HD
-http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star Gold HD
-http://198.195.239.50:8095/StarGold/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Jolsha Movies
-http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 ,Jolsha Movies 2
-http://103.158.133.62:8080/jalsha_movies_hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1  ,willow
-https://tvsen5.aynaott.com/willowhd/index.m3u8
-
-
-
-#EXTINF:-1  ,T sports
-https://edge2.roarzone.net:8447/roarzone/edge1/1/tracks-v1/index.ll.m3u8?token=f62c54aac22e7eb4ad493c1cc49f01ea2914d74b-2c66f230ce252efc05e2ec53b17ef2b9-1781183673-1781172873&_HLS_msn=1803&_HLS_part=1
-#EXTINF:-1  ,Somoi
-https://edge2.roarzone.net:8447/roarzone/edge1/2/tracks-v1/index.ll.m3u8?token=08e878e2161d1bb4ad660b1fd5e1158507ddf12d-075844808c38f104daea20616582e439-1781183196-1781172396&_HLS_msn=1039&_HLS_part=0
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -56,24 +24,13 @@ http://10.10.10.2/live/fnf001/index.m3u8
 #EXTINF:-1,PTv sports
 http://10.10.10.2/live/fnf006/index.m3u8
 
-
-
-
-#EXTINF:-1, Ten cricket
-http://103.158.133.62:8080/tencricket/tracks-v1a1/mono.m3u8
-#EXTINF:-1, 01. Star sports 1
-http://198.195.239.50:8095/SonyTenSports5/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, 01.T sports
+#EXTINF:-1, PTV sports
 http://10.10.10.2/live/fnf006/index.m3u8
-#EXTINF:-1, 01.Star Sports 2
+#EXTINF:-1, 01.Star Sports 1
 http://10.10.10.2/live/fnf005/index.m3u8
 
-#EXTINF:-1, 01.T sports new
+#EXTINF:-1, 01.Star sports 3
 http://10.10.10.2/live/fnf004/index.m3u8
-
-#EXTINF:-1, 01.T sports new 3 ayna
-https://tvsen7.aynaott.com/tsports-hd/index.m3u8
 
 
 
@@ -220,6 +177,10 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,JALSHA MOVIES HD
 http://103.229.254.25:7001/play/a0dt/index.m3u8
+#EXTINF:-1 ,Jolsha Movies
+http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Jolsha Movies 2
+http://103.158.133.62:8080/jalsha_movies_hd/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 ,A sports
@@ -236,7 +197,12 @@ http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="-",Zee Cinema HD
 http://103.159.180.34:5001/live/165.m3u8
 
-
+#EXTINF:-1 ,Zee Cinema HD
+http://103.159.180.34:5001/live/165.m3u8
+#EXTINF:-1 ,SONY MAX HD
+http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Star Gold HD
+http://198.195.239.50:8095/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY MAX HD
 http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 
