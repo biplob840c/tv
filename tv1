@@ -17,20 +17,66 @@ http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian%20(Hindi%20Dubb
 #EXTINF:-1, 01.Ekanno barti
 http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2021).mkv
 
+#EXTINF:-1,World Cup
+https://streamsportixa.ajmainearafat.workers.dev/play?url=aHR0cHM6Ly9kMXZveTAyMndqbmxrMC5iaW9zY29wZWxpdmUuY29tL291dC92MS8wYmJlNDA1ZTcxMTE0M2I4YWY1ZWUyMWI4MGI1YjBjYy9pbmRleF8zLm0zdTg=
+#EXTINF:-1,World Cup HD
+https://streamsportixa.ajmainearafat.workers.dev/live.m3u8
+
+
+
+
 
 
 #EXTINF:-1,T sports
 http://10.10.10.2/live/fnf001/index.m3u8
-#EXTINF:-1,PTv sports
-http://10.10.10.2/live/fnf006/index.m3u8
+#EXTINF:-1,T sports 1
+http://198.195.239.50:8095/tsports/index.m3u8
+#EXTINF:-1,T sports 2
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:-1,T sports 3
+http://114.130.57.224:8080/T-Sports-KOS/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1,T sports 4
+http://114.130.57.224:8080/LIVE-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1,T sports 5
+http://114.130.57.224:8080/T-sports-64/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1,Somoi Tv
+http://103.151.60.188:1111/Somoy-TV-SD-700kb/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BTV
+http://114.130.57.224:8080/Gazi-TV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1,BTV
+http://10.10.10.2/live/fnf007/index.m3u8
+
+
 
 #EXTINF:-1, PTV sports
 http://10.10.10.2/live/fnf006/index.m3u8
+
+
+
+#EXTINF:-1,World Cup HD 1
+http://starhub.pro/live/farhat-3379/67897-913379/742610.ts
+#EXTINF:-1,World Cup FHD 2
+https://2connect.xyz/live/5DD5FAA5705C/0F1A36AC576D476/1438202.ts
+#EXTINF:-1,World Cup FHD 3
+http://vca.easy747.com:80/live/donad220/8U01MGV/1438202.ts
+#EXTINF:-1,World Cup 4k 4
+http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
+#EXTINF:-1,World Cup 4k 5
+http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+#EXTINF:-1,World Cup 6
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
+#EXTINF:-1,World Cup 7
+http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
+
+
 #EXTINF:-1, 01.Star Sports 1
 http://10.10.10.2/live/fnf005/index.m3u8
-
+#EXTINF:-1, 01.Star Sports 2
+http://10.10.10.2/live/fnf002/index.m3u8
 #EXTINF:-1, 01.Star sports 3
 http://10.10.10.2/live/fnf004/index.m3u8
+#EXTINF:-1, Ten 2
+http://10.10.10.2/live/fnf003/index.m3u8
 
 
 
