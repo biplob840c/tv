@@ -21,8 +21,8 @@ http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2
 
 
 
-#EXTINF:-1,T sports 1
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/130714.ts
+#EXTINF:-1, sports 
+https://sm-monirul.top/toffee/play/sports_highlights.m3u8
 #EXTINF:-1,T sports 2
 http://114.130.57.224:8080/T-Sports-KOS/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1,T sports 3
@@ -63,6 +63,8 @@ http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
 #EXTINF:-1,World Cup 7
 http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
+#EXTINF:-1,World Cup
+https://sm-monirul.top/toffee/play/zee_bangla_cinema.m3u8
 
 
 #EXTINF:-1, 01.Star Sports 1
@@ -114,7 +116,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1, Channel i
 https://tvsen6.aynaott.com/channeli/index.m3u8
 #EXTINF:-1 ,ATN 
-https://tvsen5.aynaott.com/atnbangla/index.m3u8
+https://sm-monirul.top/toffee/play/atn_bangla.m3u8
 
 #EXTINF:-1, 11.NTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
@@ -169,12 +171,12 @@ https://tvsen6.aynaott.com/durontotv-live/index.m3u8
 https://tvsen6.aynaott.com/asiantv/index.m3u8
 
 #EXTINF:-1 ,BanglaTV HD
-https://tvsen6.aynaott.com/banglatv/index.m3u8
+https://sm-monirul.top/toffee/play/bangla_tv.m3u8
 
 #EXTINF:-1 ,Mohona TV
 https://tvsen6.aynaott.com/mohonatv/index.m3u8
 #EXTINF:-1 ,BIJOY TV
-
+https://sm-monirul.top/toffee/play/bijoytv.m3u8
 #EXTINF:-1 ,Gazi tv HD
 http://198.195.239.50:8095/PTV-kutta/video.m3u8
 #EXTINF:-1 ,DESH TV
@@ -186,7 +188,7 @@ https://tvsen6.aynaott.com/channel9/index.m3u8
 #EXTINF:-1 ,ANANDA TV
 https://tvsen6.aynaott.com/anandatv/index.m3u8
 #EXTINF:-1 ,ANANDA TV
-
+https://sm-monirul.top/toffee/play/anandatv.m3u8
 #EXTINF:-1 ,NEXUS TV
 https://tvsen6.aynaott.com/nexustv/index.m3u8
 #EXTINF:-1 ,MY TV
@@ -201,8 +203,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108829
 #EXTINF:-1 ,Gazi Tv HD
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
-#EXTINF:-1 ,Gazi Tv HD
-http://tvn1.chowdhury-shaheb.com/gazitv/index.m3u8
+#EXTINF:-1 ,Akash 8
+https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
 http://103.175.242.10:8080/metv/index.m3u8
 
@@ -214,6 +216,8 @@ https://tplay.live/playlist/movies/bangla-movies/index.m3u8
 
 #EXTINF:-1 ,Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
+#EXTINF:-1 ,B4U music
+https://sm-monirul.top/toffee/play/b4u_music.m3u8
 
 #EXTINF:-1 ,Channel 16
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
@@ -228,7 +232,9 @@ http://103.158.133.62:8080/jalsha_movies_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,A sports
 http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sony
-http://198.195.239.50:8095/SonyTv/tracks-v1a1/mono.m3u8
+https://sm-monirul.top/toffee/play/sonyentertainmnt_hd.m3u8
+#EXTINF:-1 ,Sony 2
+https://sm-monirul.top/toffee/play/sony_entertainment.m3u8
 #EXTINF:-1 ,Star Plus HD
 http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 
@@ -237,7 +243,7 @@ http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 group-title="-",Zee Cinema HD
-http://103.159.180.34:5001/live/165.m3u8
+https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8
 
 #EXTINF:-1 ,Zee Cinema HD
 http://103.159.180.34:5001/live/165.m3u8
@@ -249,18 +255,18 @@ http://198.195.239.50:8095/StarGold/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 ,MAX
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sony_max_hd&e=.m3u8
+https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
 #EXTINF:-1 ,MAX 2
-https://ottbanglaplatform.com/tv/toffee/live.php?id=sonymax_2&e=.m3u8
+https://sm-monirul.top/toffee/play/sonymax_2.m3u8
 
 #EXTINF:-1 ,18.& Picture
-http://103.159.180.34:5001/live/185.m3u8
+https://sm-monirul.top/toffee/play/andpicture_hd.m3u8
 
 
 #EXTINF:-1 ,Star Movies HD
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery
-http://198.195.239.50:8095/Discovery/tracks-v1a1/mono.m3u8
+https://sm-monirul.top/toffee/play/discovery_hd.m3u8
 #EXTINF:-1 ,National Geo
 http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
 
