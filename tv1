@@ -20,7 +20,10 @@ http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2
 
 
 
-
+#EXTINF:-1, World cup
+http://198.195.239.50:8095/sonyMax/tracks-v1a1/mono.m3u8
+#EXTINF:-1,World cup
+http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1, sports 
 https://sm-monirul.top/toffee/play/sports_highlights.m3u8
 #EXTINF:-1,T sports 2
