@@ -237,6 +237,8 @@ http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 https://sm-monirul.top/toffee/play/sonyentertainmnt_hd.m3u8
 #EXTINF:-1 ,Sony 2
 https://sm-monirul.top/toffee/play/sony_entertainment.m3u8
+#EXTINF:-1 ,Sony Att
+http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star Plus HD
 http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 
