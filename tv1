@@ -21,6 +21,15 @@ http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2
 
 #EXTINF:-1,T sports 1
 http://10.10.10.2/live/fnf001/index.m3u8
+#EXTINF:-1,Fox
+https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+#EXTINF:-1,Fox
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1,United sports
+http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1,FS1
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+
 #EXTINF:-1,T sports 2
 http://114.130.57.224:8080/T-Sports-KOS/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1,T sports 3
@@ -39,6 +48,10 @@ http://114.130.57.224:8080/Fifa-1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 http://114.130.57.224:8080/Gazi-TV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1,BTV
 http://10.10.10.2/live/fnf007/index.m3u8
+#EXTINF:-1,Somoi tv
+https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1,Z
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 
 
 
@@ -55,17 +68,44 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1,World Cup 4k 2
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
+#EXTINF:-1,TNT sports
+https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+#EXTINF:-1,Caze_TV_BR
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+#EXTINF:-1,Caze_TV_BR 2
+https://1nyaler.streamhostingcdn.top/stream/27/index.m3u8
+#EXTINF:-1,Bein Sports 1 720p
+https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
+#EXTINF:-1,Win Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1,FS2
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+#EXTINF:-1 t,Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 ,D Sports
+https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
+#EXTINF:-1,DN
+https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
+#EXTINF:-1 ,ESPN S1
+https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
+#EXTINF:-1 ,ESPN S2
+http://186.33.40.97:8789/play/20
 
 
-
+#EXTINF:-1, Fox Sports 
+https://1nyaler.streamhostingcdn.top/stream/25/index.m3u8
 #EXTINF:-1, 01.Star Sports 1
 http://10.10.10.2/live/fnf005/index.m3u8
 #EXTINF:-1, 01.Star Sports 2
 http://10.10.10.2/live/fnf002/index.m3u8
 #EXTINF:-1, 01.Star sports 3
 http://10.10.10.2/live/fnf004/index.m3u8
+#EXTINF:-1, Sky sports 
+https://1nyaler.streamhostingcdn.top/stream/77/index.m3u8
 #EXTINF:-1, Ten 2
 http://10.10.10.2/live/fnf003/index.m3u8
+#EXTINF:-1, sports
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 
 
 
