@@ -21,6 +21,10 @@ http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2
 
 #EXTINF:-1,T sports 1
 http://10.10.10.2/live/fnf001/index.m3u8
+#EXTINF:-1, Somoi tv
+http://10.10.10.7:82/tsports-hd/tracks-v1a1/mono.m3u8
+#EXTINF:-1,T sports
+http://10.10.10.7:82/United_sport2/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Fox
 https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
 #EXTINF:-1,Fox
@@ -155,7 +159,7 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 
 #EXTINF:-1 ,Rtv HD
-https://tvsen5.aynaott.com/RtvHD/index.m3u8
+http://10.10.10.7:82/RTV/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1, 10.Bangla Vision
@@ -205,7 +209,7 @@ https://tvsen6.aynaott.com/asiantv/index.m3u8
 https://sm-monirul.top/toffee/play/bangla_tv.m3u8
 
 #EXTINF:-1 ,Mohona TV
-https://tvsen6.aynaott.com/mohonatv/index.m3u8
+http://10.10.10.7:82/MohonaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BIJOY TV
 https://sm-monirul.top/toffee/play/bijoytv.m3u8
 #EXTINF:-1 ,Gazi tv HD
@@ -217,13 +221,13 @@ https://tvsen6.aynaott.com/channel9/index.m3u8
 
 
 #EXTINF:-1 ,ANANDA TV
-https://tvsen6.aynaott.com/anandatv/index.m3u8
+http://10.10.10.7:82/AnandoTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,ANANDA TV
 https://sm-monirul.top/toffee/play/anandatv.m3u8
 #EXTINF:-1 ,NEXUS TV
 https://tvsen6.aynaott.com/nexustv/index.m3u8
 #EXTINF:-1 ,MY TV
-https://tvsen6.aynaott.com/mytv/index.m3u8
+http://10.10.10.7:82/MyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Rajdhani TV HD
 https://edge2.roarzone.net:8447/roarzone/edge3/rajdhani_tv/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj06BkOW8UjaOwpAilzrYTWRGVrKo7kxpI5MzUxivMCqSxr_0qxTqsxp8E-8nbVmIzxaM3Qrbm1jsJAiPcHDqOwzseVdGUC26pK2eaMmRbqKV9UHcMWtPl_lhIIKTv5YnESoG8bF5TJQCgoDLkTy8nhHdRMSydeD8Dh46TRLO8CiVVJtT1uecO2ehEtTg/s400/@nurmd2006_20250426_212613_0000.png", Movie Bangla 
@@ -264,10 +268,13 @@ http://103.158.133.62:8080/jalsha_movies_hd/tracks-v1a1/mono.m3u8
 http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sony
 https://sm-monirul.top/toffee/play/sonyentertainmnt_hd.m3u8
-#EXTINF:-1 ,Sony 2
-https://sm-monirul.top/toffee/play/sony_entertainment.m3u8
+#EXTINF:-1 ,movie club
+http://10.10.10.7:82/The_Movie_Club2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sony Att
 http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Sony Att
+http://10.10.10.7:82/Sony_Aath/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star Plus HD
 http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
 
@@ -414,6 +421,9 @@ http://103.159.180.34:5001/live/167.m3u8
 #EXTINF:-1 ,Music india
 http://103.159.180.34:5001/live/250.m3u8
 
+
+#EXTINF:-1 ,b4u music
+http://10.10.10.7:82/B4U_music/tracks-v1/mono.m3u8
 #EXTINF:-1 ,Zing
 http://103.159.180.34:5001/live/585.m3u8
 #EXTINF:-1 ,9xm
