@@ -25,31 +25,14 @@ http://10.10.10.2/live/fnf001/index.m3u8
 http://10.10.10.7:82/tsports-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T sports
 http://10.10.10.7:82/United_sport2/tracks-v1a1/mono.m3u8
-#EXTINF:-1,Fox
-https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+
 #EXTINF:-1,Fox
 http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1,United sports
 http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,FS1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
 
-#EXTINF:-1,T sports 2
-http://114.130.57.224:8080/T-Sports-KOS/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1,T sports 3
-http://114.130.57.224:8080/LIVE-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1,T sports 4
-http://114.130.57.224:8080/T-Sports/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1,T sports 5
-http://114.130.57.224:8080/T-sports-64/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1,T sports 6 new
-http://198.195.239.50:8095/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1,T sports 7
-http://198.195.239.50:8095/tsports/index.m3u8
-#EXTINF:-1,BTV
-http://114.130.57.224:8080/Fifa-1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1,BTV
-http://114.130.57.224:8080/Gazi-TV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+?
 #EXTINF:-1,BTV
 http://10.10.10.2/live/fnf007/index.m3u8
 #EXTINF:-1,Somoi tv
