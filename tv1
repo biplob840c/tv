@@ -38,6 +38,9 @@ http://198.195.239.50:8095/unt-s/video.m3u8
 
 #EXTINF:-1,BTV
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,BTV 2
+http://redforce.live:8082/BTV.HD/tracks-v1a1/mono.m3u8?token=032bd843b4674a25c3af6667d00b778f8a7db226-ac51a994a32077dde55840dc90549747-1782673453-1782662653
 #EXTINF:-1,Somoi tv
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1,Z
