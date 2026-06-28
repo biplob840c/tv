@@ -16,7 +16,8 @@ http://103.87.212.46/Data/MOVIES/BANGLA/2020//Biye.Com%20%282020%29/Biye.Com%20%
 http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian%20(Hindi%20Dubbed)/Coolie%20(2025)%201080p%20WEBDL.mp4
 #EXTINF:-1, 01.Ekanno barti
 http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2021).mkv
-
+#EXTINF:-1,Nick
+https://tv.emnetbd.com/flussonic/NICK/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,T sports 1
@@ -24,7 +25,10 @@ https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Somoi tv
 http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T sports
-http://10.10.10.7:82/United_sport2/tracks-v1a1/mono.m3u8
+http://redforce.live:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=b43f27dfd32ea0de282cf119310d89e3c56ed3b7-8f92e06c53aae37a4330a3237f0b9e6d-1782673389-1782662589
+
+#EXTINF:-1,PTV sports
+http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Fox
 http://84.17.50.102/fox/index.m3u8
@@ -41,8 +45,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 
 
 
-#EXTINF:-1, PTV sports
-http://10.10.10.2/live/fnf006/index.m3u8
+#EXTINF:-1, sony 1
+https://tv.emnetbd.com/flussonic/SONY1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, sony 2
+https://tv.emnetbd.com/flussonic/SONY2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1, sony 3
+https://tv.emnetbd.com/flussonic/SONY3/tracks-v1a1/mono.m3u8
+#EXTINF:-1, sony 5
+https://tv.emnetbd.com/flussonic/SONY5/tracks-v1a1/mono.m3u8
 
 
 
@@ -82,11 +94,11 @@ http://186.33.40.97:8789/play/20
 #EXTINF:-1, Fox Sports 
 https://1nyaler.streamhostingcdn.top/stream/25/index.m3u8
 #EXTINF:-1, 01.Star Sports 1
-http://10.10.10.2/live/fnf005/index.m3u8
+https://tv.emnetbd.com/flussonic/STAR1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, 01.Star Sports 2
-http://10.10.10.2/live/fnf002/index.m3u8
+https://tv.emnetbd.com/flussonic/STAR2/tracks-v1a1/mono.m3u8
 #EXTINF:-1, 01.Star sports 3
-http://10.10.10.2/live/fnf004/index.m3u8
+https://tv.emnetbd.com/flussonic/STAR3/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Sky sports 
 https://1nyaler.streamhostingcdn.top/stream/77/index.m3u8
 #EXTINF:-1, Ten 2
@@ -223,6 +235,9 @@ http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108829
 https://tvsen5.aynaott.com/Ravc7gPCZpxk/index.m3u8
 #EXTINF:-1 ,Akash 8
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
+
+#EXTINF:-1 ,enter 10
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
 http://103.175.242.10:8080/metv/index.m3u8
 
