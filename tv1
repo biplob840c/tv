@@ -27,6 +27,8 @@ http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T sports
 http://redforce.live:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=b43f27dfd32ea0de282cf119310d89e3c56ed3b7-8f92e06c53aae37a4330a3237f0b9e6d-1782673389-1782662589
 
+#EXTINF:-1,T sports 3
+http://172.20.5.50:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=88369a6b1643049449f72023811392300abd408b-f4f166386a3a78abddb6b377d23d6cf8-1782673528-1782662728
 #EXTINF:-1,PTV sports
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
