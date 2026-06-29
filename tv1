@@ -21,14 +21,13 @@ https://tv.emnetbd.com/flussonic/NICK/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,T sports 1
-https://tv.emnetbd.com/flussonic/Tsports1/tracks-v1a1/mono.m3u8
+http://redforce.live:8082/BTV.HD/tracks-v1a1/mono.m3u8?token=7af1c934da71d37112511775bee8debf41da9442-5090c494ad181aca5c8c1c823abb1a54-1782762372-1782751572
 #EXTINF:-1, Somoi tv
-http://198.195.239.50:8095/somoyTv/tracks-v1a1/mono.m3u8
+http://redforce.live:8082/BTV.HD/tracks-v1a1/mono.m3u8?token=7af1c934da71d37112511775bee8debf41da9442-5090c494ad181aca5c8c1c823abb1a54-1782762372-1782751572
 #EXTINF:-1,T sports
-http://redforce.live:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=b43f27dfd32ea0de282cf119310d89e3c56ed3b7-8f92e06c53aae37a4330a3237f0b9e6d-1782673389-1782662589
-
+http://172.20.5.50:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=63de242dacad6b72805ada552abd59368c43283a-8699688e29b700509997f5ee83357345-1782762481-1782751681
 #EXTINF:-1,T sports 3
-http://172.20.5.50:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=88369a6b1643049449f72023811392300abd408b-f4f166386a3a78abddb6b377d23d6cf8-1782673528-1782662728
+http://172.20.5.50:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=77d9faa02b7e122122507fcfac4e8e802c98808e-1498ead8632c19e3dbe613c55ea21173-1782762554-1782751754
 #EXTINF:-1,PTV sports
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
 
@@ -42,7 +41,7 @@ http://198.195.239.50:8095/unt-s/video.m3u8
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,BTV 2
-http://redforce.live:8082/BTV.HD/tracks-v1a1/mono.m3u8?token=032bd843b4674a25c3af6667d00b778f8a7db226-ac51a994a32077dde55840dc90549747-1782673453-1782662653
+http://redforce.live:8082/BTV.HD/tracks-v1a1/mono.m3u8?token=d5357013b98f92c3e526a3768d4b3eeb3867b178-9bb05150f9b6f40fce55a2cb5901e51e-1782762584-1782751784
 #EXTINF:-1,Somoi tv
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1,Z
