@@ -329,8 +329,23 @@ http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 ,National Geo
 http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1 ,Star sports 1
 http://180.94.28.28:8097//STAR-SPORTS-1/index.m3u8
+#EXTINF:-1 ,Star sports 2
+http://180.94.28.28:8097//Star-Sports-2/index.m3u8
+#EXTINF:-1 ,Ten 1
+http://180.94.28.28:8097//Sony-Ten-1/index.m3u8
+#EXTINF:-1 ,Ten 2
+http://180.94.28.28:8097//Sony-Ten-2/index.m3u8
+#EXTINF:-1 ,Ten 5
+http://180.94.28.28:8097//Sony-Ten-5/index.m3u8
+#EXTINF:-1 ,Star sports select 1
+http://180.94.28.28:8097//Star-Sports-Select-1/index.m3u8
+#EXTINF:-1 ,Star sports select 2
+http://180.94.28.28:8097//star-Sports-Select-2/index.m3u8
+
 
 
 
@@ -381,33 +396,31 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,HBO
 http://103.213.31.111/HBOHD/index.m3u8
-#EXTINF:-1 ,Movies now
-http://180.94.28.28:8097//MOVIES-NOW/index.fmp4.m3u8
 #EXTINF:-1 group-title="-",pix
 http://119.156.228.231:9983/stream/channelid/954608593?ticket=A3F142D5695D40EAE4AB168648D8D60F2296F424&profile=pass
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/STAR%20MOVIES%20HD1745040174.png",STAR MOVIES HD
+#EXTINF:-1 ,STAR MOVIES HD
 http://119.156.228.231:9983/stream/channelid/2092964041?ticket=B3AE3C8085CC2F07FDF21412B1C83BB0515F1A89&profile=pass
-#EXTINF:-1 group-title="-",STAR Movies Select HD
+#EXTINF:-1 ,STAR Movies Select HD
 http://119.156.228.231:9983/stream/channelid/929044861?ticket=F8A4A3BB5E85DBC80807DDFED1962B8AFF467E7F&profile=pass
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/MOVIES%20NOW%20HD1745040368.png",MOVIES NOW  HD
-http://203.18.159.115/MOVIESNOWHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/MN%20PLUS1745040057.png",MN PLUS HD
+#EXTINF:-1 ,MOVIES NOW  HD
+http://180.94.28.28:8097//MOVIES-NOW/index.fmp4.m3u8
+#EXTINF:-1 ,MN PLUS HD
 http://203.18.159.115/MNPLUS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/AXN%20HD1745045171.png",AXN HD
+#EXTINF:-1 ,AXN HD
 http://203.18.159.115/AXNHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/LOTUS%20TV1745044960.png",Lotus
+#EXTINF:-1 ,Lotus
 http://203.18.159.115/LOTUSTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY PIX HD
 http://103.229.254.25:7001/play/a0ed/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/AND%20FLIX%20HD1745040018.png",AND FLIX HD
+#EXTINF:-1 ,AND FLIX HD
 http://203.18.159.115/ANDFLIXHD/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/National%20Geographic1731468376.png",National Geographic
+#EXTINF:-1  ,National Geographic
 http://103.175.242.10:8080/natgeo/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/ANIMAL%20PLANET%20HD1745038671.png",ANIMAL PLANET HD
+#EXTINF:-1 ,ANIMAL PLANET HD
 http://203.18.159.115/ANIMALPLANETHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/TLC%20HD1745033484.png",TLC HD
+#EXTINF:-1 ,TLC HD
 http://203.18.159.115/TLCHD/tracks-v1a1/mono.m3u8
 
 
@@ -419,7 +432,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 #EXTINF:-1 ,19.Akash Att
 https://cdn-4.pishow.tv/live/969/969_1.m3u8
 
-#EXTINF:-1 tvg-id="SangeetBangla.in@SD" tvg-logo="https://i.imgur.com/b1B73Tp.png" group-title="Undefined",Sangeet Bangla (720p)
+#EXTINF:-1 ,Sangeet Bangla (720p)
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 ,21.Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
