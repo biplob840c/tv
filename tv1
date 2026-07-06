@@ -20,6 +20,12 @@ http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2
 
 #EXTINF:-1,BTV
 http://103.151.60.162:2121/play/a013/index.m3u8?hls
+
+#EXTINF:-1,somoi
+http://103.151.60.162:2121/play/a00z/index.m3u8?hls
+#EXTINF:-1, united sports hindi
+http://103.151.60.162:2121/play/a0f8/index.m3u8?hls
+
 #EXTINF:-1,T sports 1
 http://114.130.57.233:8080/LIVE-Sports/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1, Somoi tv
@@ -171,8 +177,8 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
 
 
 
-#EXTINF:-1 ,Rtv HD
-http://10.10.10.7:82/RTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,jolsha movies
+http://103.151.60.162:2121/play/a00x/index.m3u8?hls
 
 
 #EXTINF:-1, 10.Bangla Vision
