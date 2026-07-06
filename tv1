@@ -16,32 +16,49 @@ http://103.87.212.46/Data/MOVIES/BANGLA/2020//Biye.Com%20%282020%29/Biye.Com%20%
 http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian%20(Hindi%20Dubbed)/Coolie%20(2025)%201080p%20WEBDL.mp4
 #EXTINF:-1, 01.Ekanno barti
 http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2021).mkv
-#EXTINF:-1,Nick
-https://tv.emnetbd.com/flussonic/NICK/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,T sports 1
-http://redforce.live:8082/BTV.HD/tracks-v1a1/mono.m3u8?token=7af1c934da71d37112511775bee8debf41da9442-5090c494ad181aca5c8c1c823abb1a54-1782762372-1782751572
+http://114.130.57.233:8080/LIVE-Sports/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1, Somoi tv
-http://redforce.live:8082/BTV.HD/tracks-v1a1/mono.m3u8?token=7af1c934da71d37112511775bee8debf41da9442-5090c494ad181aca5c8c1c823abb1a54-1782762372-1782751572
+http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1,T sports
 http://172.20.5.50:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=63de242dacad6b72805ada552abd59368c43283a-8699688e29b700509997f5ee83357345-1782762481-1782751681
 #EXTINF:-1,T sports 3
-http://172.20.5.50:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=77d9faa02b7e122122507fcfac4e8e802c98808e-1498ead8632c19e3dbe613c55ea21173-1782762554-1782751754
+http://114.130.57.233:8080/TsportHD/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1,T sports 4
+http://114.130.57.233:8080/T-Sports/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
+
+#EXTINF:-1,BTV
+http://114.130.57.233:8080/Fifa-1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1,BTV 2
+http://114.130.57.233:8080/BTV/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1,BTV 3
+http://114.130.57.233:8080/BTV-HD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+#EXTINF:-1,United sports
+http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
+
+
+#EXTINF:-1,T sports 11111111
+http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+#EXTINF:-1,T sports
+http://103.165.93.31:8095/tsports/video.m3u8
+#EXTINF:-1,Somoi
+http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,btv
+http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
+#EXTINF:-1,United sports
+http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
+
+
 #EXTINF:-1,PTV sports
 http://198.195.239.50:8095/ptv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Fox
-http://84.17.50.102/fox/index.m3u8
 #EXTINF:-1,United sports
 http://198.195.239.50:8095/unt-s/video.m3u8
-
-
 #EXTINF:-1,BTV
 http://198.195.239.50:8095/btv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,BTV 2
-http://redforce.live:8082/BTV.HD/tracks-v1a1/mono.m3u8?token=d5357013b98f92c3e526a3768d4b3eeb3867b178-9bb05150f9b6f40fce55a2cb5901e51e-1782762584-1782751784
+
 #EXTINF:-1,Somoi tv
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1,Z
@@ -49,16 +66,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 
 
 
-#EXTINF:-1, sony 1
-https://tv.emnetbd.com/flussonic/SONY1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1, sony 2
-https://tv.emnetbd.com/flussonic/SONY2/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1, sony 3
-https://tv.emnetbd.com/flussonic/SONY3/tracks-v1a1/mono.m3u8
-#EXTINF:-1, sony 5
-https://tv.emnetbd.com/flussonic/SONY5/tracks-v1a1/mono.m3u8
 
 
 
@@ -74,8 +82,7 @@ http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 #EXTINF:-1,Caze_TV_BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
-#EXTINF:-1,Caze_TV_BR 2
-https://1nyaler.streamhostingcdn.top/stream/27/index.m3u8
+
 #EXTINF:-1,Bein Sports 1 720p
 https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
 
@@ -176,8 +183,7 @@ https://tvsen6.aynaott.com/etv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1, 14.Dipto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1, 14.Dipto TV
-https://tvsen5.aynaott.com/DeeptoTVHD/index.m3u8
+
 #EXTINF:-1 ,CHANNEL 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
 
@@ -202,8 +208,7 @@ https://tvsen6.aynaott.com/durontotv-live/index.m3u8
 
 
 #EXTINF:-1 ,asiantvHD
-https://tvsen6.aynaott.com/asiantv/index.m3u8
-
+https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 #EXTINF:-1 ,BanglaTV HD
 https://sm-monirul.top/toffee/play/bangla_tv.m3u8
 
@@ -269,7 +274,7 @@ http://103.158.133.62:8080/jalsha_movies_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,A sports
 http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sony
-https://sm-monirul.top/toffee/play/sonyentertainmnt_hd.m3u8
+http://119.156.228.231:9983/stream/channelid/148905550?ticket=D95C2C596ED07768CCE8E1D59F93D6330BF4EBA8&profile=pass
 #EXTINF:-1 ,movie club
 http://10.10.10.7:82/The_Movie_Club2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sony Att
@@ -291,13 +296,17 @@ https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8
 http://103.159.180.34:5001/live/165.m3u8
 #EXTINF:-1 ,SONY MAX HD
 http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Star Gold HD
-http://198.195.239.50:8095/StarGold/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY MAX HD
-http://198.195.239.50:8095/SonyMAX/tracks-v1a1/mono.m3u8
+http://119.156.228.231:9983/stream/channelid/1052904367?ticket=6666723409340575B6F7D32E46BF6C5A6205FD39&profile=pass
+#EXTINF:-1 ,Star Gold HD
+http://119.156.228.231:9983/stream/channelid/363433704?ticket=215AC4C7AD94EE684FA3BD51D8DC2E9DDC03ADD6&profile=pass
+#EXTINF:-1 ,Star gold 2
+http://119.156.228.231:9983/stream/channelid/282855773?ticket=DA9E56B48ED60751271B9CF8930975E3C50B84ED&profile=pass
 
-#EXTINF:-1 ,MAX
-https://sm-monirul.top/toffee/play/sony_max_hd.m3u8
+#EXTINF:-1 ,Star gold romance
+http://119.156.228.231:9983/stream/channelid/285724856?ticket=EA2350E521ECC0E86CFEA8099B7863CD7FE104FE&profile=pass
+#EXTINF:-1 ,Star gold select
+http://119.156.228.231:9983/stream/channelid/763749110?ticket=055238360DBEA848167280203C11851640C173C8&profile=pass
 #EXTINF:-1 ,MAX 2
 https://sm-monirul.top/toffee/play/sonymax_2.m3u8
 
@@ -356,16 +365,21 @@ http://103.175.242.10:8080/sonyaath/index.m3u8
 http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
 
 
+
+#EXTINF:-1 ,tom and jerry
+https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1 ,motu patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,HBO
 http://103.213.31.111/HBOHD/index.m3u8
 #EXTINF:-1 group-title="-",HBO
 https://tvsen5.aynaott.com/hbo/index.m3u8
-#EXTINF:-1 group-title="-",HBO 2
-https://tvsen7.aynaott.com/hbo2/index.m3u8
+#EXTINF:-1 group-title="-",pix
+http://119.156.228.231:9983/stream/channelid/954608593?ticket=A3F142D5695D40EAE4AB168648D8D60F2296F424&profile=pass
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/STAR%20MOVIES%20HD1745040174.png",STAR MOVIES HD
-http://103.229.254.25:7001/play/a02w/index.m3u8
+http://119.156.228.231:9983/stream/channelid/2092964041?ticket=B3AE3C8085CC2F07FDF21412B1C83BB0515F1A89&profile=pass
 #EXTINF:-1 group-title="-",STAR Movies Select HD
-http://103.229.254.25:7001/play/a02v/index.m3u8
+http://119.156.228.231:9983/stream/channelid/929044861?ticket=F8A4A3BB5E85DBC80807DDFED1962B8AFF467E7F&profile=pass
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/MOVIES%20NOW%20HD1745040368.png",MOVIES NOW  HD
 http://203.18.159.115/MOVIESNOWHD/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/MN%20PLUS1745040057.png",MN PLUS HD
