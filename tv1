@@ -207,7 +207,7 @@ https://app.ncare.live/streams/greentv.stream/playlist.m3u8
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 
 #EXTINF:-1 ,Duronto TV HD
-https://tvsen6.aynaott.com/durontotv-live/index.m3u8
+http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8
 
 
 
@@ -326,11 +326,11 @@ https://sm-monirul.top/toffee/play/andpicture_hd.m3u8
 #EXTINF:-1 ,Star Movies HD
 http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery
-https://sm-monirul.top/toffee/play/discovery_hd.m3u8
+http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
 #EXTINF:-1 ,National Geo
 http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1 ,Star sports 1
+http://180.94.28.28:8097//STAR-SPORTS-1/index.m3u8
 
 
 
@@ -381,8 +381,8 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,HBO
 http://103.213.31.111/HBOHD/index.m3u8
-#EXTINF:-1 group-title="-",HBO
-https://tvsen5.aynaott.com/hbo/index.m3u8
+#EXTINF:-1 ,Movies now
+http://180.94.28.28:8097//MOVIES-NOW/index.fmp4.m3u8
 #EXTINF:-1 group-title="-",pix
 http://119.156.228.231:9983/stream/channelid/954608593?ticket=A3F142D5695D40EAE4AB168648D8D60F2296F424&profile=pass
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/STAR%20MOVIES%20HD1745040174.png",STAR MOVIES HD
