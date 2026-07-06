@@ -39,6 +39,12 @@ http://114.130.57.233:8080/BTV-HD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 
+#EXTINF:-1,btv 0000
+http://180.94.28.28:8097//BTV/index.fmp4.m3u8
+#EXTINF:-1,United sports
+http://180.94.28.28:8097/Fifa-2026/index.m3u8
+
+
 #EXTINF:-1,T sports 11111111
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1,T sports
@@ -266,24 +272,27 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 ,JALSHA MOVIES HD
 http://103.229.254.25:7001/play/a0dt/index.m3u8
 #EXTINF:-1 ,Jolsha Movies
-http://198.195.239.50:8095/JalshaMovies/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Jolsha Movies 2
-http://103.158.133.62:8080/jalsha_movies_hd/tracks-v1a1/mono.m3u8
+http://180.94.28.28:8097//JALSHA-MOVIES/index.m3u8
+#EXTINF:-1 ,clors bangla cenema
+http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
 
 
-#EXTINF:-1 ,A sports
-http://198.195.239.50:8095/Eurosport/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 ,Star barat
+http://fastshare1.com/live/25711345/late8airline/745202.ts
 #EXTINF:-1 ,Sony
 http://119.156.228.231:9983/stream/channelid/148905550?ticket=D95C2C596ED07768CCE8E1D59F93D6330BF4EBA8&profile=pass
 #EXTINF:-1 ,movie club
 http://10.10.10.7:82/The_Movie_Club2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Sony Att
 http://198.195.239.50:8095/sonyAath/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,enter 10
+https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 
 #EXTINF:-1 ,Sony Att
-http://10.10.10.7:82/Sony_Aath/tracks-v1a1/mono.m3u8
+http://180.94.28.28:8097//SONY-AATH/index.m3u8
 #EXTINF:-1 ,Star Plus HD
-http://198.195.239.50:8095/StarPlus/tracks-v1a1/mono.m3u8
+http://180.94.28.28:8097//STAR-PLUS/index.fmp4.m3u8
 
 
 
