@@ -18,15 +18,16 @@ http://10.16.100.202/ftps10/iccftps10sasd7/Movies/South%20Indian%20(Hindi%20Dubb
 http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2021).mkv
 
 
+#EXTINF:-1,BTV
+http://103.151.60.162:2121/play/a013/index.m3u8?hls
 #EXTINF:-1,T sports 1
 http://114.130.57.233:8080/LIVE-Sports/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
 #EXTINF:-1, Somoi tv
 http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1,T sports
-http://172.20.5.50:8082/SOMOY.TV.HD/tracks-v1a1/mono.m3u8?token=63de242dacad6b72805ada552abd59368c43283a-8699688e29b700509997f5ee83357345-1782762481-1782751681
-#EXTINF:-1,T sports 3
+
+#EXTINF:-1,T sports 2
 http://114.130.57.233:8080/TsportHD/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1,T sports 4
+#EXTINF:-1,T sports 3
 http://114.130.57.233:8080/T-Sports/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
 
 #EXTINF:-1,BTV
