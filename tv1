@@ -305,8 +305,8 @@ http://180.94.28.28:8097//STAR-PLUS/index.fmp4.m3u8
 
 
 
-#EXTINF:-1 group-title="-",Zee Cinema HD
-https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8
+#EXTINF:-1 ,Zee Cinema HD
+http://103.151.60.162:2121/play/a012/index.m3u8?hls
 
 #EXTINF:-1 ,Zee Cinema HD
 http://103.159.180.34:5001/live/165.m3u8
@@ -319,6 +319,8 @@ http://119.156.228.231:9983/stream/channelid/363433704?ticket=215AC4C7AD94EE684F
 #EXTINF:-1 ,Star gold 2
 http://119.156.228.231:9983/stream/channelid/282855773?ticket=DA9E56B48ED60751271B9CF8930975E3C50B84ED&profile=pass
 
+#EXTINF:-1 ,Star gold 2
+http://103.151.60.162:2121/play/a01v/index.m3u8?hls
 #EXTINF:-1 ,Star gold romance
 http://119.156.228.231:9983/stream/channelid/285724856?ticket=EA2350E521ECC0E86CFEA8099B7863CD7FE104FE&profile=pass
 #EXTINF:-1 ,Star gold select
@@ -361,7 +363,8 @@ http://198.195.239.50:8095/CartoonNetwork/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Bangladesh" tvg-logo="http://103.144.89.251/assets/images/ZEE%20TV%20HD1745033383.png",ZEE TV HD
 http://203.18.159.115/ZEETVHD/tracks-v1a1/mono.m3u8
 
-
+#EXTINF:-1 ,jolsha
+http://103.151.60.162:2121/play/a00w/index.m3u8?hls
 #EXTINF:-1 ,Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
 #EXTINF:-1  ,Sony Att
@@ -419,6 +422,8 @@ http://203.18.159.115/AXNHD/tracks-v1a1/mono.m3u8
 http://203.18.159.115/LOTUSTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,SONY PIX HD
 http://103.229.254.25:7001/play/a0ed/index.m3u8
+#EXTINF:-1 ,SONY PIX
+http://103.151.60.162:2121/play/a01d/index.m3u8?hls
 #EXTINF:-1 ,AND FLIX HD
 http://203.18.159.115/ANDFLIXHD/tracks-v1a1/mono.m3u8
 
