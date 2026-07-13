@@ -58,10 +58,13 @@ http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 http://103.165.93.31:8095/tsports/video.m3u8
 #EXTINF:-1,Somoi
 http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,btv
+#EXTINF:-1,btv r
 http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,United sports
+
+#EXTINF:-1,MAX
 http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
+#EXTINF:-1,PTV sports
+http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1,PTV sports
@@ -91,19 +94,19 @@ http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
 http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
 #EXTINF:-1,World Cup 4k 2
 http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
-#EXTINF:-1,TNT sports
-https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
+#EXTINF:-1,willow
+http://27.124.71.27/Willow_Extra/index.m3u8
 #EXTINF:-1,Caze_TV_BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 
 
-#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",9XM
+#EXTINF:-1 ,9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1, 01.Star Sports 1
-https://tv.emnetbd.com/flussonic/STAR1/tracks-v1a1/mono.m3u8
-#EXTINF:-1, 01.Star Sports 2
-https://tv.emnetbd.com/flussonic/STAR2/tracks-v1a1/mono.m3u8
+http://103.253.18.58:8000/play/a00m
+#EXTINF:-1, ten 2
+http://202.70.146.135:8000/play/a06n/index.m3u8
 #EXTINF:-1, 01.Star sports 3
 https://tv.emnetbd.com/flussonic/STAR3/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Sky sports 
@@ -116,8 +119,8 @@ https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
 
 
 
-#EXTINF:-1, Bangla song
-https://tplay.live/originals/bengali-beats/index.m3u8
+#EXTINF:-1, ATN UK
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 
 
 #EXTINF:-1, Al Jajira
@@ -173,7 +176,10 @@ https://tvsen5.aynaott.com/ntvbd/index.m3u8
 #EXTINF:-1 ,Maasranga TV HD
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
 #EXTINF:-1 ,EKUSHEY
-https://tvsen6.aynaott.com/etv/index.m3u8
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+#EXTINF:-1 ,ETV
+https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+
 
 #EXTINF:-1, 14.Dipto TV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
@@ -205,6 +211,7 @@ http://180.94.28.28:8097//Duronto-TV/index.fmp4.m3u8
 
 #EXTINF:-1 ,asiantvHD
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+
 #EXTINF:-1 ,BanglaTV HD
 https://sm-monirul.top/toffee/play/bangla_tv.m3u8
 
@@ -213,17 +220,17 @@ http://10.10.10.7:82/MohonaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,BIJOY TV
 https://sm-monirul.top/toffee/play/bijoytv.m3u8
 #EXTINF:-1 ,Gazi tv HD
-http://198.195.239.50:8095/PTV-kutta/video.m3u8
+https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
 #EXTINF:-1 ,DESH TV
 https://tvsen6.aynaott.com/deshtv/index.m3u8
 #EXTINF:-1 CHANNEL 9
 https://tvsen6.aynaott.com/channel9/index.m3u8
 
 
-#EXTINF:-1 ,ANANDA TV
-http://10.10.10.7:82/AnandoTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,ANANDA TV
-https://sm-monirul.top/toffee/play/anandatv.m3u8
+#EXTINF:-1 ,Zee Bangla Cinema
+https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
+#EXTINF:-1 ,Zee Bangla Cinema
+https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
 #EXTINF:-1 ,NEXUS TV
 https://tvsen6.aynaott.com/nexustv/index.m3u8
 #EXTINF:-1 ,MY TV
@@ -248,8 +255,9 @@ http://103.175.242.10:8080/metv/index.m3u8
 
 #EXTINF:-1 ,Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
-#EXTINF:-1 ,Bangla Movie Classic 24
-https://tplay.live/playlist/movies/bangla-movies/index.m3u8
+
+#EXTINF:-1 , Movie club
+https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF:-1 ,9XM
 
 #EXTINF:-1 ,Hindi Hits HD
@@ -268,8 +276,8 @@ http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
 
 
 
-#EXTINF:-1 ,Star barat
-http://fastshare1.com/live/25711345/late8airline/745202.ts
+#EXTINF:-1 ,Star jolsha
+http://premiumtvs.space/live/1Aoen7elp5/IgMJ60tmAa/8540.ts
 #EXTINF:-1 ,Sony
 http://119.156.228.231:9983/stream/channelid/148905550?ticket=D95C2C596ED07768CCE8E1D59F93D6330BF4EBA8&profile=pass
 #EXTINF:-1 ,movie club
@@ -315,28 +323,15 @@ https://sm-monirul.top/toffee/play/sonymax_2.m3u8
 https://sm-monirul.top/toffee/play/andpicture_hd.m3u8
 
 
-#EXTINF:-1 ,Star Movies HD
-http://198.195.239.50:8095/StarMovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Discovery
-http://180.94.28.28:8097//DISCOVERY-BANGLA/index.fmp4.m3u8
-#EXTINF:-1 ,National Geo
-http://198.195.239.50:8095/NationalGeographic/tracks-v1a1/mono.m3u8
+http://103.253.18.58:8000/play/a01r
+#EXTINF:-1 ,national geo
+http://103.253.18.58:8000/play/a01l
+#EXTINF:-1 ,star movies
+http://103.253.18.58:8000/play/a01x
+#EXTINF:-1 ,pix
+http://103.253.18.58:8000/play/a01v
 
-
-#EXTINF:-1 ,Star sports 1
-http://180.94.28.28:8097//STAR-SPORTS-1/index.m3u8
-#EXTINF:-1 ,Star sports 2
-http://180.94.28.28:8097//Star-Sports-2/index.m3u8
-#EXTINF:-1 ,Ten 1
-http://180.94.28.28:8097//Sony-Ten-1/index.m3u8
-#EXTINF:-1 ,Ten 2
-http://180.94.28.28:8097//Sony-Ten-2/index.m3u8
-#EXTINF:-1 ,Ten 5
-http://180.94.28.28:8097//Sony-Ten-5/index.m3u8
-#EXTINF:-1 ,Star sports select 1
-http://180.94.28.28:8097//Star-Sports-Select-1/index.m3u8
-#EXTINF:-1 ,Star sports select 2
-http://180.94.28.28:8097//star-Sports-Select-2/index.m3u8
 
 
 
