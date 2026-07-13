@@ -96,27 +96,10 @@ https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 #EXTINF:-1,Caze_TV_BR
 https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
-#EXTINF:-1,Bein Sports 1 720p
-https://1nyaler.streamhostingcdn.top/stream/23/index.m3u8
-
-#EXTINF:-1,Win Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1,FS2
-https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
-#EXTINF:-1 t,Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 ,D Sports
-https://1nyaler.streamhostingcdn.top/stream/106/index.m3u8
-#EXTINF:-1,DN
-https://1nyaler.streamhostingcdn.top/stream/94/index.m3u8
-#EXTINF:-1 ,ESPN S1
-https://1nyaler.streamhostingcdn.top/stream/97/index.m3u8
-#EXTINF:-1 ,ESPN S2
-http://186.33.40.97:8789/play/20
 
 
-#EXTINF:-1, Fox Sports 
-https://1nyaler.streamhostingcdn.top/stream/25/index.m3u8
+#EXTINF:-1  tvg-logo="https://i.imgur.com/sqeIrMo.jpeg",9XM
+http://103.175.73.12:8080/live/155/155_0.m3u8
 #EXTINF:-1, 01.Star Sports 1
 https://tv.emnetbd.com/flussonic/STAR1/tracks-v1a1/mono.m3u8
 #EXTINF:-1, 01.Star Sports 2
@@ -406,6 +389,11 @@ https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,HBO
 http://103.213.31.111/HBOHD/index.m3u8
+#EXTINF:-1 ,STAR MOVIES HD 1
+http://66.102.126.10:8000/play/a021/index.m3u8
+#EXTINF:-1 ,STAR MOVIES select HD 1
+http://66.102.126.10:8000/play/a020/index.m3u8
+
 #EXTINF:-1 group-title="-",pix
 http://119.156.228.231:9983/stream/channelid/954608593?ticket=A3F142D5695D40EAE4AB168648D8D60F2296F424&profile=pass
 #EXTINF:-1 ,STAR MOVIES HD
