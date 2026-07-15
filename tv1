@@ -19,8 +19,10 @@ http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2
 
 EXTINF:-1,T sports
 http://172.20.5.50:8082/SOMOY.TV.HD/tracks-a1/mono.m3u8?token=bdd47922a800b75cac8134c880f5ef9831a7e2a5-ddb9a66c0ef3101d2775f13e35145e2f-1784152651-1784141851
+
 EXTINF:-1,T sports 2222
 http://172.20.5.50:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=4899daf74e9ae9f53faa40a95d69bddd62b0c383-9cb14de69a8a96fabc1fa681e2fa7e28-1784152773-1784141973
+
 EXTINF:-1,ptvsports 2222
 http://172.20.5.50:8082/PTV-SPORTS-HD/tracks-v1a1/mono.m3u8?token=e88effddc8be2ad958804a5f61a4dd46267a47ab-6e743371e9ab01f531f336ef390b2ec0-1784152815-1784142015
 
