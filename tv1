@@ -164,17 +164,17 @@ http://monirul.bro.bd/sm/live.php?id=my_tv&e=.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
 #EXTINF:-1, 14.Dipto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-
 #EXTINF:-1 ,CHANNEL 9
 https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-EXTINF:-1 , star plus
+
+
+
+#EXTINF:-1 ,star plus
 http://monirul.bro.bd/sm/live.php?id=star_plus_hd&e=.m3u8
-EXTINF:-1 , sony
+#EXTINF:-1 ,sony
 http://monirul.bro.bd/sm/live.php?id=sony_entertainmnt_hd&e=.m3u8
 #EXTINF:-1 , jolsha movies
 http://monirul.bro.bd/sm/live.php?id=jalsha_movies_hd&e=.m3u8
-
-
 
 
 #EXTINF:-1 ,max
@@ -194,8 +194,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
 
 #EXTINF:-1 ,SRk TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
-
-
 #EXTINF:-1 ,asiantvHD
 https://mtlivestream.com/hls/asian/ytlive/index.m3u8
 
@@ -217,7 +215,6 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 ,Akash 8
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
-
 #EXTINF:-1 ,enter 10
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1  ,Me TV
@@ -225,7 +222,6 @@ http://103.175.242.10:8080/metv/index.m3u8
 
 #EXTINF:-1 ,Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
-
 #EXTINF:-1 , Movie club
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
 #EXTINF:-1 ,9XM
@@ -233,9 +229,6 @@ https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 ,Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
-
-#EXTINF:-1 ,Channel 16
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel16bd.stream/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 ,clors bangla cenema
@@ -257,7 +250,6 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 #EXTINF:-1 ,Zee Cinema HD
 http://103.159.180.34:5001/live/165.m3u8
-
 #EXTINF:-1 ,Star gold 2
 http://119.156.228.231:9983/stream/channelid/282855773?ticket=DA9E56B48ED60751271B9CF8930975E3C50B84ED&profile=pass
 
