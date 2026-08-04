@@ -128,8 +128,7 @@ https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5
 #EXTINF:-1 , Desh tv
 https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f5457453b340d3b151330220813195c40085d0167.m3u8
 
-#EXTINF:-1 ,SA Tv
-https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f435369271d5f2b5c073231114f430c5d1056.m3u8
+
 #EXTINF:-1, zee cenema 
 
 #EXTINF:-1, star gold
@@ -161,8 +160,6 @@ https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_72
 
 #EXTINF:-1 , Movie Bangla 
 http://alvetv.com/moviebanglatv/8080/index.m3u8
-#EXTINF:-1 ,desh tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 
 #EXTINF:-1 ,Akash 8
 https://live.thebosstv.com:30443/dwlive/AAKAASH-AATH/chunks.m3u8
@@ -182,8 +179,6 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 
 
 
-#EXTINF:-1 ,clors bangla cenema
-http://180.94.28.28:8097//COLORS-BANGLA-CINEMA/index.m3u8
 
 
 
@@ -199,64 +194,15 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3
 
 
 
-#EXTINF:-1 ,Zee Cinema HD
-http://103.159.180.34:5001/live/165.m3u8
-#EXTINF:-1 ,Star gold 2
-http://119.156.228.231:9983/stream/channelid/282855773?ticket=DA9E56B48ED60751271B9CF8930975E3C50B84ED&profile=pass
 
 
 
 
-#EXTINF:-1 ,Discovery
-http://103.253.18.58:8000/play/a01r
-#EXTINF:-1 ,national geo
-http://103.253.18.58:8000/play/a01l
-#EXTINF:-1 ,star movies
-http://103.253.18.58:8000/play/a01x
-#EXTINF:-1 ,pix
-http://103.253.18.58:8000/play/a01v
 
-
-
-#EXTINF:-1 ,zee bangla 
-http://103.159.180.34:5001/live/625.m3u8
-
-
-\
 
 
 #EXTINF:-1 ,Zoom
 https://d2esfk1pb9cdob.cloudfront.net/master.m3u8
-#EXTINF:-1  ,Sony Att
-http://103.158.133.62:8080/sonyaath/tracks-v1a1/mono.m3u8
-#EXTINF:-1  ,star jolsha
-http://103.158.133.62:8080/star_jalsha_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  ,zee bangla
-http://103.159.180.34:5001/live/625.m3u8
-#EXTINF:-1  ,zee bangla
-http://103.158.133.62:8080/zee_bangla_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1  ,zee bangla cenema
-http://198.195.239.50:8095/ZeeBanglaCinema/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Star%20Jalsha1732256743.png",zee bangla
-http://103.175.242.10:8080/starjalsha/index.m3u8
-#EXTINF:-1 ,BENGALI ▎ZEE BANGLA HD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/112571
-#EXTINF:-1 ,BENGALI ▎ZEE BANGLA CINEMA
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/112575
-#EXTINF:-1 ,BANGLA ▎ZEE BANGLA CINEMA
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108845
-#EXTINF:-1 ,BENGALI ▎STAR JALSHA HD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/63525
-#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Zee%20Bangla1731406932.png",Zee Bangla
-http://103.175.242.10:8080/zeebangla/index.m3u8
-#EXTINF:-1 ,BANGLA ▎COLORS BANGLA HD
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108781
-#EXTINF:-1 ,Colors Bangla Cinema
-http://103.229.254.25:7001/play/a078/index.m3u8
-#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Sony%20Aath1731407792.png",Sony Aath
-http://103.175.242.10:8080/sonyaath/index.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="http://redforce.live/assets/images/SUN%20BANGLA%20HD1745033791.png",Sun Bangla Hd
-http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
 
 
 
@@ -264,42 +210,7 @@ http://203.18.159.115/SUNBANGLAHD/tracks-v1a1/mono.m3u8
 https://live20.bozztv.com/giatvplayout7/giatv-208314/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 ,motu patlu
 https://live20.bozztv.com/giatvplayout7/giatv-209622/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 ,HBO
-http://103.213.31.111/HBOHD/index.m3u8
-#EXTINF:-1 ,STAR MOVIES HD 1
-http://66.102.126.10:8000/play/a021/index.m3u8
-#EXTINF:-1 ,STAR MOVIES select HD 1
-http://66.102.126.10:8000/play/a020/index.m3u8
-
-#EXTINF:-1 group-title="-",pix
-http://119.156.228.231:9983/stream/channelid/954608593?ticket=A3F142D5695D40EAE4AB168648D8D60F2296F424&profile=pass
-#EXTINF:-1 ,STAR MOVIES HD
-http://119.156.228.231:9983/stream/channelid/2092964041?ticket=B3AE3C8085CC2F07FDF21412B1C83BB0515F1A89&profile=pass
-#EXTINF:-1 ,STAR Movies Select HD
-http://119.156.228.231:9983/stream/channelid/929044861?ticket=F8A4A3BB5E85DBC80807DDFED1962B8AFF467E7F&profile=pass
-#EXTINF:-1 ,MOVIES NOW  HD
-http://180.94.28.28:8097//MOVIES-NOW/index.fmp4.m3u8
-#EXTINF:-1 ,MN PLUS HD
-http://203.18.159.115/MNPLUS/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,AXN HD
-http://203.18.159.115/AXNHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,Lotus
-http://203.18.159.115/LOTUSTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,SONY PIX HD
-http://103.229.254.25:7001/play/a0ed/index.m3u8
-#EXTINF:-1 ,SONY PIX
-http://103.151.60.162:2121/play/a01d/index.m3u8?hls
-#EXTINF:-1 ,AND FLIX HD
-http://203.18.159.115/ANDFLIXHD/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1  ,National Geographic
-http://103.175.242.10:8080/natgeo/index.m3u8
-#EXTINF:-1 ,ANIMAL PLANET HD
-http://203.18.159.115/ANIMALPLANETHD/tracks-v1a1/mono.m3u8
-#EXTINF:-1 ,TLC HD
-http://203.18.159.115/TLCHD/tracks-v1a1/mono.m3u8
-
+#
 
 
 
@@ -314,27 +225,7 @@ https://cdn-4.pishow.tv/live/1143/master.m3u8
 #EXTINF:-1 ,21.Bangla +
 https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 
-#EXTINF:-1 ,Hindi song
-http://45.148.145.57/TSER247/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,Star Bangla
-http://103.229.254.25:7001/play/a0eo/index.m3u8
-
-#EXTINF:-1 ,Discovery
-https://mumbai-edge.smartplaytv.in/Discovery/index.m3u8
-#EXTINF:-1 ,Discovery Bangla
-http://103.159.180.34:5001/live/573.m3u8
-#EXTINF:-1 ,animel planet
-http://103.159.180.34:5001/live/286.m3u8
-#EXTINF:-1 ,animel planet hindi
-http://103.159.180.34:5001/live/566.m3u8
-
-#EXTINF:-1 ,Travel
-http://103.159.180.34:5001/live/164.m3u8
-#EXTINF:-1 ,Z TV
-http://103.159.180.34:5001/live/167.m3u8
-#EXTINF:-1 ,Music india
-http://103.159.180.34:5001/live/250.m3u8
 
 
 
@@ -342,29 +233,9 @@ http://103.159.180.34:5001/live/250.m3u8
 http://103.159.180.34:5001/live/585.m3u8
 #EXTINF:-1 ,9xm
 https://9xjio.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1 ,9xm t
-https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
-
-#EXTINF:-1 ,23. khusbo
-https://cdn-4.pishow.tv/live/1473/1473_2.m3u8
-
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://www.jagobd.com/wp-content/uploads/2024/09/desitv.png",Deshi TV
-https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
-
-#EXTINF:-1 ,23. me tv
-https://iptvbd.live/metv1080/1080.m3u8
-#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/Me%20TV1731468257.png",Me TV
-http://103.175.242.10:8080/metv/index.m3u8
-#EXTINF:-1 ,23. channel A1
-https://stream.shariarsuvo.com/hls_live2/channela1.m3u8
-
 
 #EXTINF:-1 group-title="Music" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png",YRF Music
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://i.imgur.com/kXTCYqg.png" group-title="Music",Music India (720p) [Not 24/7]
-https://cdn-2.pishow.tv/live/226/master.m3u8
-
 
 
 
@@ -376,10 +247,6 @@ https://aajtaklive-amd.akamaized.net/hls/live/2014416/aajtak/aajtaklive/live_404
 
 #EXTINF:-1 group-title="Drama" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/bf/DangalTVLogo.png",Dangal
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
-#EXTINF:-1 ,CNN
-https://amg01448-samsungin-cnnnow-samsungin-4npqg.amagi.tv/playlist/amg01448-samsungin-cnnnow-samsungin/playlist.m3u8
-#EXTINF:-1 ,DD National
-https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
 
 
 
@@ -396,83 +263,7 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/in
 
 
 
-old Akash
 
-#EXTINF:-1, 03.BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/1709-audio_113392_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 04.Jumuna
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/1701-audio_113312_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 05.71
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/1705-audio_113352_eng=113200-video=1692000.m3u8
-#EXTINF:-1 group-title="Bangladesh" tvg-logo="https://www.jagobd.com/wp-content/uploads/2025/12/images.jpeg",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1, 07.Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/1703-audio_113332_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 08.Somoi
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/1702-audio_113322_eng=113200-video=1692000.m3u8
-#EXTINF:-1  tvg-logo="http://103.175.242.10/assets/images/ATN%20News1731520019.png",ATN News
-http://103.175.242.10:8080/atnnews/index.m3u8
-#EXTINF:-1 ,BANGLA ▎DBC NEWS
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1, 09.indepen
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704-audio_113342_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 09.Ekhon
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
-#EXTINF:-1, 09.News 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-
-
-#EXTINF:-1, 12.ATN bangla
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/1722-audio_113522_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 13.Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/1723-audio_113532_eng=113200-video=1692000.m3u8
-#EXTINF:-1, 11.NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/1716-audio_113462_eng=113200-video=1692000.m3u8
-#EXTINF:-1 ,BANGLA ▎RTV
-http://mag.king-4k.cc:80/C1645263A1D245C/1sFTVBSVCP/108833
-#EXTINF:-1, 10.Bangla Vision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/1715-audio_113452_eng=113200-video=1692000.m3u8
-#EXTINF:-1 ,EKUSHEY
-http://103.229.254.25:7001/play/a05x/index.m3u8
-#EXTINF:-1, 14.Dipto TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/1711-audio_113412_eng=113200-video=1692000.m3u8
-#EXTINF:-1 ,CHANNEL 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1 group-title="BANGLA" tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Green_TV_Logo.png",GREEN TV HD
-https://app.ncare.live/streams/greentv.stream/playlist.m3u8
-
-
-
-#EXTINF:-1 ,24.Animal
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282023%29/Animal%20%282023%29%201080p/Animal%20%282023%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 ,24.Zee Bangla
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8?hdnts=
-#EXTINF:-1 ,24.Ground Zero hasmi 2025 movie
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Ground%20Zero%20%282025%29%201080p/Ground%20Zero%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 ,24.h full 1080p
-https://cdn1.discoveryftp.net/Movies/Hindi/2025/Housefull%205%20A/Housefull.5A.2025.1080p.Hindi.WEB-DL.5.1.ESub.x264-HDHub4u.Ms.mkv
-#EXTINF:-1 ,24.Brammasro
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282022%29/Brahmastra-Part%20One%20-%20Shiva%20%282022%29%201080p/Brahmastra%20Part%20One%20Shiva%20%282022%29%20Hindi%201080p%20DSNP%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 ,24.saiyara 1080p
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Saiyaara%20%282025%29%201080p/Saiyaara%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 ,24.bhotni 1080p
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/The%20Bhootnii%20%282025%29%201080p/The%20Bhootnii%20%282025%29%20Hindi%201080p%20Zee5%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-
-#EXTINF:-1 ,24.ggg 1080p
-http://172.16.50.14/DHAKA-FLIX-14/SOUTH%20INDIAN%20MOVIES/Hindi%20Dubbed/%282025%29/Gajaana%20%282025%29%201080p%20%28Hindi%20Dubbed%29/Gajaana%20%282025%29%20Hindi%20Dubbed%201080p%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv
-#EXTINF:-1 ,24.chorri
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Chhorii%202%20%282025%29%20720p/Chhorii%202%20%282025%29%20Hindi%20720p%20AMZN%20WEBRip%20x264%20AAC%205.1%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 ,24.Dhadak
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Dhadak%202%20%282025%29%201080p/Dhadak%202%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 ,24.Tehran
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Tehran%20%282025%29%201080p/Tehran%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20MSubs%20-%20mkvCinemas.mkv
-#EXTINF:-1 ,24.san of sarder
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Son%20of%20Sardaar%202%20%282025%29%201080p/Son%20of%20Sardaar%202%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
-#EXTINF:-1 ,24.love in vietnam
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Love%20in%20Vietnam%20%282025%29%20720p%20HDTC/Love%20in%20Vietnam%20%282025%29%20Hindi%20720p%20HDTC%20x264%20AAC%20-%20CineVood.mkv
-#EXTINF:-1 ,24.The Diplomat (2025) 1080p
-http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/The%20Diplomat%20%282025%29%201080p/The%20Diplomat%20%282025%29%20Hindi%201080p%20NF%20WEBRip%20x264%20DD5.1%20ESub%20-%20mkvCinemas.mkv
 #EXTINF:-1 ,Thamma (2025) 1080p
 http://172.16.50.14/DHAKA-FLIX-14/Hindi%20Movies/%282025%29/Thamma%20%282025%29%201080p/Thamma%20%282025%29%20Hindi%201080p%20AMZN%20WEBRip%20x265%20HEVC%2010bit%20DD5.1%20ESub%20-%20HDHub4u.mkv
 #EXTINF:-1 ,bhediya (2025) 1080p
