@@ -20,60 +20,17 @@ http://10.10.10.3/Data/Indian%20Bangla/new/Ekannoborti%20(2021)/Ekannoborti%20(2
 
 
 
-#EXTINF:-1,ATN
-https://go.skym3u.top/94x6.m3u?channel=aHR0cHM6Ly9vd3Jjb3ZjcnB5LmdwY2RuLm5ldC9icGstdHYvMTcyMi9vdXRwdXQvaW5kZXgubTN1OA&ext=.m3u8
-#EXTINF:-1,somoi
-https://go.skym3u.top/pbvp.m3u?channel=aHR0cHM6Ly9saXZlLnRoZWJvc3N0di5jb206MzA0NDMvZHdsaXZlL1NvbW95LVRWL2NodW5rcy5tM3U4
-
-#EXTINF:-1,PTV sports
-http://172.20.5.50:8082/T-SPORTS-HD/tracks-v1a1/mono.m3u8?token=5a68bafd909c07e159e10fd8d49d064449229152-c61b7dc68e2cf1186366e83738c9e505-1784493838-1784483038
-#EXTINF:-1,T sports
-http://monirul.bro.bd/sm/live.php?id=t_sports_hd_2&e=.m3u8
-#EXTINF:-1,T sports 2
-http://monirul.bro.bd/sm/live.php?id=t_sports_hd&e=.m3u8
-#EXTINF:-1, somoi tv
-http://monirul.bro.bd/sm/live.php?id=somoy_tv_hd&e=.m3u8
-#EXTINF:-1,BTV
-http://monirul.bro.bd/sm/live.php?id=fifa-world-cup&e=.m3u8
-#EXTINF:-1,T sports 222222222
 
 
 
-#EXTINF:-1,T sports 1
-http://114.130.57.233:8080/LIVE-Sports/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1, Somoi tv
-http://114.130.57.233:8080/Somoy-TV-3Mb/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1,T sports 2
-http://114.130.57.233:8080/TsportHD/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1,T sports 3
-http://114.130.57.233:8080/T-Sports/tracks-v1a1a2/mono.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1,BTV
-http://114.130.57.233:8080/Fifa-1/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-
-#EXTINF:-1,BTV 2
-http://114.130.57.233:8080/BTV-HD/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
-#EXTINF:-1,MAX
-http://114.130.57.233:8080/unitedsports-bdixbd.net/tracks-v1a1/mono.m3u8?token=SkQuhAXZxgBan1
 
 
 
-#EXTINF:-1,T sports 11111111
-http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
-#EXTINF:-1,T sports
-http://103.165.93.31:8095/tsports/video.m3u8
-#EXTINF:-1,Somoi
-http://103.165.93.31:8095/somoyTv/tracks-v1a1/mono.m3u8
-#EXTINF:-1,btv 
-http://103.165.93.31:8095/btv/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1,MAX
-http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
-#EXTINF:-1,PTV sports
-http://103.165.93.31:8095/ptv/tracks-v1a1/mono.m3u8
-
-
+#EXTINF:-1, T Sports
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f446d4523040b39402a37344314021303041a49713e56164a.m3u8
+#EXTINF:-1, willow
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f475b5a3f040e12470379360a0000001a5840196c265d.m3u8
 #EXTINF:-1,Z
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 
@@ -83,32 +40,16 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/Zeebanglahd.m3u8
 
 
 
-#EXTINF:-1,World Cup Sper sports 1
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/745149.ts
-#EXTINF:-1,World Cup Sper sports 2
-http://rgkkw.live/live/1Aoen7elp5/IgMJ60tmAa/741566.ts
-#EXTINF:-1,World Cup 4k 1
-http://starhub.pro/live/farhat-3379/67897-913379/745269.ts
-#EXTINF:-1,World Cup 4k 2
-http://starhub.pro/live/farhat-3379/67897-913379/745270.ts
-#EXTINF:-1,willow
+
+#EXTINF:-1,Sanonda tv
 http://27.124.71.27/Willow_Extra/index.m3u8
-#EXTINF:-1,Caze_TV_BR
-https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
 
 
 
 #EXTINF:-1 ,9XM
 http://103.175.73.12:8080/live/155/155_0.m3u8
-#EXTINF:-1, 01.Star Sports 1
-http://monirul.bro.bd/sm/live.php?id=star_sports_1&e=.m3u8
-#EXTINF:-1, ten 2
-http://202.70.146.135:8000/play/a06n/index.m3u8
-#EXTINF:-1, ten 2
-http://monirul.bro.bd/sm/live.php?id=sony_ten_2_hd&e=.m3u8
 
-#EXTINF:-1, ten cricket 
-http://monirul.bro.bd/sm/live.php?id=ten_cricket&e=.m3u8
+
 
 
 
@@ -117,80 +58,82 @@ http://monirul.bro.bd/sm/live.php?id=ten_cricket&e=.m3u8
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnbanglauk-off.stream/playlist.m3u8
 
 
-#EXTINF:-1, Al Jajira
-https://owrcovcrpy.gpcdn.net/bpk-tv/1721/output/index.m3u8
+
 #EXTINF:-1,BTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
+
 #EXTINF:-1,Jumuna
-https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f5a535b26051812470379360a0000001a5840196c265d.m3u8
 #EXTINF:-1 ,71
-https://owrcovcrpy.gpcdn.net/bpk-tv/1705/output/index.m3u8
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f555957271f163f6c012976031d1f0c0f11535a3260105b.m3u8
 #EXTINF:-1 ,Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
+
 #EXTINF:-1, Channel 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
+
 #EXTINF:-1, Channel 1
-https://owrcovcrpy.gpcdn.net/bpk-tv/1702/output/index.m3u8
+
 #EXTINF:-1 ,DBC NEWS
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f5450550c051c3a4053393f171f0c15534b03472a6b.m3u8
 #EXTINF:-1, 09.indepen
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
-#EXTINF:-1, Mokkah tv
-https://owrcovcrpy.gpcdn.net/bpk-tv/1713/output/index.m3u8
+
+#EXTINF:-1, Somoi
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f435d5b3c1226394553393f171f0c15534b03472a6b.m3u8
 #EXTINF:-1, News 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
+
 
 
 
 #EXTINF:-1 , ATN Bangla 
-http://monirul.bro.bd/sm/live.php?id=atn_bangla&e=.m3u8
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f5146580c09182354193e76031d1f0c0f11535a3260105b.m3u8
 #EXTINF:-1 ,Maasranga TV 
-https://owrcovcrpy.gpcdn.net/bpk-tv/1722/output/index.m3u8
+
 #EXTINF:-1, 13.Channel I
-https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f535a573d051c216c1c79360a0000001a5840196c265d.m3u8
 
 
 #EXTINF:-1, 11.NTV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1716/output/index.m3u8
-
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f5e4640750d163f5e142b6d4b1f5e1456.m3u8
+#EXTINF:-1, Rtv
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f424640750d163f5e142b6d4b1f5e1456.m3u8
 
 
 
 
 #EXTINF:-1, 10.Bangla Vision
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f52535834071812451c2c390a1c4b07011703152b6e4b0e41104c.m3u8
 
 #EXTINF:-1 ,EKUSHEY
-http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f554640750d163f5e142b6d4b1f5e1456.m3u8
 #EXTINF:-1 ,ETV
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 
 
 #EXTINF:-1 ,my tv 
-http://monirul.bro.bd/sm/live.php?id=my_tv&e=.m3u8
-#EXTINF:-1, 14.Dipto TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1711/output/index.m3u8
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f5d4b69271d5f2b5c073231114f430c5d1056.m3u8
+#EXTINF:-1 ,Anando tv
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f515c573d0f1812470379360a0000001a5840196c265d.m3u8
+#EXTINF:-1, 14.Duronto
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f5447443c050d226c012976031d1f0c0f11535a3260105b.m3u8
 #EXTINF:-1, 14.Dipto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 ,CHANNEL 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
+#EXTINF:-1 ,Bangla tv
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f52535834071812470379360a0000001a5840196c265d.m3u8
 
 
 
-#EXTINF:-1 ,star plus
-http://monirul.bro.bd/sm/live.php?id=star_plus_hd&e=.m3u8
-#EXTINF:-1 ,sony
-http://monirul.bro.bd/sm/live.php?id=sony_entertainmnt_hd&e=.m3u8
+#EXTINF:-1 ,Mohona
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f5d5d5e3c051812470379360a0000001a5840196c265d.m3u8
+#EXTINF:-1 ,bijoy
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f525b5c3c1226394553393f171f0c15534b03472a6b.m3u8
 #EXTINF:-1 , jolsha movies
-http://monirul.bro.bd/sm/live.php?id=jalsha_movies_hd&e=.m3u8
+
 
 
 #EXTINF:-1 ,max
-http://monirul.bro.bd/sm/live.php?id=sony_max_hd&e=.m3u8
+
 #EXTINF:-1, zee cenema 
-http://monirul.bro.bd/sm/live.php?id=zee_cinema_hd&e=.m3u8
+
 #EXTINF:-1, star gold
-http://monirul.bro.bd/sm/live.php?id=star_gold_hd&e=.m3u8
+
 
 
 
@@ -198,12 +141,12 @@ http://monirul.bro.bd/sm/live.php?id=star_gold_hd&e=.m3u8
 
 
 #EXTINF:-1 ,SA TV HD
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f435369271d5f2b5c073231114f430c5d1056.m3u8
 
 #EXTINF:-1 ,SRk TV
 https://srknowapp.ncare.live/srktvhlswodrm/srktv.stream/playlist.m3u8
 #EXTINF:-1 ,asiantvHD
-https://mtlivestream.com/hls/asian/ytlive/index.m3u8
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f51415f320526394553393f171f0c15534b03472a6b.m3u8
 
 
 #EXTINF:-1 ,Gazi tv HD
@@ -232,8 +175,8 @@ http://103.175.242.10:8080/metv/index.m3u8
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1 , Movie club
 https://cc-r5hupcym5oehh.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-r5hupcym5oehh/SBUM/RunnTV/BollyFlix_IN/BollyFlix_IN.m3u8
-#EXTINF:-1 ,9XM
-
+#EXTINF:-1 ,TSN
+https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f4441580c5a5f2b5c073231114f430c5d1056.m3u8
 #EXTINF:-1 ,Hindi Hits HD
 http://146.59.253.52:8080/hindihitshd/index.m3u8
 
