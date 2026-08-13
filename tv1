@@ -43,6 +43,10 @@ https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5
 
 #EXTINF:-1,Sanonda tv
 http://27.124.71.27/Willow_Extra/index.m3u8
+#EXTINF:-1,Sanonda
+http://live-stream.amarbanglatv.in:8080/hls/sanandatv/index.m3u8
+#EXTINF:-1,Sanonda
+http://27.124.71.27/Sun_Bangla/index.m3u8
 
 
 
@@ -116,7 +120,11 @@ https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1 ,Anando tv
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/anandatv.stream/index.m3u8
 #EXTINF:-1, 14.Duronto
-https://go.skym3u.top/live/3b1f0d3d095a7023085f000e000c1c01337d110c024a34325d5e5b442607260440193e3d3a21204e1e17010c267d150b025a1d3b0f5447443c050d226c012976031d1f0c0f11535a3260105b.m3u8
+https://tvsen6.aynaott.com/6xyZ3N4oHv2KBJdB6W4p/index.m3u8
+#EXTINF:-1, nick bangla
+http://live.balajibroadband.com:3500/live/1341.m3u8
+#EXTINF:-1, pogo
+https://stream.ottplus.live/live/pogo_sd_abr/index.m3u8
 #EXTINF:-1, 14.Dipto TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 #EXTINF:-1 ,Bangla tv
@@ -137,6 +145,8 @@ http://rgkkw.live:80/live/1Aoen7elp5/IgMJ60tmAa/425.ts
 #EXTINF:-1, Star Plus 
 http://202.70.146.135:8000/play/a009/index.m3u8
 
+#EXTINF:-1, colors bangla 
+http://103.165.93.31:8095/colorsBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1, star gold
 
 
@@ -164,6 +174,8 @@ https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxI
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
 #EXTINF:-1 ,Zee Bangla Cinema
 https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+
+
 #EXTINF:-1 ,Zee Bangla
 http://103.159.180.34:5001/live/625.m3u8
 
